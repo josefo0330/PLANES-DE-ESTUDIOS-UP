@@ -1,0 +1,220 @@
+﻿Fecha: 22/10/2020 Pagina 1 de 4
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 02 PERIODISMO
+     Carrera : 01 LIC. PERIODISMO.
+
+  Código del Plan: 0006 No_Acuerdo: Fecha Creación : 25-FEB-2013
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PERIODISMO (NUCLEO) (REFORMADO)
+Título      : LICENCIADA/LICENCIADO EN PERIODISMO
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+21042 SOC 100 SOCIOLOGIA DE LA COMUNICACION 3 3 0 0 0 REGULAR
+21043 CS 100 INTRODUCCIÓN A LA COMUNICACIÓN 3 3 0 0 0 FUNDAMENTAL
+21045 PER 100 FUNDAMENTOS DEL PERIODISMO 3 3 0 0 0 FUNDAMENTAL
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR
+22476 NCIF 0005 INFORMATICA Y REDES DE APRENDIZAJE 2 1 2 0 0 REGULAR I
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+21047 ING 100B INGLES GENERAL II 3 2 2 0 0 REGULAR
+21049 SOC 120 PROBLEMAS SOCIALES CONTEMPORANEOS 3 3 0 0 0 REGULAR
+21050 CS 110 LENGUAJE DE LA COMUNICACIÓN 3 3 0 0 0 FUNDAMENTAL
+21052 PSC 100 RELACIONES HUMANAS 3 3 0 0 0 REGULAR
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+22478 NCFI 0007 TEORIA DE LA CIENCIA 2 1 2 0 0 REGULAR I
+22490 NCED 0019 ATENCION A LA DIVERSIDAD 2 2 0 0 0 REGULAR I
+22492 NCCO 0021 COMUNICACION INTEGRAL 2 1 2 0 0 REGULAR
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+21101 PER 200A GENEROS INFORMATIVOS 3 2 2 0 0 FUNDAMENTAL
+21102 PER 240A DISEÑO DE PERIODICO I 3 1 3 0 0 FUNDAMENTAL
+21105 PER 220A FOTOGRAFIA PERIODISTICA E INFOGRAFIA I 3 1 3 0 0 FUNDAMENTAL
+21106 CS 230A TEORÍA DE LA COMUNICACIÓN 3 3 0 0 0 FUNDAMENTAL
+21107 ING 120 INGLES III 3 2 2 0 0 REGULAR
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+
+
+
+Fecha: 22/10/2020 Pagina 2 de 4
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 02 PERIODISMO
+     Carrera : 01 LIC. PERIODISMO.
+
+  Código del Plan: 0006 No_Acuerdo: Fecha Creación : 25-FEB-2013
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PERIODISMO (NUCLEO) (REFORMADO)
+Título      : LICENCIADA/LICENCIADO EN PERIODISMO
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22484 NCMI 0013 METODOLOGIA DE LA INVESTIGACION 2 1 2 0 0 REGULAR
+22486 NCMA 0015 MATEMATICA 2 1 2 0 0 REGULAR I
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+01887 PER 455 APREC Y ANAL CINEMATOGRAFICO 2 1 4 0 0 FUNDAMENTAL
+21108 PER 200B GENEROS INFORMATIVOS II 3 2 2 0 0 FUNDAMENTAL
+21109 PER 240B DISEÑO DE PERIODICO II 3 1 3 0 0 FUNDAMENTAL
+21110 CS 260B METODOLOGIA DE LA INVESTIGACION II 3 2 2 0 0 FUNDAMENTAL 09364 12 02 01 0003
+21111 PER 220B FOTOGRAFIA PERIODISTICA E INFOGRAFIA II 3 2 2 0 0 FUNDAMENTAL
+21112 CS 230B TEORIA DE LA COMUNICACION II 3 3 0 0 0 FUNDAMENTAL
+21113 ING 125 INGLES GENERAL  IV 3 2 2 0 0 REGULAR
+21114 CS 340 USO Y MANEJO DE LA VOZ 2 1 3 0 0 FUNDAMENTAL
+21146 PER 215 INTERNET EN LA INVEST PERIODISTICA 2 1 0 0 3 FUNDAMENTAL
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+21115 PER 300A GENEROS INTERPRETATIVOS 3 1 3 0 0 FUNDAMENTAL
+21116 PER 320 PRODUCCION PERIODISTICA RADIAL 3 1 3 0 0 FUNDAMENTAL
+21117 CS 330A OPINION PUBLICA I 3 2 2 0 0 FUNDAMENTAL
+21118 PER 340 PERIODISMO JUDICIAL 3 3 0 0 0 FUNDAMENTAL
+21120 CS 350 COMUNICACION Y PROPAGANDA 3 3 0 0 0 FUNDAMENTAL
+21121 RP 315 COMUNICACION CORPORATIVA 2 3 0 0 0 FUNDAMENTAL
+21122 PER 345 EL PERIODISMO EN LA SOCIEDAD DE LA INF 2 3 0 0 0 FUNDAMENTAL
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+
+
+Fecha: 22/10/2020 Pagina 3 de 4
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 02 PERIODISMO
+     Carrera : 01 LIC. PERIODISMO.
+
+  Código del Plan: 0006 No_Acuerdo: Fecha Creación : 25-FEB-2013
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PERIODISMO (NUCLEO) (REFORMADO)
+Título      : LICENCIADA/LICENCIADO EN PERIODISMO
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+21123 PER 300B GENEROS INTERPRETATIVOS II 3 1 3 0 0 FUNDAMENTAL
+21124 PER 325 PRODUCCION PERIODISTICA TELEVISIVA 3 1 3 0 0 FUNDAMENTAL
+21125 CS 330B OPINION PUBLICA II 3 2 2 0 0 FUNDAMENTAL
+21126 CS 310 SEMIOTICA PERIODISTICA 3 2 2 0 0 FUNDAMENTAL 09666 12 02 01 0001
+21128 CS 340 COMUNICACION PARA LA PROMOCION SOCIAL 3 2 2 0 0 FUNDAMENTAL
+21129 PER 315 DERECHOS HUMANOS 2 2 0 0 0 FUNDAMENTAL
+22491 NCBA 0020 APRECIACION DE LAS ARTES 2 1 2 0 0 REGULAR I
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+09477 PER 310 LITERATURA Y PERIODISMO 3 3 0 0 0 FUNDAMENTAL
+21130 PER 400 PERIODISMO INVESTIGATIVO 3 2 2 0 0 FUNDAMENTAL
+21131 F/PER431 ETICA Y DEONTOLOGIA PERIODISTICA 3 3 0 0 0 REGULAR
+21133 ADM 113 ADMINISTRACION Y GESTION DE MEDIOS 3 3 0 0 0 REGULAR
+21134 PER 420 PERIODISMO ECONOMICO 3 3 0 0 0 FUNDAMENTAL
+21135 PER 410 PERIODISMO CIENTIFICO 3 1 2 0 0 FUNDAMENTAL
+21136 PER 450 PRACTICA PROFESIONAL 3 0 6 0 0 FUNDAMENTAL
+21137 PER 460 TRABAJO DE GRADO 3 0 6 0 0 FUNDAMENTAL
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12785 SEM1 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL
+12786 SEM2 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL
+12787 PRA PRACTICA PROFESIONAL 6 3 0 0 0 FUNDAMENTAL
+21138 PER 430 PERIODISMO CULTURAL Y DEPORTIVO 3 3 0 0 0 FUNDAMENTAL
+21139 ESTAD100 ESTADISTICA APLICADA A LA INV. PER. 3 2 2 0 0 REGULAR
+
+
+
+Fecha: 22/10/2020 Pagina 4 de 4
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 02 PERIODISMO
+     Carrera : 01 LIC. PERIODISMO.
+
+  Código del Plan: 0006 No_Acuerdo: Fecha Creación : 25-FEB-2013
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PERIODISMO (NUCLEO) (REFORMADO)
+Título      : LICENCIADA/LICENCIADO EN PERIODISMO
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+21140 PER 425 PERIODISMO POLITICO 3 3 0 0 0 FUNDAMENTAL
+21141 PER 435 PERIODISMO ELECTRONICO 3 1 3 0 0 FUNDAMENTAL
+21143 PER 460 TRABAJO DE GRADO 3 0 6 0 0 FUNDAMENTAL
+21144 DIS 440 DISEÑO DE SITIO DE PRENSA WEB 3 2 3 0 0 REGULAR
+21145 PER 445 PERIODISMO INTERNACIONAL 3 3 0 0 0 FUNDAMENTAL
+21601 PUB 468 EXAMEN DE GRADO 6 0 0 0 0 FUNDAMENTAL
+25766 MPD 701 NUEVAS TECNOLOGÍAS D LA INFORMACIÓN Y COMUNICA 4 3 0 0 2 FUNDAMENTAL
+25767 MPD 702 ASPECTOS LEGALES Y ÉTICOS DEL PERIODISMO DIGIT 3 2 2 0 0 FUNDAMENTAL
+25772 MPD 707 EL SOFTWARE SOCIAL Y APLICACIONES 2:0. 4 3 0 0 2 FUNDAMENTAL
+25773 MPD 708 MANEJO DE CRISIS Y REPUTACIÓN ON LINE 4 3 2 0 0 FUNDAMENTAL

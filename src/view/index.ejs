@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <%- include('partial/head.html'); -%>
+</head>
+<body>
+    <style>
+        body {
+            background: #F7F8F8;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ACBB78, #F7F8F8);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ACBB78, #F7F8F8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+            /*
+            background: #4B79A1;  
+background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  
+background: linear-gradient(to right, #283E51, #4B79A1); */
+
+        }
+    
+        #contener {
+            width: 60%;
+            min-height: 50vh;
+            position: fixed;
+            bottom: 25%;
+            right: 20%;
+    
+        }
+    </style>
+    <%- include('partial/navigation.html'); -%>
+    <div id="contener" align='center'>
+        
+            <div class="card animated flipInY animate__animated animate__backInUp">
+                <div class=" card-header bg-dark text-white">
+                    <h2 class="text-center">PLANES DE ESTUDIO</h2><br>
+                </div>
+                <div class="card-body">
+                    <div class="input-group">
+                        <label for="facultad">FACULTDAD</label>
+                        <select name="facultades" id="facultades" class="form-select form-select-sm"
+                            aria-label=".form-select-sm example">
+                            <option value="0">.........</option>
+                            <% for(var i=0; i<facult.length; i++){ %>
+                                <option value="<%=facult[i].id%>" name="<%= facult[i].opcion %>">
+                                    <%= facult[i].opcion %>
+                                </option>
+                                <% } %>
+                        </select>
+                        <label for="carrera">CARRERA</label>
+                        <select id="carreras" class="form-select form-select-sm" aria-label=".form-select-sm example">
+    
+                        </select>
+    
+    
+                    </div>
+                </div>
+                <div class="form-group">
+                    <br>
+                    <button id="buscar" onclick="location.href='carrera'" class="btn btn-primary">Buscar plan de estudio</button>
+                </div>
+            </div>
+            </div>
+    </div>
+
+    <%- include('partial/footer.html'); -%>
+    <script src="/js/js.js"></script>
+    <script src="main.js"></script>
+
+
+</body>
+
+</html>

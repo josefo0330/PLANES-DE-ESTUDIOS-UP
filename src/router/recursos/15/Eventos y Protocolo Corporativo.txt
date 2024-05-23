@@ -1,0 +1,234 @@
+﻿Fecha: 20/07/2020 Pagina 1 de 4
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 03 COMUNICACIÓN CORPORATIVA
+     Carrera : 02 LIC EN EVENTOS Y PROTOCOLO CORPORATIVO
+
+  Código del Plan: 0005 No_Acuerdo: 6-18 Fecha Creación : 01-FEB-2018
+
+Fecha de Aprobación: 16/08/2018 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN EVENTOS Y PROTOCOLO CORPORATIVO
+Título      : LICENCIADA/LICENCIADO EN EVENTOS Y PROTOCOLO CORPORATIVO
+Turno       : Nocturno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR
+28919 EPC 100 PLANIFICACIÓN DE EVENTOS 3 2 2 0 0 FUNDAMENTAL
+28920 EPC 110 FOTOGRAFÍA APLICADA A EVENTOS 2 1 3 0 0 FUNDAMENTAL
+28921 EPC 120 EVENTOS Y ATENCIÓN AL CLIENTE 3 3 0 0 0 FUNDAMENTAL
+28922 CS 100 INTRODUCCIÓN A LA COMUNICACIÓN 3 3 0 0 0 FUNDAMENTAL
+28923 RI 100A PROTOCOLO CEREMONIAL I 3 2 2 0 0 FUNDAMENTAL
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22492 NCCO 0021 COMUNICACION INTEGRAL 2 1 2 0 0 REGULAR
+28924 EPC 130 DIRECCIÓN Y ORGANIZACIÓN DE EVENTOS 3 2 2 0 0 FUNDAMENTAL
+28925 EPC 140 SEMINARIO DE IDENTIDAD CORPORATIVA 3 2 2 0 0 FUNDAMENTAL
+28926 RI 100B PROTOCOLO Y CEREMONIAL II 3 2 2 0 0 FUNDAMENTAL
+28927 PUB 107 PUBLICIDAD Y PROMOCIÓN DE EVENTOS 2 1 3 0 0 FUNDAMENTAL
+28928 CS 10 LENGUAJE DE LA COMUNICACIÓN 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28929 EPC 200 TALLER DE ETIQUETA DE EVENTOS 3 2 2 0 0 FUNDAMENTAL
+
+
+
+Fecha: 20/07/2020 Pagina 2 de 4
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 03 COMUNICACIÓN CORPORATIVA
+     Carrera : 02 LIC EN EVENTOS Y PROTOCOLO CORPORATIVO
+
+  Código del Plan: 0005 No_Acuerdo: 6-18 Fecha Creación : 01-FEB-2018
+
+Fecha de Aprobación: 16/08/2018 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN EVENTOS Y PROTOCOLO CORPORATIVO
+Título      : LICENCIADA/LICENCIADO EN EVENTOS Y PROTOCOLO CORPORATIVO
+Turno       : Nocturno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28930 EPC 210 MONTAJE Y DESMONTAJE PARA EVENTOS 3 3 0 0 0 FUNDAMENTAL
+28931 EPC 220 TÉCN. DE COMUN. ORAL Y PRESENT. PARA EVENT Y P 3 2 2 0 0 FUNDAMENTAL
+28932 RI 200 TALLER DE EVENTOS OFICIALES 3 2 2 0 0 FUNDAMENTAL
+28934 PUB 200 PUB DIGITAL PARA EVENTOS 2 1 3 0 0 FUNDAMENTAL
+28936 EPC 240 TÉCNICAS DE INVESTIGACIÓN PARA EVENTOS 3 2 2 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22484 NCMI 0013 METODOLOGIA DE LA INVESTIGACION 2 1 2 0 0 REGULAR
+28935 EPC 230 EVENTOS SOCIALES, POLÍTICOS Y BENÉFICOS 3 2 2 0 0 FUNDAMENTAL
+28937 GAS 200 RESTAURANTE Y CATERING 2 1 2 0 0 FUNDAMENTAL
+28938 EPC 260 ORGANIZACIÓN DE EVENTOS FERIALES 3 2 2 0 0 FUNDAMENTAL
+28939 EPC 270 PROTOCOLO EN LA COMUNICACIÓN CORPORATIVA 3 2 2 0 0 FUNDAMENTAL
+28940 RP 200 RELACIONES PÚBLICAS 3 2 2 0 0 FUNDAMENTAL
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+28933 EPC 250 CREATIVIDAD PARA EVENTOS 2 1 2 0 0 FUNDAMENTAL
+28941 ING 200 INGLÉS TÉCNICO 2 1 3 0 0 REGULAR
+
+
+
+Fecha: 20/07/2020 Pagina 3 de 4
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 03 COMUNICACIÓN CORPORATIVA
+     Carrera : 02 LIC EN EVENTOS Y PROTOCOLO CORPORATIVO
+
+  Código del Plan: 0005 No_Acuerdo: 6-18 Fecha Creación : 01-FEB-2018
+
+Fecha de Aprobación: 16/08/2018 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN EVENTOS Y PROTOCOLO CORPORATIVO
+Título      : LICENCIADA/LICENCIADO EN EVENTOS Y PROTOCOLO CORPORATIVO
+Turno       : Nocturno
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28942 BA 200 EVENTOS Y PROTOCOLO EN LAS ARTES 3 3 0 0 0 REGULAR
+28943 AEFIN200 GESTIÓN DEL PRESUPUESTO Y CONTABILIDAD 2 1 2 0 0 REGULAR
+28944 CS 230A TEORÍA DE LA COMUNICACIÓN 3 3 0 0 0 FUNDAMENTAL
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28945 EPC 300 EVENTOS CORPORATIVOS 3 2 2 0 0 FUNDAMENTAL
+28946 PER 200 GÉNEROS INFORMATICOS 3 2 2 0 0 FUNDAMENTAL
+28947 ING 310 INGLÉS CONVERSACIONAL 3 2 2 0 0 REGULAR
+28949 RI 300 PROTOCOLO INTERNACIONAL 2 1 2 0 0 FUNDAMENTAL
+28950 PUB 300A PUBLICIDAD PARA EVENTOS 3 2 2 0 0 FUNDAMENTAL
+28953 EPC 330 SOCIAL PLANNER 3 2 2 0 0 FUNDAMENTAL
+
+CUARTO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28955 RI 310 CORRESPONDENCIA DIPLOMÁTICA 2 1 3 0 0 FUNDAMENTAL
+28958 AEORG300 GESTIÓN EMPRESARIAL 2 1 2 0 0 REGULAR
+28959 EPC 460 EMPRENDIMIENTO DE EVENTOS 2 1 2 0 0 OPTATIVA
+28960 EPC 470 ORGANIZACIÓN DE CONVENCIONES 2 1 2 0 0 OPTATIVA
+28961 CS 480 TALLER DE MANEJO DE MEDIOS SOCIALES 2 1 2 0 0 OPTATIVA
+28962 CS 430 COMUNICACIÓN INTERCULTURAL 2 1 2 0 0 OPTATIVA
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28948 RTV 300 PRODUCCIÓN AUDIOVISUAL APLICADA A EVENTOS I 2 1 3 0 0 FUNDAMENTAL
+
+
+
+Fecha: 20/07/2020 Pagina 4 de 4
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 03 COMUNICACIÓN CORPORATIVA
+     Carrera : 02 LIC EN EVENTOS Y PROTOCOLO CORPORATIVO
+
+  Código del Plan: 0005 No_Acuerdo: 6-18 Fecha Creación : 01-FEB-2018
+
+Fecha de Aprobación: 16/08/2018 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN EVENTOS Y PROTOCOLO CORPORATIVO
+Título      : LICENCIADA/LICENCIADO EN EVENTOS Y PROTOCOLO CORPORATIVO
+Turno       : Nocturno
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28951 CS 330A OPINIÓN PÚBLICA I 3 3 0 0 0 FUNDAMENTAL
+28952 EPC 320 EVENTOS CULTURALES Y ACADÉMICOS 3 2 2 0 0 FUNDAMENTAL
+28954 EPC 340 OPCIONES DE TRABAJO DE GRADO 3 3 0 0 0 FUNDAMENTAL
+28965 EPC 420 LIDERAZGO, ANIMACIÓN Y DINÁMICA DE GRUPOS 2 1 2 0 0 FUNDAMENTAL
+28968 RP 403 ESTRATEGIAS DE RELACIONES PÚBLICAS 3 2 2 0 0 FUNDAMENTAL
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28956 RTV 310 PRODUCCIÓN AUDIOVISUAL  APLICADA A EVENTOS II 2 1 3 0 0 FUNDAMENTAL
+28957 CS 330B OPINIÓN PÚBLICA II 3 3 0 0 0 FUNDAMENTAL
+28963 EPC 400 ORGANIZACIÓN DE ESPECTÁCULOS 3 2 2 0 0 FUNDAMENTAL
+28964 EPC 410 EVENTOS DEPORTIVOS Y TURÍSTICOS 3 2 2 0 0 FUNDAMENTAL
+28966 EPC 450 OPCIONES DE TRABAJO DE GRADO 3 3 0 0 0 FUNDAMENTAL
+28967 EPC 440 PRÁCTICA EMPRESARIAL 2 1 3 0 0 FUNDAMENTAL

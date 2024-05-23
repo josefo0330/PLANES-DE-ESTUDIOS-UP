@@ -1,0 +1,299 @@
+﻿Fecha: 22/10/2020 Pagina 1 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 09 ODONTOLOGIA.
+     Escuela : 01 ODONTOLOGIA.
+     Carrera : 02 TECNICO EN ASISTENCIA  ODONTOLOGICA
+
+  Código del Plan: 0002 No_Acuerdo: 29-00 Fecha Creación : 05-JUL-2000
+
+Fecha de Aprobación: 05/07/2000 Fecha Caduca   :
+
+Descripción : ASISTENTE DENTAL
+Título      : TECNICA/TECNICO EN ASISTENCIA ODONTOLOGICA
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+14911 ESP 107A ESPANOL I 2 2 0 0 0 FUNDAMENTAL
+14912 ODO 012A PRINCIPIOS DE ODONTOLOGIA 4 4 0 0 0 FUNDAMENTAL
+14913 ODO 051A INTRODUCCION A LA CLINICA 7 4 3 0 9 FUNDAMENTAL
+14914 ODO 020A BIOSEGURIDAD 2 1 0 0 3 FUNDAMENTAL
+14915 ODO 022A ADMINISTRACION DE CONSULTORIO 2 1 0 0 3 FUNDAMENTAL
+14916 ODO 042A SALUD BUCAL I 3 2 0 0 3 FUNDAMENTAL
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+15322 ESP 107B ESPANOL II(EXPRESION ORAL) 2 2 0 0 0 FUNDAMENTAL 14911 ESP 107A
+15323 ODO 052B CLINICA DE PREVENCION 3 1 0 0 6 FUNDAMENTAL 14912 ODO 012A
+
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+
+15324 ODO 053B CLINICA 7 1 0 0 18 FUNDAMENTAL 14911 ESP 107A
+14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+
+15325 ODO 032B INTRODUCCION A LA PATOLOGIA BUCAL 1 1 0 0 0 FUNDAMENTAL 14911 ESP 107A
+14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+
+
+
+Fecha: 22/10/2020 Pagina 2 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 09 ODONTOLOGIA.
+     Escuela : 01 ODONTOLOGIA.
+     Carrera : 02 TECNICO EN ASISTENCIA  ODONTOLOGICA
+
+  Código del Plan: 0002 No_Acuerdo: 29-00 Fecha Creación : 05-JUL-2000
+
+Fecha de Aprobación: 05/07/2000 Fecha Caduca   :
+
+Descripción : ASISTENTE DENTAL
+Título      : TECNICA/TECNICO EN ASISTENCIA ODONTOLOGICA
+Turno       : Diurno
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+15326 ODO 033B TECNICAS DE RADIOLOGIA BUCAL I 2 1 3 0 3 FUNDAMENTAL 14911 ESP 107A
+14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+
+15327 ODO 043B SALUD BUCAL II 3 2 0 0 3 FUNDAMENTAL 14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+15746 ING 110A INGLES 2 2 0 0 0 FUNDAMENTAL
+15747 INF 100A INTRODUCCION A LA INFORMATICA 3 2 0 0 3 FUNDAMENTAL
+15748 ODO 120A PRACTICA DE DOCENCIA/SERVICIO 4 0 0 12 0 FUNDAMENTAL 14911 ESP 107A
+
+14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+15322 ESP 107B
+15323 ODO 052B
+15324 ODO 053B
+15325 ODO 032B
+15326 ODO 033B
+15327 ODO 043B
+
+15749 ODO 133A TECNICAS DE RADIOLOGIA BUCAL II 2 1 0 3 0 FUNDAMENTAL 15326 ODO 033B
+
+
+
+Fecha: 22/10/2020 Pagina 3 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 09 ODONTOLOGIA.
+     Escuela : 01 ODONTOLOGIA.
+     Carrera : 02 TECNICO EN ASISTENCIA  ODONTOLOGICA
+
+  Código del Plan: 0002 No_Acuerdo: 29-00 Fecha Creación : 05-JUL-2000
+
+Fecha de Aprobación: 05/07/2000 Fecha Caduca   :
+
+Descripción : ASISTENTE DENTAL
+Título      : TECNICA/TECNICO EN ASISTENCIA ODONTOLOGICA
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+15750 PSC 100A CIENCIAS DE LA CONDUCTA 1 1 0 0 0 FUNDAMENTAL
+15751 CN 100A ECOLOGIA 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+15752 ING 110B INGLES 2 2 0 0 0 FUNDAMENTAL 15746 ING 110A
+18480 ODO 111B CLINICA DIVERSIFICADA (ENDODONCIA) 8 3 10 0 FUNDAMENTAL 14911 ESP 107A
+
+14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+15322 ESP 107B
+15323 ODO 052B
+15324 ODO 053B
+15325 ODO 032B
+15326 ODO 033B
+15327 ODO 043B
+15746 ING 110A
+15747 INF 100A
+15748 ODO 120A
+15749 ODO 133A
+15750 PSC 100A
+15751 CN 100A
+27405 HIST 165
+27407 HIST 166
+
+18481 ODO 112B CLINICA DIVERSIFICADA (PERIODONCIA) 8 3 10 0 FUNDAMENTAL 14911 ESP 107A
+14912 ODO 012A
+
+
+
+Fecha: 22/10/2020 Pagina 4 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 09 ODONTOLOGIA.
+     Escuela : 01 ODONTOLOGIA.
+     Carrera : 02 TECNICO EN ASISTENCIA  ODONTOLOGICA
+
+  Código del Plan: 0002 No_Acuerdo: 29-00 Fecha Creación : 05-JUL-2000
+
+Fecha de Aprobación: 05/07/2000 Fecha Caduca   :
+
+Descripción : ASISTENTE DENTAL
+Título      : TECNICA/TECNICO EN ASISTENCIA ODONTOLOGICA
+Turno       : Diurno
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+18482 ODO 113B CLINICA DIVERSIFICADA (ODONTOPEDIATRIA) 8 3 10 0 FUNDAMENTAL 14911 ESP 107A
+14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+15322 ESP 107B
+15323 ODO 052B
+15324 ODO 053B
+15325 ODO 032B
+15326 ODO 033B
+15327 ODO 043B
+15746 ING 110A
+15747 INF 100A
+15748 ODO 120A
+15749 ODO 133A
+15750 PSC 100A
+15751 CN 100A
+27405 HIST 165
+27407 HIST 166
+
+18483 ODO 114B CLINICA DIVERSIFICADA (PRÓTESIS) 8 3 10 0 FUNDAMENTAL 14911 ESP 107A
+14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+15322 ESP 107B
+15323 ODO 052B
+15324 ODO 053B
+15325 ODO 032B
+
+
+
+Fecha: 22/10/2020 Pagina 5 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 09 ODONTOLOGIA.
+     Escuela : 01 ODONTOLOGIA.
+     Carrera : 02 TECNICO EN ASISTENCIA  ODONTOLOGICA
+
+  Código del Plan: 0002 No_Acuerdo: 29-00 Fecha Creación : 05-JUL-2000
+
+Fecha de Aprobación: 05/07/2000 Fecha Caduca   :
+
+Descripción : ASISTENTE DENTAL
+Título      : TECNICA/TECNICO EN ASISTENCIA ODONTOLOGICA
+Turno       : Diurno
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+18484 ODO 115B CLINICA DIVERSIFICADA (SALUD PÚBLICA) 8 3 10 0 FUNDAMENTAL 14911 ESP 107A
+14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+15322 ESP 107B
+15323 ODO 052B
+15324 ODO 053B
+15325 ODO 032B
+15326 ODO 033B
+15327 ODO 043B
+15746 ING 110A
+15747 INF 100A
+15748 ODO 120A
+15749 ODO 133A
+15750 PSC 100A
+15751 CN 100A
+27405 HIST 165
+27407 HIST 166
+
+18485 ODO 116B CLINICA DIVERSIFICADA (ORTODONCIA) 8 3 10 0 FUNDAMENTAL 14911 ESP 107A
+14912 ODO 012A
+14913 ODO 051A
+14914 ODO 020A
+14915 ODO 022A
+14916 ODO 042A
+15322 ESP 107B
+15323 ODO 052B
+15324 ODO 053B
+15325 ODO 032B

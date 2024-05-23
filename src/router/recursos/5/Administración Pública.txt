@@ -1,0 +1,296 @@
+﻿Fecha: 23/07/2020 Pagina 1 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 01 ADMINISTRACION PUBLICA
+     Carrera : 04 LIC.ADM. PUBLICA
+
+  Código del Plan: 0002 No_Acuerdo: 2-12 Fecha Creación : 05-MAR-2012
+
+Fecha de Aprobación: 10/02/2012 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ADMINISTRACION PUBLICA
+Título      : LICENCIADA/LICENCIADO EN ADMINISTRACION PUBLICA
+Turno       : Nocturno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22485 NCAE 0014 ADMINISTRACION DE LAS  ORGANIZACIONES 2 1 2 0 0 FUNDAMENTAL 22732 AP 100 10311 01 01 00 0004
+22486 NCMA 0015 MATEMATICA 2 1 2 0 0 REGULAR 05412 01 01 00 0003
+
+10310 01 01 00 0004
+22732 AP 100 ADMINISTRACION GENERAL 3 2 2 0 0 FUNDAMENTAL 05411 01 01 00 0004
+
+10308 01 01 00 0004
+22733 AO 101 ADMINISTRACION PUBLICA DE PANAMA I 3 2 2 0 0 FUNDAMENTAL 05394 01 01 00 0004
+
+10343 01 01 00 0004
+22734 ECO 102 PRINCIPIO DE ECONOMIA 3 3 0 0 0 REGULAR 11511 01 01 00 0004
+
+11513 01 01 00 0004
+27406 RI 160 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22735 PSIC 104 PRINCIPIO DE PSICOLOGIA 3 2 2 0 0 REGULAR 04869 01 01 00 0004
+22737 CONT 106 CONTABILIDAD FUNDAMENTAL 3 2 2 0 0 REGULAR 00107 01 01 00 0004
+
+00108 01 01 00 0004
+00108 01 01 00 0005
+
+22738 AP 108 ADMINISTRACION PUBLICA DE PANAMA II 3 2 2 0 0 FUNDAMENTAL 22733 AO 101 10344 01 01 00 0004
+22739 ECO 109 ECONOMIA DE PANAMA 3 3 0 0 0 REGULAR 22734 ECO 102 10325 01 01 00 0004
+
+10339 01 01 00 0004
+22748 AP 204 GESTION PUBLICA 3 2 2 0 0 REGULAR 22485 NCAE 0014 10314 01 01 00 0004
+
+22732 AP 100
+27408 RI 161 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR 27406 RI 160
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR
+
+
+
+Fecha: 23/07/2020 Pagina 2 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 01 ADMINISTRACION PUBLICA
+     Carrera : 04 LIC.ADM. PUBLICA
+
+  Código del Plan: 0002 No_Acuerdo: 2-12 Fecha Creación : 05-MAR-2012
+
+Fecha de Aprobación: 10/02/2012 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ADMINISTRACION PUBLICA
+Título      : LICENCIADA/LICENCIADO EN ADMINISTRACION PUBLICA
+Turno       : Nocturno
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22476 NCIF 0005 INFORMATICA Y REDES DE APRENDIZAJE 2 1 2 0 0 REGULAR
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 2 0 0 REGULAR
+22744 FIL 115 ETICA PROFESIONAL 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22736 SOC 105 PRINCIPIO DE SOCIOLOGIA 3 3 0 0 0 REGULAR 05185 01 01 00 0004
+22740 CONT 110 CONTABILIDAD GUBERNAMENTAL 2 1 2 0 0 REGULAR 22737 CONT 106 11534 01 01 00 0004
+22742 EST 112 METODOS ESTADISTICOS 3 2 2 0 0 REGULAR 22486 NCMA 0015 10313 01 01 00 0004
+
+10318 01 01 00 0004
+22743 RI 113 COOPE INTERNACIONAL Y ASISTENCIA TECNICA EN PA 2 3 0 0 0 REGULAR 22737 CONT 106
+22745 AP 200 ADMINISTRACION DE RECURSOS HUMANOS I 3 2 2 0 0 FUNDAMENTAL 22485 NCAE 0014 10319 01 01 00 0004
+
+22735 PSIC 104
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22741 SOC 111 SOCIOLOGIA DE LA ORGANIZACION 2 1 2 0 0 REGULAR 22485 NCAE 0014 10317 01 01 00 0004
+22736 SOC 105 05291 01 01 00 0004
+
+22749 AP 205 ANALISIS Y REORGANIZACION ADMINISTRATIVA I 3 2 2 0 0 FUNDAMENTAL 22748 AP 204 10321 01 01 00 0004
+22751 AP 207 TECNICA DE LA COMUNICACION ADMINISTRATIVA 3 1 2 0 0 FUNDAMENTAL 22748 AP 204 10309 01 01 00 0004
+22753 AP 209 FINANZA PUBLICA 3 3 0 0 0 REGULAR 22734 ECO 102 11535 01 01 00 0004
+
+22739 ECO 109 11536 01 01 00 0004
+10325 01 01 00 0004
+
+22754 AP 210 ADMINISTRACION DE RECURSOS HUMANOS II 3 2 2 0 0 FUNDAMENTAL 22745 AP 200 10326 01 01 00 0004
+
+TERCER AÑO VERANO
+
+
+
+Fecha: 23/07/2020 Pagina 3 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 01 ADMINISTRACION PUBLICA
+     Carrera : 04 LIC.ADM. PUBLICA
+
+  Código del Plan: 0002 No_Acuerdo: 2-12 Fecha Creación : 05-MAR-2012
+
+Fecha de Aprobación: 10/02/2012 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ADMINISTRACION PUBLICA
+Título      : LICENCIADA/LICENCIADO EN ADMINISTRACION PUBLICA
+Turno       : Nocturno
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR
+22478 NCFI 0007 TEORIA DE LA CIENCIA 2 1 2 0 0 REGULAR
+22757 CP 218 TEORIA DEL ESTADO 2 3 0 0 0 REGULAR 22733 AO 101 11510 01 01 00 0004
+
+11512 01 01 00 0004
+23846 NC 0058 RÉGIMEN JURÍDICO DE LOS DERECHOS HUMANOS 2 0 0 0 0 OPTATIVA
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22487 NCAP 0016 PRESUPUESTO 2 1 2 0 0 REGULAR 22486 NCMA 0015
+22740 CONT 110
+
+22493 AP 203 SISTEMA DE INFORMACION ADMINISTRATIVA I 3 2 2 0 0 FUNDAMENTAL 22485 NCAE 0014 10337 01 01 00 0004
+22756 AP 213 ANALISIS Y REORGANIZACION ADMINISTRATIVA II 3 2 2 0 0 FUNDAMENTAL 22749 AP 205 10328 01 01 00 0004
+22759 AP 301 ADMINISTRACION DE RECURSOS HUMANOS III 3 2 2 0 0 FUNDAMENTAL 22754 AP 210 10333 01 01 00 0004
+
+10333 01 01 00 0003
+22760 AP 302 COMPORTAMIENTO ORGANIZACIONAL I 3 2 2 0 0 FUNDAMENTAL 22735 PSIC 104 10312 01 01 00 0004
+
+22754 AP 210
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22750 AP 206 ADMINISTRACION DE ABASTECIMIENTO 3 2 2 0 0 FUNDAMENTAL 22733 AO 101 10316 01 01 00 0004
+22752 AP 208 INVEST APLICADA A LA ADMINISTRACION PUBLICA I 3 2 2 0 0 FUNDAMENTAL 22484 NCMI 0013 10315 01 01 00 0004
+22755 AP 211 SISTEMA DE INFORMACION ADMINISTRATIVA II 3 2 2 0 0 FUNDAMENTAL 22493 AP 203 10341 01 01 00 0004
+22762 AP 304 PRESUPUESTO PUBLICO I 3 2 2 0 0 FUNDAMENTAL 10322 01 01 00 0004
+22765 AP 307 COMPORTAMIENTO ORGANIZACIONAL II 3 2 2 0 0 FUNDAMENTAL 22760 AP 302 10335 01 01 00 0004
+
+CUARTO AÑO VERANO
+
+
+
+Fecha: 23/07/2020 Pagina 4 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 01 ADMINISTRACION PUBLICA
+     Carrera : 04 LIC.ADM. PUBLICA
+
+  Código del Plan: 0002 No_Acuerdo: 2-12 Fecha Creación : 05-MAR-2012
+
+Fecha de Aprobación: 10/02/2012 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ADMINISTRACION PUBLICA
+Título      : LICENCIADA/LICENCIADO EN ADMINISTRACION PUBLICA
+Turno       : Nocturno
+
+CUARTO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+22484 NCMI 0013 METODOLOGIA DE LA INVESTIGACION 2 1 2 0 0 FUNDAMENTAL 22742 EST 112
+22746 AP 201 GESTION MUNICIPAL 2 1 2 0 0 FUNDAMENTAL 22748 AP 204
+23856 NC 0068 EDUCACIÓN FÍSICA BÁSICA (B) 2 0 0 0 0 OPTATIVA
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12785 SEM1 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL
+22758 AP 300 PLANIFICACION ADMINISTRATIVA I 3 2 2 0 0 FUNDAMENTAL 10320 01 01 00 0004
+22761 AP 303 FORMULACION DE PROYECTO PUBLICO 3 2 2 0 0 REGULAR 22748 AP 204 10334 01 01 00 0004
+22763 AP 305 INVEST APLICADA A LA ADMINISTRACION PUBLICA I 3 2 2 0 0 FUNDAMENTAL 22733 AO 101 10323 01 01 00 0004
+
+10331 01 01 00 0004
+22764 AP 306 OPCION DE GRADO 3 3 2 0 0 FUNDAMENTAL 22733 AO 101 10345 01 01 00 0004
+22767 AP 309 PRESUPUESTO PUBLICO II 3 2 2 0 0 FUNDAMENTAL 22748 AP 204 10329 01 01 00 0004
+
+22758 AP 300
+22762 AP 304
+
+22772 DER 316 DERECHO ADMINISTRATIVO 3 3 0 0 0 REGULAR 23846 NC 0058 10338 01 01 00 0004
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12786 SEM2 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL
+12787 PRA PRACTICA PROFESIONAL 6 3 0 0 0 FUNDAMENTAL
+22766 AP 308 PLANIFICACION ADMINISTRATIVA II 3 2 2 0 0 FUNDAMENTAL 22758 AP 300 10327 01 01 00 0004
+22768 AP 310 EVALUACION DE PROYECTO PUBLICO 3 2 2 0 0 FUNDAMENTAL 22756 AP 213 10340 01 01 00 0004
+22769 AP 311 GERENCIA PUBLICA PROFESIONAL 3 1 2 0 0 FUNDAMENTAL 22748 AP 204 10342 01 01 00 0004
+22770 AP 312 ADMINISTRACION FINANCIERA 3 2 2 0 0 FUNDAMENTAL 22767 AP 309 10336 01 01 00 0004
+
+
+
+Fecha: 23/07/2020 Pagina 5 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 01 ADMINISTRACION PUBLICA
+     Carrera : 04 LIC.ADM. PUBLICA
+
+  Código del Plan: 0002 No_Acuerdo: 2-12 Fecha Creación : 05-MAR-2012
+
+Fecha de Aprobación: 10/02/2012 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ADMINISTRACION PUBLICA
+Título      : LICENCIADA/LICENCIADO EN ADMINISTRACION PUBLICA
+Turno       : Nocturno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22771 AP 313 OPCION DE GRADO 3 3 0 0 0 FUNDAMENTAL 10345 01 01 00 0004
+10345 01 01 00 0003
+
+22773 AP 317 ADMINISTRACION DE SEGURIDAD SOCIAL 3 1 2 0 0 FUNDAMENTAL 22486 NCMA 0015 10330 01 01 00 0004
+22732 AP 100
+22733 AO 101

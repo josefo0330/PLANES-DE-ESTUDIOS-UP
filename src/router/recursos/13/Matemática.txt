@@ -1,0 +1,550 @@
+﻿Fecha: 22/10/2020 Pagina 1 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 04 CIENCIAS NATURALES, EXACTAS Y TEC.
+     Escuela : 06 MATEMATICA
+     Carrera : 02 LIC. MATEMATICA
+
+  Código del Plan: 0006 No_Acuerdo: 7-15 Fecha Creación : 22-SEP-2015
+
+Fecha de Aprobación: 28/07/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN MATEMATICA
+Título      : LICENCIADA/LICENCIADO EN MATEMATICA
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR 16490 04 06 02 0002
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR
+26558 MAT 121A CÁLCULO I 5 3 4 0 0 FUNDAMENTAL 10632 04 06 02 0002
+
+10632 04 06 02 0005
+26559 MAT 101A FUNDAMENTOS I 5 3 4 0 0 FUNDAMENTAL 10633 04 06 02 0002
+
+10633 04 06 02 0005
+26560 MAT 112A GEOMETRIA I 5 3 4 0 0 FUNDAMENTAL 10634 04 06 02 0002
+
+10634 04 06 02 0005
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26561 MAT 121B CÁLCULO II 5 3 4 0 0 FUNDAMENTAL 26558 MAT 121A 10636 04 06 02 0002
+10636 04 06 02 0005
+
+26562 MAT 101B FUNDAMENTO II 5 3 4 0 0 FUNDAMENTAL 26559 MAT 101A 10637 04 06 02 0002
+10637 04 06 02 0005
+
+26563 MAT 112B GEOMETRIA II 5 3 4 0 0 FUNDAMENTAL 26560 MAT 112A 10638 04 06 02 0002
+10638 04 06 02 0005
+
+26564 ING INGLÉS CIENTIFICO 2 1 2 0 0 REGULAR
+26565 ESP REDACCION DE INFORME 2 1 2 0 0 REGULAR 16491 04 06 02 0002
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+
+
+
+Fecha: 22/10/2020 Pagina 2 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 04 CIENCIAS NATURALES, EXACTAS Y TEC.
+     Escuela : 06 MATEMATICA
+     Carrera : 02 LIC. MATEMATICA
+
+  Código del Plan: 0006 No_Acuerdo: 7-15 Fecha Creación : 22-SEP-2015
+
+Fecha de Aprobación: 28/07/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN MATEMATICA
+Título      : LICENCIADA/LICENCIADO EN MATEMATICA
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26566 MAT 250A ALGEBRA LINEAL I 4 3 3 0 0 FUNDAMENTAL 26562 MAT 101B 10641 04 06 02 0002
+10641 04 06 02 0005
+
+26567 MAT 221 CALCULO III 5 3 4 0 0 FUNDAMENTAL 26561 MAT 121B 10640 04 06 02 0002
+10640 04 06 02 0005
+
+26568 MAT 240A LENGUAJE DE PROGRAMACIÓN 4 3 2 0 0 26562 MAT 101B 10648 04 06 02 0002
+10648 04 06 02 0005
+
+26569 MAT 201 TEORIA ELEMENTAL DE NUMEROS 4 3 2 0 0 FUNDAMENTAL 26562 MAT 101B
+26570 FIS 235A FISICA I 4 3 0 0 3 REGULAR 26561 MAT 121B
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26571 MAT 250B ALGEBRA LINEAL II 4 3 3 0 0 FUNDAMENTAL 26566 MAT 250A 10646 04 06 02 0002
+10646 04 06 02 0005
+
+26572 MAT 260 ECUACIONES DIFERENCIALES ORDINARIAS 4 2 4 0 0 FUNDAMENTAL 26561 MAT 121B 10643 04 06 02 0002
+26566 MAT 250A 10643 04 06 02 0005
+
+26573 MAT 240B ANALISIS NUMERICO 4 3 2 0 0 26566 MAT 250A 10650 04 06 02 0002
+26568 MAT 240A 10650 04 06 02 0005
+
+26574 FIS 235B FISICA II 4 3 0 0 3 REGULAR 26570 FIS 235A
+26575 EST 270 ESTADISTICA 4 3 2 0 0 FUNDAMENTAL 22472 NCES 0001 10645 04 06 02 0002
+
+22475 NCIN 0004 10645 04 06 02 0005
+26558 MAT 121A
+26559 MAT 101A
+26560 MAT 112A
+26561 MAT 121B
+26562 MAT 101B
+26563 MAT 112B
+
+TERCER AÑO VERANO
+
+
+
+Fecha: 22/10/2020 Pagina 3 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 04 CIENCIAS NATURALES, EXACTAS Y TEC.
+     Escuela : 06 MATEMATICA
+     Carrera : 02 LIC. MATEMATICA
+
+  Código del Plan: 0006 No_Acuerdo: 7-15 Fecha Creación : 22-SEP-2015
+
+Fecha de Aprobación: 28/07/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN MATEMATICA
+Título      : LICENCIADA/LICENCIADO EN MATEMATICA
+Turno       : Diurno
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+22507 NCPS 0036 OPTATIVA: INTELIGENCIA EMOCIONAL 2 0 0 0 0 OPTATIVA
+22508 NCPS 0037 OPTATIVA. DESARROLLO HUMANO 2 0 0 0 0 OPTATIVA
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26576 MAT 321A ANALISIS I 4 3 2 0 0 FUNDAMENTAL 26567 MAT 221 10651 04 06 02 0002
+26571 MAT 250B 10651 04 06 02 0005
+
+26577 EST 370 TEORIA DE LA PROBABILIDAD 4 3 2 0 0 FUNDAMENTAL 26567 MAT 221 10653 04 06 02 0002
+26575 EST 270 10653 04 06 02 0005
+
+26578 MAT 315 MATEMATICA FINANCIERA 3 2 2 0 0 FUNDAMENTAL 26567 MAT 221
+26579 MAT 300A ALGEBRA I 4 3 2 0 0 FUNDAMENTAL 26571 MAT 250B 10652 04 06 02 0002
+
+10652 04 06 02 0005
+26580 MAT 316 LOGICA MATEMATICA 4 3 2 0 0 FUNDAMENTAL 26566 MAT 250A 10662 04 06 02 0002
+
+26567 MAT 221 10662 04 06 02 0005
+26568 MAT 240A
+26569 MAT 201
+26570 FIS 235A
+26571 MAT 250B
+26572 MAT 260
+26573 MAT 240B
+26574 FIS 235B
+26575 EST 270
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26581 MAT 313 TOPOLOGIA GENERAL 4 3 2 0 0 FUNDAMENTAL 26562 MAT 101B 10656 04 06 02 0002
+
+
+
+Fecha: 22/10/2020 Pagina 4 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 04 CIENCIAS NATURALES, EXACTAS Y TEC.
+     Escuela : 06 MATEMATICA
+     Carrera : 02 LIC. MATEMATICA
+
+  Código del Plan: 0006 No_Acuerdo: 7-15 Fecha Creación : 22-SEP-2015
+
+Fecha de Aprobación: 28/07/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN MATEMATICA
+Título      : LICENCIADA/LICENCIADO EN MATEMATICA
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26582 MAT 321B ANÁLISIS II 4 3 2 0 0 FUNDAMENTAL 26576 MAT 321A 10655 04 06 02 0002
+10655 04 06 02 0005
+
+26583 MAT 310 PROGAMACIÓN LINEAL 4 3 2 0 0 FUNDAMENTAL 26571 MAT 250B 10661 04 06 02 0002
+10661 04 06 02 0005
+
+26584 MAT 300B ALGEBRA II 4 3 2 0 0 FUNDAMENTAL 26579 MAT 300A 10657 04 06 02 0002
+10657 04 06 02 0005
+
+26585 MAT 320 VARIABLE COMPLEJA 4 3 2 0 0 FUNDAMENTAL 26576 MAT 321A 10658 04 06 02 0002
+10658 04 06 02 0005
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+10669 MAT 580B TRABAJO DE GRAD. 6 3 0 0 0 FUNDAMENTAL
+12785 SEM1 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL 22472 NCES 0001
+
+22473 NCHI 0002
+22474 NCGE 0003
+22475 NCIN 0004
+22477 NCSOC 0006
+26558 MAT 121A
+26559 MAT 101A
+26560 MAT 112A
+26561 MAT 121B
+26562 MAT 101B
+26563 MAT 112B
+26564 ING
+26565 ESP
+26566 MAT 250A
+26568 MAT 240A
+26569 MAT 201
+
+
+
+Fecha: 22/10/2020 Pagina 5 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 04 CIENCIAS NATURALES, EXACTAS Y TEC.
+     Escuela : 06 MATEMATICA
+     Carrera : 02 LIC. MATEMATICA
+
+  Código del Plan: 0006 No_Acuerdo: 7-15 Fecha Creación : 22-SEP-2015
+
+Fecha de Aprobación: 28/07/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN MATEMATICA
+Título      : LICENCIADA/LICENCIADO EN MATEMATICA
+Turno       : Diurno
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26586 MAT 415 ALGEBRA III 4 3 2 0 0 FUNDAMENTAL 26584 MAT 300B 10644 04 06 02 0002
+10644 04 06 02 0005
+
+26587 MAT 437 TEORIA DE GRAFOS Y REDES 4 3 2 0 0 REGULAR 26571 MAT 250B 10663 04 06 02 0002
+26583 MAT 310 10663 04 06 02 0005
+
+26588 MAT 403 PROCESOS ESTOCÁSTICOS 3 2 2 0 0 REGULAR 26577 EST 370
+26583 MAT 310
+
+26589 MAT 410A GÉNESIS Y EVOLUCIÓN DE CONCEPTOS MATEMÁTICOS 4 3 2 0 0 FUNDAMENTAL 26576 MAT 321A
+26577 EST 370
+26578 MAT 315
+26579 MAT 300A
+26580 MAT 316
+26581 MAT 313
+26582 MAT 321B
+26583 MAT 310
+26584 MAT 300B
+
+26590 MAT 580A TRABAJO DE GRADUACIÓN 3 3 0 0 0 FUNDAMENTAL 22472 NCES 0001
+22473 NCHI 0002
+22474 NCGE 0003
+22475 NCIN 0004
+22477 NCSOC 0006
+26558 MAT 121A
+26559 MAT 101A
+26561 MAT 121B
+26562 MAT 101B
+26563 MAT 112B
+26564 ING
+26566 MAT 250A
+26567 MAT 221
+26568 MAT 240A
+26569 MAT 201
+
+
+
+Fecha: 22/10/2020 Pagina 6 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 04 CIENCIAS NATURALES, EXACTAS Y TEC.
+     Escuela : 06 MATEMATICA
+     Carrera : 02 LIC. MATEMATICA
+
+  Código del Plan: 0006 No_Acuerdo: 7-15 Fecha Creación : 22-SEP-2015
+
+Fecha de Aprobación: 28/07/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN MATEMATICA
+Título      : LICENCIADA/LICENCIADO EN MATEMATICA
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12786 SEM2 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL 22472 NCES 0001
+22473 NCHI 0002
+22474 NCGE 0003
+22475 NCIN 0004
+22477 NCSOC 0006
+26558 MAT 121A
+26559 MAT 101A
+26560 MAT 112A
+26561 MAT 121B
+26562 MAT 101B
+26563 MAT 112B
+26564 ING
+26565 ESP
+26566 MAT 250A
+26567 MAT 221
+26568 MAT 240A
+26569 MAT 201
+26570 FIS 235A
+26571 MAT 250B
+26572 MAT 260
+26573 MAT 240B
+26574 FIS 235B
+26575 EST 270
+26576 MAT 321A
+26577 EST 370
+26578 MAT 315
+26579 MAT 300A
+26580 MAT 316
+26581 MAT 313
+26582 MAT 321B
+
+
+
+Fecha: 22/10/2020 Pagina 7 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 04 CIENCIAS NATURALES, EXACTAS Y TEC.
+     Escuela : 06 MATEMATICA
+     Carrera : 02 LIC. MATEMATICA
+
+  Código del Plan: 0006 No_Acuerdo: 7-15 Fecha Creación : 22-SEP-2015
+
+Fecha de Aprobación: 28/07/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN MATEMATICA
+Título      : LICENCIADA/LICENCIADO EN MATEMATICA
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26591 MAT 420 GEOMETRÍA DIFERENCIAL 3 2 2 0 0 REGULAR 22472 NCES 0001
+22473 NCHI 0002
+22474 NCGE 0003
+22475 NCIN 0004
+22477 NCSOC 0006
+26558 MAT 121A
+26559 MAT 101A
+26560 MAT 112A
+26561 MAT 121B
+26562 MAT 101B
+26563 MAT 112B
+26564 ING
+26565 ESP
+26566 MAT 250A
+26567 MAT 221
+26568 MAT 240A
+26569 MAT 201
+26570 FIS 235A
+26571 MAT 250B
+26572 MAT 260
+26573 MAT 240B
+26574 FIS 235B
+26575 EST 270
+26576 MAT 321A
+26577 EST 370
+26578 MAT 315
+26579 MAT 300A
+26580 MAT 316
+26581 MAT 313
+26582 MAT 321B
+
+
+
+Fecha: 22/10/2020 Pagina 8 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 04 CIENCIAS NATURALES, EXACTAS Y TEC.
+     Escuela : 06 MATEMATICA
+     Carrera : 02 LIC. MATEMATICA
+
+  Código del Plan: 0006 No_Acuerdo: 7-15 Fecha Creación : 22-SEP-2015
+
+Fecha de Aprobación: 28/07/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN MATEMATICA
+Título      : LICENCIADA/LICENCIADO EN MATEMATICA
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26592 MAT 438 MÉT. MAT. APLICADOS A LA FÍS. Y LA ING. 4 3 2 0 0 FUNDAMENTAL 26558 MAT 121A 10639 04 06 02 0002
+26559 MAT 101A 10639 04 06 02 0005
+26560 MAT 112A
+26561 MAT 121B
+26562 MAT 101B
+26563 MAT 112B
+26564 ING
+26565 ESP
+26566 MAT 250A
+26567 MAT 221
+26568 MAT 240A
+26569 MAT 201
+26570 FIS 235A
+26571 MAT 250B
+26572 MAT 260
+26573 MAT 240B
+26574 FIS 235B
+26575 EST 270
+26576 MAT 321A
+26577 EST 370
+26578 MAT 315
+26579 MAT 300A
+26580 MAT 316
+
+26593 MAT 410B GÉNESIS Y EVOLUCIÓN DE CONCEPTOS MATEMÁTICOS 4 3 2 0 0 FUNDAMENTAL 26558 MAT 121A
+26559 MAT 101A
+26560 MAT 112A
+26561 MAT 121B
+26562 MAT 101B
+26563 MAT 112B
+26564 ING
+
+
+
+Fecha: 22/10/2020 Pagina 9 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 04 CIENCIAS NATURALES, EXACTAS Y TEC.
+     Escuela : 06 MATEMATICA
+     Carrera : 02 LIC. MATEMATICA
+
+  Código del Plan: 0006 No_Acuerdo: 7-15 Fecha Creación : 22-SEP-2015
+
+Fecha de Aprobación: 28/07/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN MATEMATICA
+Título      : LICENCIADA/LICENCIADO EN MATEMATICA
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26594 MAT 580B TRABAJOS DE GRADUACIÓN 6 3 0 0 0 FUNDAMENTAL
+26595 MAT 440 SIMULACIÓN 4 3 2 0 0 REGULAR 22472 NCES 0001 10666 04 06 02 0002
+
+22473 NCHI 0002 10666 04 06 02 0005
+22474 NCGE 0003
+22475 NCIN 0004
+22477 NCSOC 0006
+26558 MAT 121A
+26559 MAT 101A
+26560 MAT 112A
+26561 MAT 121B
+26562 MAT 101B
+26563 MAT 112B
+26564 ING
+26565 ESP
+26566 MAT 250A
+26567 MAT 221
+26568 MAT 240A
+26569 MAT 201
+26570 FIS 235A
+26571 MAT 250B
+26572 MAT 260
+26573 MAT 240B
+26574 FIS 235B
+26575 EST 270
+26576 MAT 321A
+26577 EST 370
+26578 MAT 315
+26579 MAT 300A
+26581 MAT 313
+26582 MAT 321B

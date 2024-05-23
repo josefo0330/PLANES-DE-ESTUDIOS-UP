@@ -1,0 +1,546 @@
+﻿Fecha: 16/09/2020 Pagina 1 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 03 FINANZA Y BANCA
+     Carrera : 01 LIC. FINANZA Y BANCA
+
+  Código del Plan: 0005 No_Acuerdo: 1-15 Fecha Creación : 09-FEB-2015
+
+Fecha de Aprobación: 15/01/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN FINANZAS Y BANCA
+Título      : LICENCIADA/LICENCIADO EN FINANZAS  Y BANCA
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR 22472 10 03 01 0003
+22472 10 03 01 0004
+10742 10 03 01 0001
+10742 10 03 01 0002
+
+22486 NCMA 0015 MATEMATICA 2 1 2 0 0 FUNDAMENTAL I
+22487 NCAP 0016 PRESUPUESTO 2 1 2 0 0 FUNDAMENTAL I
+25796 ECO 105 PRINCIPIO DE ECONOMIA I 3 3 0 0 0 FUNDAMENTAL 24002 10 03 01 0003
+
+24002 10 03 01 0004
+25797 EST 115 ESTADISTICA ECONOMICA 4 3 2 0 0 FUNDAMENTAL 24003 10 03 01 0003
+
+24004 10 03 01 0004
+10832 10 03 01 0001
+10832 10 03 01 0002
+
+25798 CONT 106 CONTABILIDAD FINANCIERA I 3 2 2 0 0 FUNDAMENTAL 24004 10 03 01 0003
+24004 10 03 01 0004
+10739 10 03 01 0001
+10739 10 03 01 0002
+
+25799 R.I. 108 POL EXTERIOR DE PMA Y COOPERACION INTERNACIONA 3 3 0 0 0 24496 10 03 01 0003
+24496 10 03 01 0004
+01261 10 03 01 0001
+01261 10 03 01 0002
+
+25800 MAT 103 MATEMATICA BASICA PARA ECONOMIA I 3 2 2 0 0 FUNDAMENTAL 24007 10 03 01 0003
+24007 10 03 01 0004
+12233 10 03 01 0001
+12233 10 03 01 0002
+
+25801 EST 120 HERRAMIENTAS PARA EL ANALISIS ESTADISTICO FINA 3 2 2 0 0 FUNDAMENTAL 10915 10 03 01 0001
+10915 10 03 01 0002
+24584 10 03 01 0003
+24584 10 03 01 0004
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+
+
+Fecha: 16/09/2020 Pagina 2 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 03 FINANZA Y BANCA
+     Carrera : 01 LIC. FINANZA Y BANCA
+
+  Código del Plan: 0005 No_Acuerdo: 1-15 Fecha Creación : 09-FEB-2015
+
+Fecha de Aprobación: 15/01/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN FINANZAS Y BANCA
+Título      : LICENCIADA/LICENCIADO EN FINANZAS  Y BANCA
+Turno       : Diurno
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25802 ECO 106 PRINCIPIO DE ECONOMIA II 3 3 0 0 0 FUNDAMENTAL 25796 ECO 105 24002 10 03 01 0003
+24002 10 03 01 0004
+
+25803 FIN 105 FINANZAS I 3 2 2 0 0 FUNDAMENTAL 25800 MAT 103 11044 10 03 01 0001
+11044 10 03 01 0002
+24580 10 03 01 0003
+24580 10 03 01 0004
+
+25804 EST 116 ESTADISTICA FINANCIERA I 4 3 2 0 0 REGULAR 25797 EST 115 24006 10 03 01 0003
+24006 10 03 01 0004
+12486 10 03 01 0001
+12486 10 03 01 0002
+25325 10 01 01 0005
+25325 10 01 01 0006
+
+25805 MAT 104 MATEMATICA BASICA PARA ECONOMIA II 3 2 2 0 0 FUNDAMENTAL 25800 MAT 103 12234 10 03 01 0001
+12234 10 03 01 0002
+24576 10 03 01 0004
+24576 10 03 01 0003
+
+25806 CONT 107 CONTABILIDAD FINANCIERA II 3 2 2 0 0 FUNDAMENTAL 25798 CONT 106 21960 10 03 01 0003
+21960 10 03 01 0004
+10829 10 03 01 0001
+10829 10 03 01 0002
+
+25807 R.I. 109 POL EXTERIOR DE PMA Y COOPERACION INTERNACIONA 3 3 0 0 0 25799 R.I. 108 24497 10 03 01 0003
+24497 10 03 01 0004
+01262 10 03 01 0001
+01262 10 03 01 0002
+
+25808 FIN 180 INVESTIGACION APLICADA 3 2 2 0 0 FUNDAMENTAL 22484 10 03 01 0003
+22484 10 03 01 0004
+11051 10 03 01 0001
+11051 10 03 01 0002
+24587 10 03 01 0003
+24587 10 03 01 0004
+
+
+
+Fecha: 16/09/2020 Pagina 3 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 03 FINANZA Y BANCA
+     Carrera : 01 LIC. FINANZA Y BANCA
+
+  Código del Plan: 0005 No_Acuerdo: 1-15 Fecha Creación : 09-FEB-2015
+
+Fecha de Aprobación: 15/01/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN FINANZAS Y BANCA
+Título      : LICENCIADA/LICENCIADO EN FINANZAS  Y BANCA
+Turno       : Diurno
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR 22473 10 03 01 0003
+22473 10 03 01 0004
+
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR 22475 10 03 01 0003
+22475 10 03 01 0004
+
+25809 AP 205 RECURSOS HUMANOS Y ETICA PROFESIONAL 2 1 2 0 0 24602 10 03 01 0003
+24602 10 03 01 0004
+11073 10 03 01 0001
+11073 10 03 01 0002
+
+27406 RI 160 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR 22477 10 03 01 0003
+22477 10 03 01 0004
+10913 10 03 01 0001
+10913 10 03 01 0002
+
+24591 ECO 305 MACROECONOMIA II 3 2 2 0 0 FUNDAMENTAL I
+25810 MAT 202 MATEMATICA FINANCIERA 3 2 2 0 0 FUNDAMENTAL 25805 MAT 104 11045 10 03 01 0001
+
+11045 10 03 01 0002
+25811 ECO 205 MICROECONOMIA 3 2 2 0 0 FUNDAMENTAL 25802 ECO 106 24005 10 03 01 0003
+
+24005 10 03 01 0004
+10907 10 03 01 0001
+10907 10 03 01 0002
+
+25812 EST 215 ESTADISTICA FINANCIERA II 4 3 2 0 0 FUNDAMENTAL 25804 EST 116 12487 10 03 01 0001
+12487 10 03 01 0002
+24578 10 03 01 0003
+24578 10 03 01 0004
+
+25813 EST 221 HERRAMIENTAS PARA EL ANALISIS ESTADISTICO FIN 3 2 2 0 0 FUNDAMENTAL 25801 EST 120
+
+
+
+Fecha: 16/09/2020 Pagina 4 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 03 FINANZA Y BANCA
+     Carrera : 01 LIC. FINANZA Y BANCA
+
+  Código del Plan: 0005 No_Acuerdo: 1-15 Fecha Creación : 09-FEB-2015
+
+Fecha de Aprobación: 15/01/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN FINANZAS Y BANCA
+Título      : LICENCIADA/LICENCIADO EN FINANZAS  Y BANCA
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25814 BAN 205 FUNDAMENTOS DE LA BANCA 3 2 2 0 0 FUNDAMENTAL 11050 10 03 01 0001
+11050 10 03 01 0002
+24579 10 03 01 0003
+24579 10 03 01 0004
+
+25815 FIN 205 FINANZAS II 3 2 2 0 0 FUNDAMENTAL 25803 FIN 105 11047 10 03 01 0001
+11047 10 03 01 0002
+24586 10 03 01 0003
+24586 10 03 01 0004
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25816 ECO 206 MICROECONOMIA II 3 2 2 0 0 FUNDAMENTAL 25811 ECO 205 10914 10 03 01 0001
+10914 10 03 01 0002
+24577 10 03 01 0003
+24577 10 03 01 0004
+
+25817 ECO 240 CUENTAS NACIONALES 3 3 0 0 0 FUNDAMENTAL 25802 ECO 106 10828 10 03 01 0001
+10828 10 03 01 0002
+
+25818 FIN 275 GESTION FINANCIERA 4 3 2 0 0 FUNDAMENTAL 11058 10 03 01 0001
+11058 10 03 01 0002
+24593 10 03 01 0003
+24593 10 03 01 0004
+
+25819 BAN 250 REGULACION Y OPERACION BANCARIA 3 2 2 0 0 FUNDAMENTAL 25814 BAN 205 11053 10 03 01 0001
+11053 10 03 01 0002
+24585 10 03 01 0003
+24585 10 03 01 0004
+
+25820 FIN 250 PRESUPUESTO FINANCIERO 3 2 2 0 0 FUNDAMENTAL 25798 CONT 106 24008 10 03 01 0003
+25815 FIN 205 24008 10 03 01 0004
+
+11072 10 03 01 0001
+
+
+
+Fecha: 16/09/2020 Pagina 5 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 03 FINANZA Y BANCA
+     Carrera : 01 LIC. FINANZA Y BANCA
+
+  Código del Plan: 0005 No_Acuerdo: 1-15 Fecha Creación : 09-FEB-2015
+
+Fecha de Aprobación: 15/01/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN FINANZAS Y BANCA
+Título      : LICENCIADA/LICENCIADO EN FINANZAS  Y BANCA
+Turno       : Diurno
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25821 ING 280 INGLES TECNICO FINANCIERO 3 2 2 0 0 FUNDAMENTAL 11054 10 03 01 0001
+11054 10 03 01 0002
+24590 10 03 01 0003
+24590 10 03 01 0004
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR 10740 10 03 01 0001
+10740 10 03 01 0002
+22474 10 03 01 0003
+22474 10 03 01 0004
+
+25845 FIN 290 CALIDAD TOTAL 2 2 0 0 0
+25846 FIN 290 BIENES RAICES 2 2 0 0 0 11080 10 03 01 0001
+
+11080 10 03 01 0002
+25847 FIN 290 ECONOMIA DEL ASEGURAMIENTO 2 2 0 0 0
+27408 RI 161 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22476 NCIF 0005 INFORMATICA Y REDES DE APRENDIZAJE 2 1 2 0 0 REGULAR
+22478 NCFI 0007 TEORIA DE LA CIENCIA 2 1 2 0 0 REGULAR
+25822 ECO 305 MACROECONOMIA I 3 2 2 0 0 FUNDAMENTAL 10920 10 03 01 0001
+
+10920 10 03 01 0002
+24583 10 03 01 0003
+24583 10 03 01 0004
+
+25823 FIN 318 FORMULACION Y EVALUACION FINANCIERA DE PROYECT 3 2 2 0 0 FUNDAMENTAL 25820 FIN 250 11068 10 03 01 0001
+11068 10 03 01 0002
+
+
+
+Fecha: 16/09/2020 Pagina 6 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 03 FINANZA Y BANCA
+     Carrera : 01 LIC. FINANZA Y BANCA
+
+  Código del Plan: 0005 No_Acuerdo: 1-15 Fecha Creación : 09-FEB-2015
+
+Fecha de Aprobación: 15/01/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN FINANZAS Y BANCA
+Título      : LICENCIADA/LICENCIADO EN FINANZAS  Y BANCA
+Turno       : Diurno
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25824 BAN 305 MERCADO BANCARIO 2 1 2 0 0 FUNDAMENTAL 11067 10 03 01 0001
+11067 10 03 01 0002
+24589 10 03 01 0003
+24589 10 03 01 0004
+
+25825 BAN 310 NEGOCIACION Y EVALUACION CREDITICIA 4 3 2 0 0 FUNDAMENTAL 25819 BAN 250 10920 10 03 01 0001
+10920 10 03 01 0002
+24583 10 03 01 0003
+24583 10 03 01 0004
+
+25826 FIN 305 MERCADOS FINANCIERO 3 3 0 0 0 FUNDAMENTAL 25815 FIN 205 11066 10 03 01 0001
+11066 10 03 01 0002
+
+25827 FIN 340 ANALISIS ECONOMICOS DE ANALISIS FINANCIEROS 2 1 2 0 0 FUNDAMENTAL 25806 CONT 107 11055 10 03 01 0001
+25815 FIN 205 11055 10 03 01 0002
+
+24595 10 03 01 0003
+24595 10 03 01 0004
+
+25828 ECO 315 PROBLEMAS ECONOMICOS NACIONALES 3 3 0 0 0 FUNDAMENTAL 25802 ECO 106 11056 10 03 01 0001
+11056 10 03 01 0002
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12785 SEM1 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL 22472 NCES 0001
+22473 NCHI 0002
+22474 NCGE 0003
+22475 NCIN 0004
+22477 NCSOC 0006
+25796 ECO 105
+25797 EST 115
+25798 CONT 106
+25799 R.I. 108
+
+
+
+Fecha: 16/09/2020 Pagina 7 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 03 FINANZA Y BANCA
+     Carrera : 01 LIC. FINANZA Y BANCA
+
+  Código del Plan: 0005 No_Acuerdo: 1-15 Fecha Creación : 09-FEB-2015
+
+Fecha de Aprobación: 15/01/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN FINANZAS Y BANCA
+Título      : LICENCIADA/LICENCIADO EN FINANZAS  Y BANCA
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25829 FIN 350 TRABAJO DE GRADUACION 3 3 0 0 0 FUNDAMENTAL
+25830 BAN 320 BANCA INTERNACIONAL 4 3 2 0 0 FUNDAMENTAL 25825 BAN 310 11065 10 03 01 0001
+
+11065 10 03 01 0002
+24598 10 03 01 0003
+24598 10 03 01 0004
+
+25831 ECO 306 MACROECONOMIA II 3 2 2 0 0 FUNDAMENTAL 25822 ECO 305 10927 10 03 01 0001
+10927 10 03 01 0002
+24591 10 03 01 0003
+24591 10 03 01 0004
+
+25832 FIN 325 INVERSION I 4 3 2 0 0 FUNDAMENTAL 25818 FIN 275 24599 10 03 01 0003
+25823 FIN 318 24599 10 03 01 0004
+25825 BAN 310
+
+25833 ECO 310 ECONOMIA INTERNACIONAL 3 2 2 0 0 FUNDAMENTAL 25822 ECO 305 11062 10 03 01 0001
+11062 10 03 01 0002
+24592 10 03 01 0003
+24592 10 03 01 0004
+
+25839 FIN 390 GERENCIA DE INSTITUCIONES FINANCIERAS 2 1 2 0 0 FUNDAMENTAL
+25840 FIN 390 ASIGNACION DE RECURSOS Y POLITICA ECONOMICA 2 1 2 0 0 FUNDAMENTAL
+25841 FIN 390 FUTURO FINANCIERO 2 1 2 0 0 FUNDAMENTAL 11083 10 03 01 0001
+
+11083 10 03 01 0002
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+11078 FIN 481 CALIDAD TOTAL (SEM) 3 3 0 0 0 REGULAR
+11083 FIN 479 FUTURO FINANCIERO (E) 3 3 0 0 0 REGULAR
+12786 SEM2 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL 12785 SEM1
+25834 ECO 410 ECONOMIA INTERNACIONAL II 3 2 2 0 0 FUNDAMENTAL 25825 BAN 310 24597 10 03 01 0003
+
+24597 10 03 01 0004
+
+
+
+Fecha: 16/09/2020 Pagina 8 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 03 FINANZA Y BANCA
+     Carrera : 01 LIC. FINANZA Y BANCA
+
+  Código del Plan: 0005 No_Acuerdo: 1-15 Fecha Creación : 09-FEB-2015
+
+Fecha de Aprobación: 15/01/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN FINANZAS Y BANCA
+Título      : LICENCIADA/LICENCIADO EN FINANZAS  Y BANCA
+Turno       : Diurno
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25835 FIN 425 FINANZAS PUBLICAS 3 2 2 0 0 FUNDAMENTAL 25802 ECO 106 11057 10 03 01 0001
+11057 10 03 01 0002
+24601 10 03 01 0003
+24601 10 03 01 0004
+25835 10 03 01 0006
+
+25836 DER 415 LEGISLACION FINANCIERA Y REGULADORA 3 3 0 0 0 FUNDAMENTAL 11061 10 03 01 0001
+11061 10 03 01 0002
+24582 10 03 01 0003
+24582 10 03 01 0004
+
+25837 ING 480 INGLES BANCARIO 2 1 2 0 0 FUNDAMENTAL 25821 ING 280 11060 10 03 01 0001
+11060 10 03 01 0002
+24596 10 03 01 0003
+24596 10 03 01 0004
+
+25838 FIN 450 TRABAJO DE GRADUACION 3 3 0 0 0 FUNDAMENTAL
+25842 FIN 431 BOLSA DE VALORES 2 1 2 0 0 FUNDAMENTAL 11079 10 03 01 0002
+25843 FIN 431 FUNDAMENTOS DE INVERSION Y RIESGO 2 1 2 0 0 FUNDAMENTAL 11074 10 03 01 0001
+
+11074 10 03 01 0002
+25844 FIN 431 PLANEAMIENTO ESTRATEGICO 2 1 2 0 0 FUNDAMENTAL
+26741 MEST 701 TEORIA ECONOMICA Y REALIDAD NACIONAL 3 2 3 0 0 FUNDAMENTAL
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+11076 FIN 445B TRABAJO DE GRADUACION 3 3 0 0 0 FUNDAMENTAL
+12787 PRA PRACTICA PROFESIONAL 6 3 0 0 0 FUNDAMENTAL 22472 NCES 0001
+
+22474 NCGE 0003
+22477 NCSOC 0006
+25796 ECO 105
+25797 EST 115
+
+
+
+Fecha: 16/09/2020 Pagina 9 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 03 FINANZA Y BANCA
+     Carrera : 01 LIC. FINANZA Y BANCA
+
+  Código del Plan: 0005 No_Acuerdo: 1-15 Fecha Creación : 09-FEB-2015
+
+Fecha de Aprobación: 15/01/2015 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN FINANZAS Y BANCA
+Título      : LICENCIADA/LICENCIADO EN FINANZAS  Y BANCA
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26742 MEST 702 METODOLOGIA DE LA INVEST EN CIENCIAS SOCIALES 3 1 6 0 0 FUNDAMENTAL
+27639 MEP 701 METODOLOGIA DE LA INVESTIGACION 3 2 3 0 0 FUNDAMENTAL
+27640 MEP 702 REALIDAD NACIONAL EN EL CONTEXTO GLOBAL 3 3 0 0 0 FUNDAMENTAL

@@ -12,7 +12,7 @@ $(document).ready(function () {
            //console.log(string[1])
             var semestre = 'PRIMER AÑO PRIMER SEMESTRE'
            var auxTitle = dividir('\n', string[0])
-            var tituloPrin = '<h1 class="text-black" >UNIVERSIDAD  DE  PANAMÁ </h1>'//'U N I V E R S I D A D  D E  P A N A M Á';
+            var tituloPrin = '<h1 class="text-white" >UNIVERSIDAD  DE  PANAMÁ </h1>'//'U N I V E R S I D A D  D E  P A N A M Á';
             for (i = 2; i < auxTitle.length - 6; i++){
                 if((auxTitle[i].trim()!='Pagina 1 de 5')&&(auxTitle[i].trim()!='rplanes3.rdf')){
                     tituloPrin = tituloPrin +'<br><br><h5">' +  auxTitle[i] +'</h5>'
@@ -37,7 +37,7 @@ $(document).ready(function () {
             var aux=[]
             for (i=1;i<plan.length;i++){
                 aux=plan[i]
-                tablas = tablas + '<br> <br><table  class="table table-success table-striped  table-bordered"> <h3 class="text-black">' + aux[aux.length-1] + '</h3>'
+                tablas = tablas + '<br> <br><table  class="table table-success table-striped  table-bordered"> <h3 class="text-white">' + aux[aux.length-1] + '</h3>'
                 tablas = tablas + `
                 <thead class="table-dark">
                 <tr>

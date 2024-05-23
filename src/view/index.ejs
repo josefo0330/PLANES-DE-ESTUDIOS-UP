@@ -8,10 +8,8 @@
 <body>
     <style>
         body {
-            background: #F7F8F8;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #ACBB78, #F7F8F8);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #ACBB78, #F7F8F8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+            background: -webkit-linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
+background: linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
             /*
             background: #4B79A1;  
 background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  
@@ -32,10 +30,10 @@ background: linear-gradient(to right, #283E51, #4B79A1); */
     <div id="contener" align='center'>
         
             <div class="card animated flipInY animate__animated animate__backInUp">
-                <div class=" card-header bg-dark text-white">
+                <div class=" card-header bg-dark text-white border: none">
                     <h2 class="text-center">PLANES DE ESTUDIO</h2><br>
                 </div>
-                <div class="card-body">
+                <div class="card-body ">
                     <div class="input-group">
                         <label for="facultad">FACULTDAD</label>
                         <select name="facultades" id="facultades" class="form-select form-select-sm"
@@ -57,7 +55,7 @@ background: linear-gradient(to right, #283E51, #4B79A1); */
                 </div>
                 <div class="form-group">
                     <br>
-                    <button id="buscar" onclick="location.href='carrera'" class="btn btn-primary">Buscar plan de estudio</button>
+                    <button id="buscar" onclick="location.href='carrera'" class="btn btn-success">Buscar plan de estudio</button>
                 </div>
             </div>
             </div>

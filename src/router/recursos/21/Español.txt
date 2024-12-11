@@ -1,0 +1,431 @@
+﻿Fecha: 03/07/2020 Pagina 1 de 7
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 03 ESPANOL.
+     Carrera : 01 LIC. ESPAÑOL
+
+  Código del Plan: 0006 No_Acuerdo: 2-13 Fecha Creación : 01-MAR-2013
+
+Fecha de Aprobación: 28/02/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR
+22476 NCIF 0005 INFORMATICA Y REDES DE APRENDIZAJE 2 1 2 0 0 REGULAR
+24395 ESP 100 GRAMATICA I 3 2 2 0 REGULAR 14481 06 03 01 0004
+
+14481 06 03 01 0005
+24395 06 03 01 0007
+
+24396 ESP 105 COMUNICACION ESCRITA 2 1 2 0 REGULAR 11613 06 03 01 0004
+11613 06 03 01 0005
+24396 06 03 01 0007
+
+24397 ESP 110 REDACCION DE TEXTOS DESCRIPTIVOS Y EXPOSITIVO 2 1 2 0 REGULAR I 11610 06 03 01 0004
+11610 06 03 01 0005
+24397 06 03 01 0007
+
+24398 ESP 115 LITERATURA CLASICA (GRECOLATINAS) I 3 3 0 0 REGULAR 03245 06 03 01 0005
+03245 06 03 01 0004
+24398 06 03 01 0007
+
+27397 ESP 110 REDACCION DE TEXTOS DESCRIPTIVOS Y EXPOSITIVO 3 3 0 0 0 REGULAR
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22478 NCFI 0007 TEORIA DE LA CIENCIA 2 1 2 0 0 REGULAR
+24399 ESP 120 GRAMATICA II 3 2 2 0 0 REGULAR 24399 06 03 01 0007
+
+14482 06 03 01 0004
+14482 06 03 01 0005
+
+24400 ESP 125 COMUNICACION ORAL 2 1 2 0 0 REGULAR
+24401 ESP 130 NORMATIVA DE LA LENGUA ESPAÑOLA 2 1 2 0 0 REGULAR 24401 06 03 01 0007
+
+14511 06 03 01 0004
+14511 06 03 01 0005
+
+24402 ESP 135 REDACCION DE TEXTOS ARGUMENTATIVOS Y NARRATIVO 2 1 2 0 0 REGULAR I 24402 06 03 01 0007
+
+
+
+Fecha: 03/07/2020 Pagina 2 de 7
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 03 ESPANOL.
+     Carrera : 01 LIC. ESPAÑOL
+
+  Código del Plan: 0006 No_Acuerdo: 2-13 Fecha Creación : 01-MAR-2013
+
+Fecha de Aprobación: 28/02/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Turno       : Diurno
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+24403 ESP 140 LEXICOLOGIA Y SEMANTICA 2 1 2 0 0 REGULAR I 24403 06 03 01 0007
+14322 06 03 01 0004
+14322 06 03 01 0005
+
+24404 ESP 145 LITERATURAS CLASICAS (GRECOLATINAS II) 3 3 0 0 0 REGULAR 24404 06 03 01 0007
+03246 06 03 01 0004
+03246 06 03 01 0005
+
+27398 ESP 135 REDACCION DE TEXTOS  ARGUMENTATIVOS Y NARRATIV 3 3 0 0 0 REGULAR
+27399 ESP 140 LEXICOLOGIA Y SEMANTICA 3 3 0 0 0 REGULAR
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+24431 ESP 405 HISTORIA DE LA LENGUA I 3 3 0 0 0 REGULAR 24431 06 03 01 0007
+
+14499 06 03 01 0004
+14499 06 03 01 0005
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+24405 ESP 200 GRAMATICA III 3 2 2 0 0 REGULAR 24405 06 03 01 0007
+14489 06 03 01 0005
+14489 06 03 01 0004
+
+24406 ESP 205 FUNDAMENTOS TEORICOS DE LOS ESTUDIOS LINGUISTI 3 3 0 0 0 REGULAR 24406 06 03 01 0007
+14483 06 03 01 0004
+14483 06 03 01 0005
+
+24407 ESP 201 FONOLOGIA Y FONETICA I 2 1 2 0 0 REGULAR I 24407 06 03 01 0007
+14486 06 03 01 0004
+
+
+
+Fecha: 03/07/2020 Pagina 3 de 7
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 03 ESPANOL.
+     Carrera : 01 LIC. ESPAÑOL
+
+  Código del Plan: 0006 No_Acuerdo: 2-13 Fecha Creación : 01-MAR-2013
+
+Fecha de Aprobación: 28/02/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+24408 ESP 215 TEORIA LITERARIA: ANALISIS DE LA LIRICA Y EL D 2 1 2 0 0 REGULAR I 24408 06 03 01 0007
+11610 06 03 01 0005
+
+24409 ESP 220 GRANDES OBRAS DE LA LITERATURA UNIVERSAL I 3 3 0 0 0 REGULAR 24409 06 03 01 0007
+10019 06 03 01 0004
+10019 06 03 01 0005
+
+24410 ESP 225 LIT. ESPAÑOLA I (E. MEDIA Y PRIMER RENACIMIENT 3 3 0 0 0 REGULAR 11607 06 03 01 0004
+24410 06 03 01 0007
+11607 06 03 01 0005
+14493 06 03 01 0004
+14493 06 03 01 0005
+
+24411 ESP 230 LITERATURA HISPANOAMERICANA I 3 3 0 0 0 REGULAR 24411 06 03 01 0007
+14497 06 03 01 0004
+14497 06 03 01 0005
+
+27400 ESP 210 FONOLOGIA Y FONETICA I 3 3 0 0 0 REGULAR
+27401 ESP 215 TEORIA LITERARIA:ANALISIS DE LA LIRICA Y DEL D 3 3 0 0 0 REGULAR
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+24412 ESP 235 GRAMATICA IV 3 2 2 0 0 REGULAR 24412 06 03 01 0007
+14490 06 03 01 0005
+14490 06 03 01 0004
+
+24413 ESP 240 FUNDAMENTOS TEO. DE LOS ESTUDIOS LINGUISTICOS 3 3 0 0 0 REGULAR 24413 06 03 01 0007
+14484 06 03 01 0005
+14484 06 03 01 0004
+
+24414 ESP 245 FONOLOGIA Y FONETICA II 2 1 2 0 0 REGULAR I 24414 06 03 01 0007
+11624 06 03 01 0005
+11624 06 03 01 0004
+
+24415 ESP 250 TEO LITERARIA ANALISIS DEL CUENTO LA NOV Y EL 2 1 2 0 0 REGULAR I 24415 06 03 01 0006
+
+
+
+Fecha: 03/07/2020 Pagina 4 de 7
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 03 ESPANOL.
+     Carrera : 01 LIC. ESPAÑOL
+
+  Código del Plan: 0006 No_Acuerdo: 2-13 Fecha Creación : 01-MAR-2013
+
+Fecha de Aprobación: 28/02/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Turno       : Diurno
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+24416 ESP 255 GRANDES OBRAS DE LA LITERATURA UNIVERSAL II 3 3 0 0 0 REGULAR 24416 06 03 01 0007
+03244 06 03 01 0005
+03244 06 03 01 0004
+
+24417 ESP 260 LITERATURA ESPAÑOLA II (RENAC. Y BARROCO) 3 3 0 0 0 REGULAR 24417 06 03 01 0007
+14494 06 03 01 0005
+14494 06 03 01 0004
+
+24418 ESP 265 LITERATURA HISPANOAMERICANA II 3 3 0 0 0 REGULAR 24418 06 03 01 0007
+14498 06 03 01 0005
+14498 06 03 01 0004
+
+27402 ESP 245 FONOLOGIA Y FONETICA II 3 3 0 0 0 FUNDAMENTAL
+27403 ESP 250 TEO LIT ANA DEL CUENTO LA NOVELA Y EL ENSAYO 3 3 0 0 0 FUNDAMENTAL
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22484 NCMI 0013 METODOLOGIA DE LA INVESTIGACION 2 1 2 0 0 REGULAR I
+22488 NCDR 0017 EL ESTADO DE DERECHO 2 2 0 0 0 REGULAR I
+24547 ESP 430 HISTORIA DE LA LENGUA II 3 3 0 0 0 REGULAR 14500 06 03 01 0004
+
+14500 06 03 01 0005
+24547 06 03 01 0007
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+24419 ESP 300 GRAMATICA V 3 2 2 0 0 REGULAR 24419 06 03 01 0007
+14501 06 03 01 0005
+14501 06 03 01 0004
+
+24420 ESP 305 REDACCION Y COMPOSICION AVANZADA I 2 1 2 0 0 REGULAR I 24420 06 03 01 0006
+
+
+
+Fecha: 03/07/2020 Pagina 5 de 7
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 03 ESPANOL.
+     Carrera : 01 LIC. ESPAÑOL
+
+  Código del Plan: 0006 No_Acuerdo: 2-13 Fecha Creación : 01-MAR-2013
+
+Fecha de Aprobación: 28/02/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Turno       : Diurno
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+24421 ESP 310 LITERATURA ESPAÑOLA III( NEOCLASICISMO, ROMANT 3 3 0 0 0 REGULAR 24421 06 03 01 0007
+14503 06 03 01 0005
+14503 06 03 01 0004
+14505 06 03 01 0004
+14505 06 03 01 0005
+
+24422 ESP 315 LITERATURA HISPANOAMERICANA III 3 3 0 0 0 REGULAR 24422 06 03 01 0006
+14507 06 03 01 0005
+14507 06 03 01 0004
+
+24423 ESP 320 LITERATURA PANAMEÑA I 3 3 0 0 0 REGULAR 24423 06 03 01 0007
+14495 06 03 01 0005
+14495 06 03 01 0004
+
+24429 ESP 350 CERVANTES 3 3 0 0 0 REGULAR 24429 06 03 01 0007
+14509 06 03 01 0005
+14509 06 03 01 0004
+
+24430 ESP 400 LATIN I 3 2 2 0 0 REGULAR 24430 06 03 01 0007
+14487 06 03 01 0005
+14487 06 03 01 0004
+
+27404 ESP 305 REDACCION Y COMPOSICION AVANZADA I 3 3 0 0 0 FUNDAMENTAL
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12785 SEM1 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL
+24424 ESP 325 GRAMATICA VI 3 2 2 0 0 REGULAR 24424 06 03 01 0007
+
+14502 06 03 01 0005
+14502 06 03 01 0004
+
+24425 ESP 330 REDACCION Y COMPOSICION AVANZADA II 2 1 2 0 0 REGULAR 24425 06 03 01 0007
+14492 06 03 01 0005
+14492 06 03 01 0004
+
+
+
+Fecha: 03/07/2020 Pagina 6 de 7
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 03 ESPANOL.
+     Carrera : 01 LIC. ESPAÑOL
+
+  Código del Plan: 0006 No_Acuerdo: 2-13 Fecha Creación : 01-MAR-2013
+
+Fecha de Aprobación: 28/02/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+24426 ESP 335 LITERATURA ESPAÑOLA IV (REALISMO NATURAL Y MOD 3 3 0 0 0 REGULAR 24426 06 03 01 0007
+14504 06 03 01 0005
+14504 06 03 01 0004
+
+24427 ESP 340 LITERATURA HISPANOAMERICANA IV 3 3 0 0 0 REGULAR 24427 06 03 01 0007
+14508 06 03 01 0005
+14508 06 03 01 0004
+
+24428 ESP 345 LITERATURA PANAMEÑA II 3 3 0 0 0 REGULAR 24428 06 03 01 0007
+14496 06 03 01 0004
+14496 06 03 01 0005
+
+24546 ESP 425 LATIN II 3 2 2 0 0 REGULAR 24546 06 03 01 0007
+14488 06 03 01 0004
+14488 06 03 01 0005
+
+24550 ESP 420 TRABAJO DE GRADO (TESIS) 6 3 0 0 0 REGULAR
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12786 SEM2 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL
+22489 NCRS 0018 REALIDAD SOCIAL DE PANAMA 2 2 0 0 0 REGULAR I
+24432 ESP 410 PENSAMIENTO CRITICO APLICADO AL LENGUAJE 3 3 0 0 0 REGULAR
+24545 ESP 405 LITERATURA ESPAÑOLA V (VANGUARDIA Y CN TEMPORA 3 3 0 0 REGULAR 14505 06 03 01 0004
+
+14505 06 03 01 0005
+14506 06 03 01 0004
+14506 06 03 01 0005
+
+24548 SEM I ANALISIS Y ESTUDIO SOBRE LA OBRA DE UN AUTOR . 2 40 0 0 0 REGULAR
+24551 ESP 435 TRABAJO DE GRADO (TESIS) 6 3 0 0 0 REGULAR
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+
+
+Fecha: 03/07/2020 Pagina 7 de 7
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 03 ESPANOL.
+     Carrera : 01 LIC. ESPAÑOL
+
+  Código del Plan: 0006 No_Acuerdo: 2-13 Fecha Creación : 01-MAR-2013
+
+Fecha de Aprobación: 28/02/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN ESPAÑOL
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+14542 MAED 701 ADMINISTRACION EDUCATIVA I 3 3 0 0 0 REGULAR
+14544 MAED 703 GESTION DE RECURSOS HUMANOS EN EDUCACION 3 2 2 0 0 REGULAR
+18578 MALH 705 SEMINARIO SOBRE TOP. DE ESTILISTA, ESTRUC. SEM 3 2 2 0 FUNDAMENTAL
+18579 MALH 706 LITERATURA COLONIAL 3 2 2 0 0 REGULAR
+18582 MALH 709 LA POESIA HISPANOAMERICANA MODERNA 3 2 2 0 FUNDAMENTAL
+22482 NCMA 0011 MATEMATICAS 3 2 2 0 0 REGULAR I
+23739 NCEV 0078 ETICA Y VALORES DEL SIGLO XXI 2 2 0 0 0 REGULAR I

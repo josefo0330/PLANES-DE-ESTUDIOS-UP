@@ -1,0 +1,840 @@
+﻿Fecha: 22/10/2020 Pagina 1 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+00778 PSI 110A PSICOLOGIA GENERAL 3 3 0 0 0 FUNDAMENTAL
+20283 ANA 150A ANATOMIA Y FISIOLOGIA HUMANA 3 2 0 0 2 REGULAR
+22269 NC % TEORIA DE LA CIENCIA 2 1 2 0 0 REGULAR
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR 09408 27 01 01 0003
+
+09408 27 01 01 0004
+11297 27 01 01 0005
+11297 27 01 01 0006
+11297 27 01 01 0007
+22472 27 01 01 0009
+22472 27 01 01 0010
+11303 27 01 01 0005
+11303 27 01 01 0006
+
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR 11023 27 01 01 0005
+11023 27 01 01 0006
+11023 27 01 01 0007
+22475 27 01 01 0009
+22475 27 01 01 0010
+
+22476 NCIF 0005 INFORMATICA Y REDES DE APRENDIZAJE 2 1 0 0 2 REGULAR 11320 27 01 01 0003
+11320 27 01 01 0004
+20284 27 01 01 0005
+20284 27 01 01 0006
+20284 27 01 01 0007
+22476 27 01 01 0009
+22476 27 01 01 0010
+20287 27 01 01 0007
+
+22478 NCFI 0007 TEORIA DE LA CIENCIA 2 1 2 0 0 REGULAR
+22486 NCMA 0015 MATEMATICA 2 1 2 0 0 REGULAR I 11323 27 01 01 0003
+
+11323 27 01 01 0004
+20282 27 01 01 0005
+20282 27 01 01 0006
+
+
+
+Fecha: 22/10/2020 Pagina 2 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25418 NCMA 0016 MATEMATICA 2 1 2 0 0 REGULAR 11323 27 01 01 0003
+11323 27 01 01 0004
+20282 27 01 01 0005
+20282 27 01 01 0006
+20282 27 01 01 0007
+20285 27 01 01 0007
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+00779 PSI 110B PSICOLOGIA GENERAL 3 3 0 0 0 FUNDAMENTAL 00778 PSI 110A
+11317 PSIC 115B FUNDAMENTOS DE LA INV. CIENTIFICA 3 3 0 0 0 REGULAR 22478 NCFI 0007 11317 27 01 01 0005
+
+11317 27 01 01 0006
+11317 27 01 01 0007
+11317 27 01 01 0009
+11317 27 01 01 0010
+
+20286 ANA 150B ANATOMIA Y FISIOLOGIA HUMANA 3 2 0 0 2 FUNDAMENTAL 20283 ANA 150A
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+22494 NCCS 0023 INTRODUCION DE LA CIENCIA DE LA SALUD 2 2 0 0 0 REGULAR
+22495 NCPS 0024 PSICOLOGIA APLICADA A LA CIENCIA DE LA SALUD 2 1 3 0 0 REGULAR
+22496 NCBI 0025 BIOLOGIA MOLECULAR Y CELULAR 3 2 0 0 3 REGULAR
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+20305 EF 100 EDUCACION FISICA 1 0 3 0 0 REGULAR
+20306 FIL 107 FILOSOFIA DE LA CIENCIA 3 3 0 0 0 REGULAR
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR 19061 27 01 01 0005
+
+19061 27 01 01 0006
+
+
+
+Fecha: 22/10/2020 Pagina 3 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22499 NCEN 0028 OPTATIVA: ATENCION DE SALUD SEXUAL Y REPRODUCT 2 0 0 0 0 OPTATIVA I
+22501 NCME 0030 OPTATIVA: NUTRICION Y SALUD 2 0 0 0 0 OPTATIVA I
+22508 NCPS 0037 OPTATIVA. DESARROLLO HUMANO 2 0 0 0 0 OPTATIVA I
+23863 NC 0075 TALLERES DE DANZA 2 0 0 0 0 OPTATIVA I
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+20307 PSIC 210 PSICO ESTADISTICA DESCRIPTIVA 3 2 3 0 0 REGULAR 25418 NCMA 0016
+20308 ANA 201 NEUROANATOMIA HUMANA 3 2 0 0 3 FUNDAMENTAL 20283 ANA 150A 11322 27 01 01 0003
+
+20286 ANA 150B 11322 27 01 01 0004
+20308 27 01 01 0005
+20308 27 01 01 0006
+20308 27 01 01 0007
+20308 27 01 01 0009
+20308 27 01 01 0010
+
+20309 PSIC 220 PSICOLOGIA DEL APRENDIZAJE 2 1 3 0 0 FUNDAMENTAL 00778 PSI 110A
+00779 PSI 110B
+
+20310 PSIC 217 PSICOLOGIA DEL DESDE LA INFANCIA Y NIÑEZ TEMPR 2 1 3 0 0 FUNDAMENTAL 00778 PSI 110A
+00779 PSI 110B
+
+20312 PSIC 285A PSICOLOGIA SOCIAL 3 2 2 0 0 FUNDAMENTAL 00778 PSI 110A 11338 27 01 01 0003
+00779 PSI 110B 11338 27 01 01 0004
+
+20313 HIST 265 ANTROPOLOGIA 3 3 0 0 0 REGULAR 11041 27 01 01 0003
+11041 27 01 01 0004
+
+22484 NCMI 0013 METODOLOGIA DE LA INVESTIGACION 2 1 2 0 0 REGULAR 11317 PSIC 115B 11026 27 01 01 0003
+11026 27 01 01 0004
+20311 27 01 01 0005
+20311 27 01 01 0006
+20311 27 01 01 0007
+
+
+
+Fecha: 22/10/2020 Pagina 4 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+20314 PSIC 211 PSICOESTADISTICA INFERENCIAL 3 2 3 0 0 FUNDAMENTAL 20307 PSIC 210
+20315 PSI 220B PSICOLOGIA DEL APRENDIZAJE 2 1 3 0 0 FUNDAMENTAL 20309 PSIC 220 11331 27 01 01 0003
+
+11331 27 01 01 0004
+20316 PSIC 218 PSICOLOGIA DEL DES DE LA NIÑEZ TARDIA Y ADOLES 2 1 3 0 0 FUNDAMENTAL 20310 PSIC 217 11328 27 01 01 0003
+
+11328 27 01 01 0004
+20317 PSIC 260 METODOS DE INVESTIGACION CUALITATIVA 2 1 2 0 0 FUNDAMENTAL 22484 NCMI 0013
+20318 PSIC 285B PSICOLOGIA SOCIAL 3 2 2 0 0 FUNDAMENTAL 20312 PSIC 285A 11344 27 01 01 0003
+
+11344 27 01 01 0004
+20318 27 01 01 0005
+20318 27 01 01 0006
+20318 27 01 01 0007
+20318 27 01 01 0009
+20318 27 01 01 0010
+
+20319 ANA 202 NEUROFISIOLOGIA HUMANA 3 2 0 0 3 FUNDAMENTAL 20308 ANA 201 11326 27 01 01 0003
+11326 27 01 01 0004
+20319 27 01 01 0005
+20319 27 01 01 0006
+20319 27 01 01 0007
+20319 27 01 01 0009
+20319 27 01 01 0010
+
+20320 PSIC 206 PSICOLOGIA DE LA COMUNICACION 2 1 2 0 0 FUNDAMENTAL 20309 PSIC 220
+20310 PSIC 217
+20312 PSIC 285A
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+20321 GEO 120 EDUCACION AMBIENTAL 2 2 0 0 0 REGULAR
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR 19060 27 01 01 0005
+
+
+
+Fecha: 22/10/2020 Pagina 5 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22498 NCEN 0027 OPTATIVA: GESTION EMPRENDEDORA EN SALUD 2 0 0 0 0 OPTATIVA I
+22500 NCEN 0029 OPTATIVA: PREVENCION DE LA CONDUCTA ADICTIVA 2 0 0 0 0 OPTATIVA I
+22507 NCPS 0036 OPTATIVA: INTELIGENCIA EMOCIONAL 2 0 0 0 0 OPTATIVA I
+23862 NC 0074 TEATRO PARA LA ASERTIVIDAD PROFESIONAL 2 0 0 0 0 OPTATIVA I
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+01969 PSI 365A PSICOLOGIA DE LA PERSONALIDAD PN 3 3 0 0 0 FUNDAMENTAL 20310 PSIC 217
+20316 PSIC 218
+
+20322 PSIC 320 PSICOLOGIA DEL DESARROLLO DEL ADULTO 2 1 3 0 0 FUNDAMENTAL 20310 PSIC 217
+20316 PSIC 218
+
+20323 PSIC 340 PSICOLOGIA EXPERIMENTAL 2 1 2 0 0 FUNDAMENTAL 20307 PSIC 210
+20314 PSIC 211
+20317 PSIC 260
+22484 NCMI 0013
+
+20324 PSIC 352 EVALUACION PSICOLOGICA I 2 1 3 0 0 FUNDAMENTAL 20307 PSIC 210
+20310 PSIC 217
+20314 PSIC 211
+20316 PSIC 218
+20317 PSIC 260
+22484 NCMI 0013
+
+20325 PSIC 360 ANALISIS CONDUCTUAL APLICADO 2 1 3 0 0 FUNDAMENTAL 20309 PSIC 220
+20310 PSIC 217
+20315 PSI 220B
+20316 PSIC 218
+20317 PSIC 260
+22484 NCMI 0013
+
+20326 PSIC 370 ELABORACION DE INSTRUMTOS DE MEDICION PSICOLOG 2 1 3 0 0 FUNDAMENTAL 20307 PSIC 210
+
+
+
+Fecha: 22/10/2020 Pagina 6 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+20420 PSIC 382A PSICOFISIOLOGIA 2 2 0 0 1 FUNDAMENTAL 20308 ANA 201 11335 27 01 01 0003
+20319 ANA 202 11335 27 01 01 0004
+
+20420 27 01 01 0005
+20420 27 01 01 0006
+20420 27 01 01 0007
+20420 27 01 01 0009
+20420 27 01 01 0010
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+11342 PSIC 365B PSICOLOGIA DE LA PERSONALIDAD 3 3 0 0 0 FUNDAMENTAL 01969 PSI 365A
+20322 PSIC 320
+
+20327 PSIC 382 PSICOFISIOLOGIA 2 2 0 0 1 FUNDAMENTAL 20420 PSIC 382A 11339 27 01 01 0003
+11339 27 01 01 0004
+20327 27 01 01 0005
+20327 27 01 01 0006
+20327 27 01 01 0007
+20327 27 01 01 0009
+20327 27 01 01 0010
+
+20328 PSIC 355 EVALUACION PSICOLOGICA II 2 1 3 0 0 FUNDAMENTAL 20324 PSIC 352
+20329 PSIC 385 PSICOLOGIA EDUCATIVA 2 1 3 0 0 FUNDAMENTAL 20309 PSIC 220
+20330 PSIC 375 NEUROPSICOLOGIA 2 1 2 0 0 FUNDAMENTAL 20308 ANA 201
+
+20319 ANA 202
+20420 PSIC 382A
+
+20331 PSIC 387 ANALISIS DE LA CONDUCTA DELICTIVA 2 1 3 0 0 FUNDAMENTAL 01969 PSI 365A
+20309 PSIC 220
+20310 PSIC 217
+20312 PSIC 285A
+
+
+
+Fecha: 22/10/2020 Pagina 7 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+20332 PSIC 390 DINAMICA DE GRUPO 1 0 3 0 0 FUNDAMENTAL 20309 PSIC 220 11348 27 01 01 0003
+20312 PSIC 285A 11348 27 01 01 0004
+20315 PSI 220B
+20318 PSIC 285B
+20320 PSIC 206
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+11346 PSIC 410A PSICOPATOLOGIA 3 2 2 0 0 FUNDAMENTAL 01969 PSI 365A
+11342 PSIC 365B
+20324 PSIC 352
+20327 PSIC 382
+20328 PSIC 355
+20420 PSIC 382A
+
+11350 PSIC 404A PSICOLOGIA ESCOLAR 3 2 2 0 0 FUNDAMENTAL 20324 PSIC 352
+20326 PSIC 370
+20328 PSIC 355
+20329 PSIC 385
+20332 PSIC 390
+
+11354 PSIC 406 PSICOLOGIA FAMILIAR 2 2 1 0 0 FUNDAMENTAL 01969 PSI 365A
+11342 PSIC 365B
+20322 PSIC 320
+
+20333 PSIC 408A PSICOLOGIA ORGANIZACIONAL I 3 2 2 0 0 FUNDAMENTAL 01969 PSI 365A
+11342 PSIC 365B
+20312 PSIC 285A
+20318 PSIC 285B
+20324 PSIC 352
+20328 PSIC 355
+
+
+
+Fecha: 22/10/2020 Pagina 8 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+20334 PSIC 401A PSICOLOGIA DE LA ORIENTACION VOCACIONAL Y PROF 2 1 3 0 0 FUNDAMENTAL 20324 PSIC 352
+20328 PSIC 355
+20329 PSIC 385
+20332 PSIC 390
+
+20335 PSIC 430 TERAPIA COGNITIVA CONDUCTUAL 2 1 3 0 0 FUNDAMENTAL 01969 PSI 365A
+11342 PSIC 365B
+20309 PSIC 220
+20315 PSI 220B
+
+20336 PSIC 415 EVALUACION PSICOLOGICA III 2 1 3 0 0 FUNDAMENTAL 01969 PSI 365A
+11342 PSIC 365B
+20324 PSIC 352
+20328 PSIC 355
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+11352 PSIC 410B PSICOPATOLOGIA 3 2 2 0 0 FUNDAMENTAL 01969 PSI 365A 11352 27 01 01 0005
+11342 PSIC 365B 11352 27 01 01 0006
+11346 PSIC 410A 11352 27 01 01 0007
+20324 PSIC 352 11352 27 01 01 0009
+20328 PSIC 355 11352 27 01 01 0010
+20336 PSIC 415
+
+11356 PSIC 404B PSICOLOGIA ESCOLAR 3 2 2 0 0 FUNDAMENTAL 11350 PSIC 404A
+20324 PSIC 352
+20326 PSIC 370
+20328 PSIC 355
+20336 PSIC 415
+
+20337 PSIC 408B PSICOLOGIA ORGANIZACIONAL II 3 2 2 0 0 FUNDAMENTAL 01969 PSI 365A
+11342 PSIC 365B
+
+
+
+Fecha: 22/10/2020 Pagina 9 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+20338 PSIC 401B PSICOLOGIA DE LA ORIENTACION VOCACIONAL Y PROF 2 1 3 0 0 FUNDAMENTAL 20324 PSIC 352
+20328 PSIC 355
+20334 PSIC 401A
+20336 PSIC 415
+
+20339 PSIC 435 TERAPIA DE FAMILIA DE PAREJA 2 1 3 0 0 FUNDAMENTAL 01969 PSI 365A
+11342 PSIC 365B
+20322 PSIC 320
+
+20341 PSIC 440 PSICOLOGIA FORENSE 2 1 2 0 0 FUNDAMENTAL 11346 PSIC 410A
+11354 PSIC 406
+20331 PSIC 387
+
+20342 PSIC 420 EVALUACION PSICOLOGICA IV 2 1 3 0 0 FUNDAMENTAL 01969 PSI 365A
+11342 PSIC 365B
+20324 PSIC 352
+20328 PSIC 355
+20336 PSIC 415
+
+QUINTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+11362 PSIC 565A PRACTICA PROFESIONAL 5 0 15 0 0 FUNDAMENTAL 00778 PSI 110A
+00779 PSI 110B
+01969 PSI 365A
+11317 PSIC 115B
+11342 PSIC 365B
+11346 PSIC 410A
+11350 PSIC 404A
+11352 PSIC 410B
+11354 PSIC 406
+11356 PSIC 404B
+
+
+
+Fecha: 22/10/2020 Pagina 10 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+QUINTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+19546 MAPE 702 FUNCIONES Y SERVICIOS EN PSICOLOGIA ESCOLAR 3 2 3 0 FUNDAMENTAL I
+19552 MAPE 708 PREVENCION Y REHA EN EL USO Y ABUSO DE DROGAS 3 2 3 0 FUNDAMENTAL I
+20343 PSIC 505 SALUD MENTAL 2 1 2 0 0 REGULAR 11346 PSIC 410A
+
+11352 PSIC 410B
+20344 PSIC 510 PSICOTERAPIA Y TECNICAS DE INTERVENCION EN EL 2 1 3 0 0 FUNDAMENTAL 11346 PSIC 410A
+
+11352 PSIC 410B
+20335 PSIC 430
+20339 PSIC 435
+
+20345 PSIC 525 PSICOLOGIA CLINICA DEL ADULTO 2 1 3 0 0 FUNDAMENTAL 11346 PSIC 410A
+11352 PSIC 410B
+20335 PSIC 430
+20339 PSIC 435
+
+20346 PSIC 555 PSICOLOGIA INDUSTRIAL I 3 2 2 0 0 FUNDAMENTAL 20333 PSIC 408A
+20334 PSIC 401A
+20337 PSIC 408B
+20338 PSIC 401B
+
+20347 PSIC 528 INTERVENCION EN NECESIDADES EDUCATIVAS ESPECIA 2 1 3 0 0 FUNDAMENTAL 11346 PSIC 410A
+11350 PSIC 404A
+11352 PSIC 410B
+11356 PSIC 404B
+20309 PSIC 220
+20315 PSI 220B
+20329 PSIC 385
+
+20348 PSIC 570A TRABAJO DE GRADUACION 3 1 4 0 0 FUNDAMENTAL 00778 PSI 110A 20348 27 01 01 0005
+00779 PSI 110B 20348 27 01 01 0006
+01969 PSI 365A 20348 27 01 01 0007
+11317 PSIC 115B 20348 27 01 01 0009
+11342 PSIC 365B
+11346 PSIC 410A
+11350 PSIC 404A
+
+
+
+Fecha: 22/10/2020 Pagina 11 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+QUINTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+QUINTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+11368 PSIC 565B PRACTICA PROFESIONAL 5 0 15 0 0 FUNDAMENTAL 00778 PSI 110A
+00779 PSI 110B
+11317 PSIC 115B
+11346 PSIC 410A
+11350 PSIC 404A
+11352 PSIC 410B
+11354 PSIC 406
+11356 PSIC 404B
+20283 ANA 150A
+20286 ANA 150B
+20305 EF 100
+20306 FIL 107
+20307 PSIC 210
+20308 ANA 201
+20309 PSIC 220
+20310 PSIC 217
+20312 PSIC 285A
+20313 HIST 265
+20314 PSIC 211
+20315 PSI 220B
+20316 PSIC 218
+20317 PSIC 260
+20318 PSIC 285B
+20319 ANA 202
+
+
+
+Fecha: 22/10/2020 Pagina 12 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+QUINTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+20349 PSIC 512 PSICOLOGIA DE LA SALUD 2 1 2 0 0 FUNDAMENTAL 11346 PSIC 410A
+11352 PSIC 410B
+20343 PSIC 505
+
+20350 PSIC 518 PSICOTERAPIA Y TEC DE INTERV INFAN Y DE LA ADO 2 1 3 0 0 FUNDAMENTAL 11346 PSIC 410A
+11352 PSIC 410B
+20335 PSIC 430
+20339 PSIC 435
+
+20351 PSIC 530 PSICOLOGIA CLINICA INFANTIL Y DE LA ADOLESCENC 2 1 3 0 0 FUNDAMENTAL 11346 PSIC 410A
+11352 PSIC 410B
+20345 PSIC 525
+
+20352 PSIC 558 PSICOLOGIA INDUSTRIAL II 3 2 2 0 0 FUNDAMENTAL 20346 PSIC 555
+20353 PSIC 545 PSICOLOGIA COMUNITARIA DE LA SALUD 1 0 3 0 0 FUNDAMENTAL 11350 PSIC 404A
+
+11356 PSIC 404B
+20312 PSIC 285A
+20318 PSIC 285B
+20343 PSIC 505
+20347 PSIC 528
+
+20354 PSIC 570B TRABAJO DE GRADUACION 6 1 4 0 0 FUNDAMENTAL 00778 PSI 110A 20354 27 01 01 0005
+00779 PSI 110B 20354 27 01 01 0006
+01969 PSI 365A 20354 27 01 01 0007
+11317 PSIC 115B 20354 27 01 01 0009
+11342 PSIC 365B 20354 27 01 01 0010
+11346 PSIC 410A
+11350 PSIC 404A
+11352 PSIC 410B
+11354 PSIC 406
+11356 PSIC 404B
+20283 ANA 150A
+20286 ANA 150B
+20305 EF 100
+
+
+
+Fecha: 22/10/2020 Pagina 13 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+QUINTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+21686 MPSIO701 APLIC DE LA PSIC A LA GESTION DEL CAPITAL HUMA 3 2 2 0 0 FUNDAMENTAL I
+21687 MPSIO702 COMP LABORALES EN LA PSIC INDUSTRIAL Y ORGANIZ 3 2 2 0 0 FUNDAMENTAL I
+27005 MPC 703 PSICOLOGIA DE LA SALUD I 3 2 3 0 FUNDAMENTAL I
+27006 MPC 704 PSICOPATALOGIA I 3 2 3 0 FUNDAMENTAL 00778 PSI 110A
+
+00779 PSI 110B
+01969 PSI 365A
+11317 PSIC 115B
+11342 PSIC 365B
+11346 PSIC 410A
+11350 PSIC 404A
+11352 PSIC 410B
+11354 PSIC 406
+11356 PSIC 404B
+11362 PSIC 565A
+11368 PSIC 565B
+20283 ANA 150A
+20286 ANA 150B
+20305 EF 100
+20306 FIL 107
+20307 PSIC 210
+20308 ANA 201
+20309 PSIC 220
+20310 PSIC 217
+20312 PSIC 285A
+20313 HIST 265
+20314 PSIC 211
+20315 PSI 220B
+20316 PSIC 218
+20317 PSIC 260
+20318 PSIC 285B
+
+
+
+Fecha: 22/10/2020 Pagina 14 de 14
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0008 No_Acuerdo: 01-13 Fecha Creación : 18-FEB-2013
+
+Fecha de Aprobación: 28/01/2013 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGIA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGIA
+Turno       : Diurno
+
+QUINTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+29969 SEM SEM SEM COMPORTAMIENTO Y SALUD PROBLEMAS PSICOSOCI 3 1 4 0 0 FUNDAMENTAL
+29970 SEM SEM SEMINARIO MEDIACION ESCOLAR 3 1 4 0 0 FUNDAMENTAL

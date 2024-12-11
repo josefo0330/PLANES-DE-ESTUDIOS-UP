@@ -1,0 +1,287 @@
+﻿Fecha: 14/05/2020 Pagina 1 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 05 TRABAJO SOCIAL.
+     Carrera : 01 LIC. TRABAJO SOCIAL.
+
+  Código del Plan: 0007 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA DE TRABAJO SOCIAL
+Título      : LICENCIADA/LICENCIADO EN TRABAJO SOCIAL
+Turno       : Vespertino
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR
+25085 T.S 120A TRABAJO SOCIAL I 3 3 0 0 0 FUNDAMENTAL
+25086 SOC. 100 PRINCIPIO DE SOCIOLOGÍA 2 1 2 0 0 REGULAR
+25087 ECO. 130 ECONOMÍA SOCIAL 2 1 2 0 0 REGULAR
+25088 T.S 130A TALLER MULTIDISCIPLINARIO DE T. SOCIAL I 3 2 2 0 0 REGULAR
+25089 T.S. VIOLENCIA DE GÉNERO Y DESARROLLO 2 1 2 0 0 REGULAR
+27406 RI 160 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+25310 ESP. 120 RED. Y EXPRESIÓN ORAL 2 1 2 0 0 REGULAR
+25311 ING. 100 INGLES TÉCNICO 2 1 2 0 0 REGULAR
+25312 T.S. 120B TRABAJO SOCIAL II 3 3 0 0 0 FUNDAMENTAL 25085 T.S 120A
+25313 SOC. 110 TEORÍA DEL CAMBIO SOCIAL 2 1 2 0 0 REGULAR
+25314 T.S. 130B TALLER MULTIDISCIPLINARIO DE TRAB. SOCIAL II 3 2 2 0 0 FUNDAMENTAL 25088 T.S 130A
+27408 RI 161 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22476 NCIF 0005 INFORMATICA Y REDES DE APRENDIZAJE 2 1 2 0 0 REGULAR
+25343 T.S 210A METODOLOGIA DE INVESTIGACIÓN SOCIAL I 3 2 2 0 0 FUNDAMENTAL
+25344 T.S. 220A T. SOCIAL EN EL DESARROLLO HUMANO I 3 3 0 0 0 FUNDAMENTAL 25085 T.S 120A
+
+25312 T.S. 120B
+25345 TS/AN230 CULTURA E IDENTIDAD NACIONAL 3 3 0 0 0 FUNDAMENTAL
+
+
+
+Fecha: 14/05/2020 Pagina 2 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 05 TRABAJO SOCIAL.
+     Carrera : 01 LIC. TRABAJO SOCIAL.
+
+  Código del Plan: 0007 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA DE TRABAJO SOCIAL
+Título      : LICENCIADA/LICENCIADO EN TRABAJO SOCIAL
+Turno       : Vespertino
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25346 R.I 160 HISTORIA DE LAS RELACIONES DE PMÁ CON LOS EEU 2 3 0 0 0 FUNDAMENTAL I
+25347 EST. 210 ESTADÍSTICA DESCRIPTIVA 2 1 2 0 0 REGULAR
+25348 T.S. 240 TRABAJO SOCIAL Y DERECHOS HUMANOS 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+25349 T.S. 210B METODOLOGIA DE INVESTIGACIÓN SOCIAL II 3 2 2 0 0 FUNDAMENTAL 25343 T.S 210A
+25350 T.S. 250 TEORÍA DEL TRABAJO SOCIAL 3 2 2 0 0 FUNDAMENTAL 25085 T.S 120A
+
+25312 T.S. 120B
+25351 T.S. 220B T. SOCIAL EN EL DESARROLLO HUMANO II 3 3 0 0 0 FUNDAMENTAL 25344 T.S. 220A
+25352 PSIC.212 PSICOLOGÍA SOCIAL 2 1 2 0 0 REGULAR
+25353 EST. 220 EST. INFERENCIAL PARA LA INV. SOCIAL 2 1 2 0 0 REGULAR 25347 EST. 210
+25354 R.I. 210 PANAMÁ Y SUS RELACIONES INTERNACIONALES 2 3 0 0 0 FUNDAMENTAL I
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25355 T.S. 310A TALLER MULTIDISCIPLINARIO DE T. SOCIAL III 3 2 2 0 0 FUNDAMENTAL 25088 T.S 130A
+25314 T.S. 130B
+
+25356 T.S. 320A MÉTODOS Y TÉCNICAS EN INV. SOCIAL PARA T.S. I 3 2 2 0 0 FUNDAMENTAL 25343 T.S 210A
+25349 T.S. 210B
+25350 T.S. 250
+
+25357 T.S. 330 FAMILIA Y VIDA COTIDIANA 3 3 0 0 0 FUNDAMENTAL 25350 T.S. 250
+25358 T.S 360 TRABAJO SOCIAL CON GRUPOS 3 3 0 0 0 FUNDAMENTAL 25088 T.S 130A
+
+25314 T.S. 130B
+25359 T.S. 350A TRABAJO SOCIAL EN LA POLÍTICA SOCIAL I 3 3 0 0 0 FUNDAMENTAL 25350 T.S. 250
+
+25351 T.S. 220B
+
+
+
+Fecha: 14/05/2020 Pagina 3 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 05 TRABAJO SOCIAL.
+     Carrera : 01 LIC. TRABAJO SOCIAL.
+
+  Código del Plan: 0007 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA DE TRABAJO SOCIAL
+Título      : LICENCIADA/LICENCIADO EN TRABAJO SOCIAL
+Turno       : Vespertino
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25360 T.S 340 TRABAJO SOCIAL EN EL DES. COMUNITARIO 3 3 0 0 0 FUNDAMENTAL 25350 T.S. 250
+25351 T.S. 220B
+
+25361 T.S. 370A MÉTODO DE TRABAJO SOCIAL I 3 3 0 0 0 FUNDAMENTAL 25344 T.S. 220A
+25350 T.S. 250
+25351 T.S. 220B
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25362 T.S. 310B TALLER MULTIDISCIPLILNARIO DE T.S. IV 3 2 2 0 0 FUNDAMENTAL 25355 T.S. 310A
+25363 T.S. 320B MÉTODOS Y TÉCNICAS DE INV. SOCIAL PARA T.S. I 3 2 2 0 0 FUNDAMENTAL 25356 T.S. 320A
+25364 T.S. 350B TRABAJO SOCIAL EN LA POLÍTICA SOCIAL II 3 3 0 0 0 FUNDAMENTAL 25359 T.S. 350A
+25365 T.S. 380 MODELOS DE INT. EN TRABAJO SOCIAL CON FAMILIA 3 2 2 0 0 FUNDAMENTAL 25357 T.S. 330
+
+25358 T.S 360
+25360 T.S 340
+25361 T.S. 370A
+
+25366 T.S. 370B MÉTODO DE TRABAJO SOCIAL II 3 3 0 0 0 FUNDAMENTAL 25357 T.S. 330
+25358 T.S 360
+25360 T.S 340
+25361 T.S. 370A
+
+25367 T.S. 392 SEMINARIO DE PRÁCTICA 3 1 2 0 0 FUNDAMENTAL 25357 T.S. 330
+25358 T.S 360
+25360 T.S 340
+25361 T.S. 370A
+25366 T.S. 370B
+
+27819 T.S. 390 MODELOS DE INTERVENCIÓN CON GRUPOS 3 3 0 0 0 FUNDAMENTAL
+27820 T.S. 391 MODELOS DE INTERV DE TRABAJO SOCIAL EN COMUNID 3 3 0 0 0 FUNDAMENTAL
+
+CUARTO AÑO PRIMER SEMESTRE
+
+
+
+Fecha: 14/05/2020 Pagina 4 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 05 TRABAJO SOCIAL.
+     Carrera : 01 LIC. TRABAJO SOCIAL.
+
+  Código del Plan: 0007 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA DE TRABAJO SOCIAL
+Título      : LICENCIADA/LICENCIADO EN TRABAJO SOCIAL
+Turno       : Vespertino
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12785 SEM1 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL
+25368 T.S. 420 DISEÑO INV. EXPERIMENTAL Y CUALITATIVA EN T.S 3 2 2 0 0 FUNDAMENTAL 25356 T.S. 320A
+
+25363 T.S. 320B
+25369 T.S. 410A GESTIÓN Y EVALUACIÓN DE PROGRAMAS DE B. SOCIAL 3 3 0 0 0 FUNDAMENTAL 25359 T.S. 350A
+
+25364 T.S. 350B
+25370 T.S. 430A GERENCIA DE LOS SERVICIOS DE BIENESTAR SOCIAL 3 3 0 0 0 FUNDAMENTAL 25359 T.S. 350A
+
+25364 T.S. 350B
+25371 T.S. 440A PRACTICA PRE-PROFESIONAL I 7 0 24 0 0 FUNDAMENTAL 25367 T.S. 392
+25372 T.S. 460A OPCIÓN DE GRADO I 3 3 0 0 0 FUNDAMENTAL 25085 T.S 120A
+
+25088 T.S 130A
+25312 T.S. 120B
+25314 T.S. 130B
+25343 T.S 210A
+25344 T.S. 220A
+25347 EST. 210
+25349 T.S. 210B
+25350 T.S. 250
+25351 T.S. 220B
+25356 T.S. 320A
+25357 T.S. 330
+25358 T.S 360
+25359 T.S. 350A
+25360 T.S 340
+25361 T.S. 370A
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12786 SEM2 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL
+
+
+
+Fecha: 14/05/2020 Pagina 5 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 01 ADMINISTRACION PÚBLICA
+     Escuela : 05 TRABAJO SOCIAL.
+     Carrera : 01 LIC. TRABAJO SOCIAL.
+
+  Código del Plan: 0007 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA DE TRABAJO SOCIAL
+Título      : LICENCIADA/LICENCIADO EN TRABAJO SOCIAL
+Turno       : Vespertino
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12787 PRA PRACTICA PROFESIONAL 6 3 0 0 0 FUNDAMENTAL
+25373 T.S. 470 DISEÑO DE INV. APLICADA PARA EL TRABAJO SOCIA 3 2 2 0 0 FUNDAMENTAL 25368 T.S. 420
+25374 T.S. 410B GESTIÓN Y EVALUACIÓN DE PROGRAMAS DE B. SOCIAL 3 3 0 0 0 FUNDAMENTAL 25369 T.S. 410A
+25375 T.S. 430B GERENCIA DE LOS SERVICIOS DE BIENESTAR SOCIAL 3 3 0 0 0 FUNDAMENTAL 25370 T.S. 430A
+25376 T.S. 440B PRÁCTICA PRE-PROFESIONAL II 7 0 24 0 0 FUNDAMENTAL 25371 T.S. 440A
+25377 T.S. 460B OPCIÓN DE GRADO II 3 3 0 0 0 FUNDAMENTAL 25372 T.S. 460A

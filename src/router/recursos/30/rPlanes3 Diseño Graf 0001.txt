@@ -1,0 +1,247 @@
+﻿U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 08-MAY-24 11:18 AM
+
+RECTORÍA Pagina 1 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 03 ARQUITECTURA Y DISEÑO
+     Escuela : 03 DISEÑO GRÁFICO
+     Carrera : 01 DISEÑO GRAFICO
+
+  Código del Plan: 0001 No_Acuerdo: 11-23 Fecha Creación : 05-DEC-2023
+
+Fecha de Aprobación: 14/11/2023 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN DISEÑO GRÁFICO
+Título      : LICENCIADA/LICENCIADO EN DISEÑO GRÁFICO
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMÁ EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+32042 DIS 1131 DISEÑO GRÁFICO I (COMPOSITIVO) 4 3 3 0 0 FUNDAMENTAL 24142 03 01 06 0005
+32043 ART 1132 REPRESENTACIÓN GRÁFICA I 3 2 2 0 0 FUNDAMENTAL 24143 03 01 06 0005
+32044 ART 1001 DIBUJO MANUAL Y DIGITAL 2 1 3 0 0 FUNDAMENTAL 23688 03 01 06 0005
+32045 ART 1133 TIPOGRAFIA I 3 3 1 0 0 FUNDAMENTAL 24144 03 01 06 0005
+32046 DGRF 0000 LENGUAJE GRÁFICO 2 1 2 0 0 FUNDAMENTAL 24150 03 01 06 0005
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+32047 DIS 1231 DISEÑO GRÁFICO II (CÓMICON) 4 3 3 0 0 FUNDAMENTAL 32042 DIS 1131 24146 03 01 06 0005
+32048 ART 1232 REPRESENTACIÓN GRÁFICA II 3 2 2 0 0 FUNDAMENTAL 32043 ART 1132 24147 03 01 06 0005
+32049 ART 1202 GEOMETRÍA DESCRIPTIVA Y DIGITAL 2 1 3 0 0 FUNDAMENTAL 32044 ART 1001 23690 03 01 06 0005
+32050 ART 1233 TIPOGRAFÍA II 3 3 1 0 0 FUNDAMENTAL 32045 ART 1133 24148 03 01 06 0005
+32087 DGR 1330 INTRODUCCIÓN AL 3D OPTATIVA 2 1 2 0 0 FUNDAMENTAL 24152 03 01 06 0005
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLÉS 2 1 2 0 0 REGULAR
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR
+32051 PUB 4134 PRINCIPIO DE PUBLICIDAD 2 2 0 0 0 REGULAR 24176 03 01 06 0005
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+32053 DIS 2131 DISEÑO GRÁFICO III (IDENTIDAD) 4 3 3 0 0 FUNDAMENTAL 32047 DIS 1231 24154 03 01 06 0005
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 08-MAY-24 11:18 AM
+
+RECTORÍA Pagina 2 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 03 ARQUITECTURA Y DISEÑO
+     Escuela : 03 DISEÑO GRÁFICO
+     Carrera : 01 DISEÑO GRAFICO
+
+  Código del Plan: 0001 No_Acuerdo: 11-23 Fecha Creación : 05-DEC-2023
+
+Fecha de Aprobación: 14/11/2023 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN DISEÑO GRÁFICO
+Título      : LICENCIADA/LICENCIADO EN DISEÑO GRÁFICO
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+32054 TEC 2137 TÉCNICAS DE REPRODUCCIÓN I 2 1 3 0 0 FUNDAMENTAL 32048 ART 1232 24157 03 01 06 0005
+32055 ART 2105 DISEÑO GRÁFICO ANTIGUEDAD AL S XVII 3 3 0 0 0 REGULAR 23715 03 01 06 0005
+32056 ART 2136 FOTOGRAFÍA DIGITAL 3 2 3 0 0 FUNDAMENTAL 32048 ART 1232 24156 03 01 06 0005
+32057 FACD 1200 INTRODUCCIÓN A LA INVESTIGACIÓN 2 2 0 0 0 REGULAR 23692 03 01 06 0005
+32088 DGR 2330 DISEÑO GRÁFICO ACCESIBLE OPTATIVA 2 1 2 0 0 FUNDAMENTAL 24172 03 01 06 0005
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR
+32058 DIS 2231 DISEÑO GRÁFICO IV (COMERCIAL) 4 3 3 0 0 FUNDAMENTAL 32053 DIS 2131 24158 03 01 06 0005
+32059 TEC 2237 TÉCNICAS DE REPRODUCCIÓN II 2 1 3 0 0 FUNDAMENTAL 32054 TEC 2137 24161 03 01 06 0005
+32060 ART 2205 DISEÑO GRÁFICO MODERNO Y CONTEMPORÁNEO 3 3 0 0 0 REGULAR 32055 ART 2105 23717 03 01 06 0005
+32061 ART 2236 FOTOGRAFÍA 3 2 3 0 0 FUNDAMENTAL 32056 ART 2136 24160 03 01 06 0005
+32062 PUB 2234 TALLER DE REDACCIÓN CREATIVA Y PUBLICITARIA 2 1 2 0 0 REGULAR 24162 03 01 06 0005
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR 27405 HIST 165
+32092 NC 0000 APRECIACIÓN MUSICAL   ELECTIVA 2 1 2 0 0 REGULAR
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+32063 DIS 3131 DISEÑO GRÁFICO V (PROMOCIONAL) 4 3 3 0 0 FUNDAMENTAL 32058 DIS 2231 24163 03 01 06 0005
+32064 ART 3136 TÉCNICAS AUDIOVISUALES I 3 2 2 0 0 FUNDAMENTAL 32061 ART 2236 24165 03 01 06 0005
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 08-MAY-24 11:18 AM
+
+RECTORÍA Pagina 3 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 03 ARQUITECTURA Y DISEÑO
+     Escuela : 03 DISEÑO GRÁFICO
+     Carrera : 01 DISEÑO GRAFICO
+
+  Código del Plan: 0001 No_Acuerdo: 11-23 Fecha Creación : 05-DEC-2023
+
+Fecha de Aprobación: 14/11/2023 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN DISEÑO GRÁFICO
+Título      : LICENCIADA/LICENCIADO EN DISEÑO GRÁFICO
+Turno       : Diurno
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+32065 DIS 0000 DISEÑO DE RECURSOS DIDÁCTICOS 3 2 2 0 0 FUNDAMENTAL 32058 DIS 2231
+32066 TEC 0000 TALLER DE IMPRESIÓN 3D 3 2 2 0 0 REGULAR 32059 TEC 2237
+32089 DGR 0000 INTRODUCCIÓN AL MODELADO 3D OPTATIVA 2 1 2 0 0 FUNDAMENTAL 24172 03 01 06 0005
+32090 DGRF 3130 INFOGRAFÍA PARA DISEÑO GRÁFICO OPTATIVA 2 1 2 0 0 FUNDAMENTAL
+32091 DGRF 0000 TÉCNICAS ARTESANALES Y DE GRABADO OPTATIVA 2 1 2 0 0 FUNDAMENTAL
+32093 NC 0000 APRECIACIÓN DEL ARTE ELECTIVA 2 1 2 0 0 REGULAR
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+32067 DIS 3231 DISEÑO GRÁFICO VI (EDITORIAL) 4 3 3 0 0 FUNDAMENTAL 32063 DIS 3131 24163 03 01 06 0005
+32068 ART 3236 TÉCNICAS AUDIOVISUALES II 3 2 2 0 0 FUNDAMENTAL 32064 ART 3136 24170 03 01 06 0005
+32069 TEC 310 PRESUPUESTO PARA DISEÑO GRÁFICO 2 1 2 0 0 FUNDAMENTAL
+32070 * 4137 GESTIÓN DEL DISEÑO I 3 2 2 0 0 FUNDAMENTAL 32058 DIS 2231 24177 03 01 06 0005
+32071 ART 0000 EDICIÓN DIGITAL I 3 2 2 0 0 FUNDAMENTAL 32061 ART 2236
+
+CUARTO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+32072 DGRF 3330 PRÁCTICA LABORAL SUPERVISADA 4 1 7 0 0 FUNDAMENTAL 32067 DIS 3231 24174 03 01 06 0005
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+32073 DIS 4131 DISEÑO GRÁFICO VII (SOCIAL) 4 3 3 0 0 FUNDAMENTAL 32067 DIS 3231 24163 03 01 06 0005
+32074 ART 4135 TEORÍA DEL DISEÑO 2 2 0 0 0 FUNDAMENTAL 32067 DIS 3231 24179 03 01 06 0005
+32075 TEC 4237 GESTIÓN DEL DISEÑO II 3 2 2 0 0 FUNDAMENTAL 32070 * 4137 24181 03 01 06 0005
+32076 ART 4136 TALLER DE MEDIOS INTERACTIVOS I 3 2 2 0 0 FUNDAMENTAL 32068 ART 3236 24178 03 01 06 0005
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 08-MAY-24 11:18 AM
+
+RECTORÍA Pagina 4 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 03 ARQUITECTURA Y DISEÑO
+     Escuela : 03 DISEÑO GRÁFICO
+     Carrera : 01 DISEÑO GRAFICO
+
+  Código del Plan: 0001 No_Acuerdo: 11-23 Fecha Creación : 05-DEC-2023
+
+Fecha de Aprobación: 14/11/2023 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN DISEÑO GRÁFICO
+Título      : LICENCIADA/LICENCIADO EN DISEÑO GRÁFICO
+Turno       : Diurno
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+32077 ART 0000 EDICIÓN DIGITAL II 3 2 2 0 0 FUNDAMENTAL 32068 ART 3236 24170 03 01 06 0005
+32078 DGRF 0000 TRABAJO DE GRADUACIÓN 3 0 0 0 0 FUNDAMENTAL
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12787 PRA PRACTICA PROFESIONAL 6 3 0 0 0 FUNDAMENTAL
+22484 NCMI 0013 METODOLOGIA DE LA INVESTIGACION 2 2 0 0 0 REGULAR 32057 FACD 1200 22484 03 01 06 0005
+32079 DIS 4231 DISEÑO GRÁFICO VIII (MULTIMEDIA) 4 3 3 0 0 FUNDAMENTAL 32073 DIS 4131 24180 03 01 06 0005
+32080 ART 4235 CRÍTICA DEL DISEÑO 2 2 0 0 0 FUNDAMENTAL 32074 ART 4135 24183 03 01 06 0005
+32081 DGRF 0000 AUTORÍA EN DISEÑO 2 2 0 0 0 REGULAR 32073 DIS 4131
+32082 ART 4236 TALLER DE MEDIOS INTERACTIVOS II 3 2 3 0 0 FUNDAMENTAL 32076 ART 4136 24182 03 01 06 0005
+32083 ART 1332 PORTAFOLIO PROFESIONAL 2 2 0 0 0 FUNDAMENTAL 32073 DIS 4131 24153 03 01 06 0005
+32084 DGRF 4330 TRABAJO DE GRADUACIÓN 3 0 0 0 0 FUNDAMENTAL 32078 DGRF 0000
+32085 TESIS TESIS DE GRADO 6 0 0 0 0 FUNDAMENTAL
+32086 EXAME EXAMEN DE GRADO 6 0 0 0 0 FUNDAMENTAL

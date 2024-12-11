@@ -1,0 +1,558 @@
+﻿Fecha: 07/08/2020 Pagina 1 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 05 GEOGRAFIA E HISTORIA
+     Carrera : 01 LIC. GEO. E HISTORIA
+
+  Código del Plan: 0005 No_Acuerdo: Fecha Creación : 10-MAR-2015
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORIA
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORI
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+26113 GEO 100 GEOGRAFIA MATEMATICA 3 2 2 0 0 FUNDAMENTAL 00481 06 05 01 0001
+
+00481 06 05 01 0003
+00481 06 05 01 0004
+00481 06 05 01 0002
+
+26114 GEO 106 GEO. FISICA 3 2 2 0 0 FUNDAMENTAL 04073 06 05 01 0001
+04073 06 05 01 0002
+04073 06 05 01 0003
+04073 06 05 01 0004
+
+26115 GEO 108 GEO. HUMANA I ( GEO DE LA POBLACION) 3 2 2 0 0 FUNDAMENTAL 03014 06 05 01 0001
+03014 06 05 01 0002
+03014 06 05 01 0003
+03014 06 05 01 0004
+
+26116 HIST 100 HISTORIA ORIENTE, GRECIA Y ROMA I 3 3 0 0 0 FUNDAMENTAL 03199 06 05 01 0001
+03199 06 05 01 0002
+03199 06 05 01 0004
+03199 06 05 01 0003
+
+26117 ANT 110 ANTROPOLOGIA I 2 2 0 0 0 FUNDAMENTAL 03019 06 05 01 0001
+03019 06 05 01 0002
+
+26118 HIST 120 PRE-HISTORIA DE PANAMA 3 3 0 0 0 FUNDAMENTAL 03021 06 05 01 0001
+03021 06 05 01 0002
+
+26119 HIST 160 HIST. RELAC. PANAMA-ESTADOS UNIDOS I 3 3 0 0 0 FUNDAMENTAL 27405 06 05 01 0005
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL 06036 06 05 01 0001
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26120 GEO 104 CARTOGRAFIA BASICA 3 2 2 0 0 FUNDAMENTAL 03198 06 05 01 0003
+03198 06 05 01 0004
+
+
+
+Fecha: 07/08/2020 Pagina 2 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 05 GEOGRAFIA E HISTORIA
+     Carrera : 01 LIC. GEO. E HISTORIA
+
+  Código del Plan: 0005 No_Acuerdo: Fecha Creación : 10-MAR-2015
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORIA
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORI
+Turno       : Diurno
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26121 GEO 106 GEOGRAFIA FISICA II ( BIOG Y OCEANOGRAFIA) 3 2 2 0 0 FUNDAMENTAL 26114 GEO 106 04300 06 05 01 0001
+04300 06 05 01 0002
+04300 06 05 01 0003
+04300 06 05 01 0004
+
+26122 GEO 108 GEOGRAFIA HUMANA II (GEO RURAL Y URBANA) 3 2 2 0 0 FUNDAMENTAL 26115 GEO 108 04216 06 05 01 0001
+04216 06 05 01 0003
+04216 06 05 01 0004
+04216 06 05 01 0002
+
+26123 HIST 100 HISTORIA ORIENTE, GRECIA Y ROMA II 3 3 0 0 0 FUNDAMENTAL 26116 HIST 100 03200 06 05 01 0001
+03200 06 05 01 0002
+03200 06 05 01 0003
+
+26124 ANT 110 ANTROPOLOGIA II 2 2 0 0 0 FUNDAMENTAL 26117 ANT 110 03020 06 05 01 0001
+03020 06 05 01 0002
+
+26125 HIST 125 HIS. DE PANAMA: EPOCA HISPANA 3 3 0 0 0 FUNDAMENTAL 26118 HIST 120 03018 06 05 01 0001
+03018 06 05 01 0002
+03018 06 05 01 0003
+03018 06 05 01 0004
+
+26126 HIST 150 ETNOGRAFIA 3 3 0 0 0 FUNDAMENTAL 03022 06 05 01 0001
+03022 06 05 01 0002
+
+26127 HIST 160 HIST. RELAC. PANAMA-ESTADOS UNIDOS 3 3 0 0 0 FUNDAMENTAL I 06155 06 05 01 0001
+27407 06 05 01 0005
+
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL 06155 06 05 01 0001
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR 22473 06 05 01 0003
+22473 06 05 01 0004
+
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR
+
+
+
+Fecha: 07/08/2020 Pagina 3 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 05 GEOGRAFIA E HISTORIA
+     Carrera : 01 LIC. GEO. E HISTORIA
+
+  Código del Plan: 0005 No_Acuerdo: Fecha Creación : 10-MAR-2015
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORIA
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORI
+Turno       : Diurno
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22476 NCIF 0005 INFORMATICA Y REDES DE APRENDIZAJE 2 1 2 0 0 REGULAR
+22484 NCMI 0013 METODOLOGIA DE LA INVESTIGACION 2 1 2 0 0 REGULAR
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26128 GEO 200 GEOGRAFIA HUMANA I (GEOGRAFIA ECONOMICA) 3 2 2 0 0 FUNDAMENTAL 26115 GEO 108 01820 06 05 01 0001
+26122 GEO 108
+
+26129 GEO 210 GEOGRAFIA FISICA I (GEOMORFOLOGIA ESTRUCTURAL 3 2 2 0 0 FUNDAMENTAL 26114 GEO 106 07538 06 05 01 0001
+26121 GEO 106
+
+26130 GEO 220 GEOGRAFIA POLITICA Y GEOPOLITICA 3 2 2 0 0 FUNDAMENTAL 07423 06 05 01 0001
+26131 HIST 200 HISTORIA DE EDAD MEDIA I 3 3 0 0 0 FUNDAMENTAL 03452 06 05 01 0001
+
+03452 06 05 01 0002
+26132 HIST 210 HISTORIA DE AMERICA I 3 3 0 0 0 FUNDAMENTAL 03206 06 05 01 0001
+
+03206 06 05 01 0002
+26133 HIST 220 HIST. DE PANAMA: UNION A COLOMBIA 3 3 0 0 0 FUNDAMENTAL 26118 HIST 120 03033 06 05 01 0001
+
+26125 HIST 125 03033 06 05 01 0002
+26134 CART 211 CARTOGRAFIA DIGITAL 3 2 2 0 0 FUNDAMENTAL 26120 GEO 104
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26135 GEO 200 GEOGRAFIA HUMANA II (GEOGRAFIA ECONOMICA) 3 2 2 0 0 FUNDAMENTAL 26135 GEO 200 04257 06 05 01 0001
+04257 06 05 01 0002
+
+26136 GEO 210 GEOGRAFIA FISICA II (GEOMORFOLOGIA CLIMATICA) 3 2 2 0 0 FUNDAMENTAL 26129 GEO 210 03041 06 05 01 0001
+03041 06 05 01 0002
+
+26137 GEO 230 MET. Y TECNICA DE LA INV. GEOGRAFICA 3 3 2 0 0 FUNDAMENTAL 07534 06 05 01 0001
+26138 HIST 200 HISTORIA DE LA EDAD MEDIA II 3 3 0 0 0 FUNDAMENTAL 26131 HIST 200 03453 06 05 01 0001
+
+03453 06 05 01 0002
+
+
+
+Fecha: 07/08/2020 Pagina 4 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 05 GEOGRAFIA E HISTORIA
+     Carrera : 01 LIC. GEO. E HISTORIA
+
+  Código del Plan: 0005 No_Acuerdo: Fecha Creación : 10-MAR-2015
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORIA
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORI
+Turno       : Diurno
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26139 HIST 210 HISTORIA  DE AMERICA II 3 3 0 0 0 FUNDAMENTAL 26132 HIST 210 03207 06 05 01 0001
+03207 06 05 01 0002
+
+26140 HIST 230 HIST. DE PANAMA: EPOCA REPUBLICANA 3 3 0 0 0 FUNDAMENTAL 26133 HIST 220 03048 06 05 01 0001
+03048 06 05 01 0002
+
+26141 GEO 240 INTRO. A LOS SISTEMAS DE INFORMACION GEOGR. 3 2 2 0 0 FUNDAMENTAL
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+26142 GEO 250 PLANIFICACION Y ORDENAMIENTO TERRITORIAL 3 2 2 0 0 FUNDAMENTAL
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26143 GEO 300 GEOGRAFIA REGIONAL DE PANAMA I 3 3 0 0 0 FUNDAMENTAL 07540 06 05 01 0001
+26144 GEO 310 GEOGRAFIA REGIONAL DE AMERICA I 3 3 0 0 0 FUNDAMENTAL 07542 06 05 01 0001
+26145 GEO 320 GEOGRAFIA REGIONAL DE EUROPA Y ASIA 3 3 0 0 0 FUNDAMENTAL 07544 06 05 01 0001
+26146 HIST 300 HISTORIA MODERNA I 3 3 0 0 0 FUNDAMENTAL 03430 06 05 01 0001
+
+03430 06 05 01 0002
+26147 HIST 310 HISTORIA CONTEMPORANEA I 3 3 0 0 0 FUNDAMENTAL 03216 06 05 01 0001
+
+03216 06 05 01 0002
+26148 HIST 330 HISTORIA DE IDEAS EN AMERICA 3 3 0 0 0 FUNDAMENTAL 03451 06 05 01 0001
+26149 HIST 350 MET. Y TECNICA DE LA INV. HISTORICA I 3 3 0 0 0 FUNDAMENTAL 09427 06 05 01 0001
+26150 CP 301 INTRODUCCION A LA CIENCIA POLITICA I 3 3 0 0 0 REGULAR
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+
+
+Fecha: 07/08/2020 Pagina 5 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 05 GEOGRAFIA E HISTORIA
+     Carrera : 01 LIC. GEO. E HISTORIA
+
+  Código del Plan: 0005 No_Acuerdo: Fecha Creación : 10-MAR-2015
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORIA
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORI
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26151 GEO 300 GEOGRAFIA DE PANAMA II 3 3 0 0 0 FUNDAMENTAL 26143 GEO 300 07541 06 05 01 0001
+26152 GEO 310 GEOGRAFIA REGIONAL DE AMERICA II 3 3 0 0 0 FUNDAMENTAL 26144 GEO 310
+26153 GEO 320 GEOGRAFIA REGIONAL DE AFRICA Y OCEANIA 3 3 0 0 0 FUNDAMENTAL 26145 GEO 320 07545 06 05 01 0001
+26154 HIST 300 HISTORIA MODERNA II 3 3 0 0 0 FUNDAMENTAL 26146 HIST 300 03610 06 05 01 0001
+
+03610 06 05 01 0002
+26155 HIST 310 HISTORIA COMTEMPORANEA II 3 3 0 0 0 FUNDAMENTAL 26147 HIST 310 03217 06 05 01 0001
+
+03217 06 05 01 0002
+26156 HIST 350 MET. Y TECNICA DE LA INVE. HISTORICA II 3 3 0 0 0 FUNDAMENTAL 26149 HIST 350 09428 06 05 01 0001
+26157 GE/HI380 TRABAJO DE GRADUACION 3 3 0 0 0 FUNDAMENTAL 26113 GEO 100 03221 06 05 01 0001
+
+26114 GEO 106 03221 06 05 01 0002
+26115 GEO 108
+26116 HIST 100
+26117 ANT 110
+26118 HIST 120
+26120 GEO 104
+26121 GEO 106
+26122 GEO 108
+26123 HIST 100
+26124 ANT 110
+26125 HIST 125
+26126 HIST 150
+26127 HIST 160
+26128 GEO 200
+26129 GEO 210
+26130 GEO 220
+26131 HIST 200
+26132 HIST 210
+26133 HIST 220
+26134 CART 211
+26135 GEO 200
+
+
+
+Fecha: 07/08/2020 Pagina 6 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 05 GEOGRAFIA E HISTORIA
+     Carrera : 01 LIC. GEO. E HISTORIA
+
+  Código del Plan: 0005 No_Acuerdo: Fecha Creación : 10-MAR-2015
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORIA
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORI
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26158 CP 302 INTRODUCCION A LA CIENCIA POLITICA II 3 3 0 0 0 REGULAR 26150 CP 301
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12785 SEM1 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL 26113 GEO 100
+26114 GEO 106
+26115 GEO 108
+26116 HIST 100
+26117 ANT 110
+26118 HIST 120
+26120 GEO 104
+26121 GEO 106
+26122 GEO 108
+26123 HIST 100
+26124 ANT 110
+26125 HIST 125
+26126 HIST 150
+26128 GEO 200
+26129 GEO 210
+26130 GEO 220
+26131 HIST 200
+26132 HIST 210
+26133 HIST 220
+26134 CART 211
+26135 GEO 200
+26136 GEO 210
+26137 GEO 230
+26138 HIST 200
+
+
+
+Fecha: 07/08/2020 Pagina 7 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 05 GEOGRAFIA E HISTORIA
+     Carrera : 01 LIC. GEO. E HISTORIA
+
+  Código del Plan: 0005 No_Acuerdo: Fecha Creación : 10-MAR-2015
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORIA
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORI
+Turno       : Diurno
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+24668 MGTR 710 GEOGRAFIA FISICA DE PANAMA 3 2 2 0 0 FUNDAMENTAL
+24669 MGTR 720 GEOGRAFIA DE LA POBLACION DE PANAMA 3 2 2 0 0 FUNDAMENTAL
+26159 GE/HI381 TRABAJO DE GRADUACION 3 3 0 0 0 FUNDAMENTAL 26113 GEO 100 03222 06 05 01 0001
+
+26114 GEO 106 03222 06 05 01 0002
+26115 GEO 108
+26116 HIST 100
+26117 ANT 110
+26118 HIST 120
+26120 GEO 104
+26121 GEO 106
+26122 GEO 108
+26123 HIST 100
+26124 ANT 110
+26125 HIST 125
+26126 HIST 150
+26128 GEO 200
+26129 GEO 210
+26130 GEO 220
+26131 HIST 200
+26132 HIST 210
+26133 HIST 220
+26134 CART 211
+26135 GEO 200
+26136 GEO 210
+26137 GEO 230
+26138 HIST 200
+26139 HIST 210
+26140 HIST 230
+26141 GEO 240
+26142 GEO 250
+
+
+
+Fecha: 07/08/2020 Pagina 8 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 05 GEOGRAFIA E HISTORIA
+     Carrera : 01 LIC. GEO. E HISTORIA
+
+  Código del Plan: 0005 No_Acuerdo: Fecha Creación : 10-MAR-2015
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORIA
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORI
+Turno       : Diurno
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+26160 ECON 360 FORMULACION Y EVALUACION DE PROYECTO 3 2 2 0 0 FUNDAMENTAL
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12786 SEM2 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL 12785 SEM1
+26113 GEO 100
+26114 GEO 106
+26115 GEO 108
+26116 HIST 100
+26117 ANT 110
+26118 HIST 120
+26120 GEO 104
+26121 GEO 106
+26122 GEO 108
+26123 HIST 100
+26124 ANT 110
+26125 HIST 125
+26126 HIST 150
+26128 GEO 200
+26129 GEO 210
+26130 GEO 220
+26131 HIST 200
+26132 HIST 210
+26133 HIST 220
+26134 CART 211
+26135 GEO 200
+26136 GEO 210
+26137 GEO 230
+
+
+
+Fecha: 07/08/2020 Pagina 9 de 9
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 05 GEOGRAFIA E HISTORIA
+     Carrera : 01 LIC. GEO. E HISTORIA
+
+  Código del Plan: 0005 No_Acuerdo: Fecha Creación : 10-MAR-2015
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : LICENCIATURA EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORIA
+Título      : LICENCIADA/LICENCIADO EN HUMANIDADES CON ESPECIALIZACION EN GEOGRAFIA E HISTORI
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28158 GEO 381 EXAMEN DE GRADO 6 0 0 0 0 FUNDAMENTAL 26113 GEO 100
+26114 GEO 106
+26115 GEO 108
+26116 HIST 100
+26117 ANT 110
+26118 HIST 120
+26120 GEO 104
+26121 GEO 106
+26122 GEO 108
+26123 HIST 100
+26124 ANT 110
+26125 HIST 125
+26126 HIST 150
+26128 GEO 200
+26129 GEO 210
+26130 GEO 220
+26131 HIST 200
+26132 HIST 210
+26133 HIST 220
+26134 CART 211
+26135 GEO 200
+26136 GEO 210
+26137 GEO 230
+26138 HIST 200
+26139 HIST 210
+26140 HIST 230
+26141 GEO 240
+26142 GEO 250
+26143 GEO 300
+26144 GEO 310

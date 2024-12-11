@@ -1,0 +1,146 @@
+﻿Fecha: 22/10/2020 Pagina 1 de 3
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 06 INGLES.
+     Carrera : 06 TEC EN INGLES CONVERSACIONAL PARA SERVICIO  A
+
+  Código del Plan: 0001 No_Acuerdo: 02-16 Fecha Creación : 15-MAR-2016
+
+Fecha de Aprobación: 10/03/2016 Fecha Caduca   :
+
+Descripción : TECNICO EN INGLES CONVERSACIONAL PARA SERVICIO AL CLIENTE
+Título      : TECNICA/TECNICO EN INGLES CONVERSACIONAL PARA SERVICIO AL CLIENTE
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+19394 ING 110A FUNDAMENTOS DE LA GRAM. INGLES 3 2 2 0 0 REGULAR
+19395 ING 120A FONETICA (PRONUNCIACION) 3 2 2 0 0 REGULAR
+19397 ING 180A EXPRESION ORAL 3 2 2 0 REGULAR
+21829 ING 140A REDACCION Y LECTURA 4 4 0 0 REGULAR
+27491 DER 146 GESTION DE NEGOCIOS Y MANEJO DE CONFLICTO 3 2 2 0 0 REGULAR
+27492 ING 185A COMPRENSION ORAL I 3 1 4 0 0 REGULAR
+27493 AE-DE186 INTRODUCCION A LAS OPERACIONES EMPRESARIALES 3 1 2 0 0 REGULAR
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+19401 ING 110B FUNDAMENTOS DE LA GRAM. INGLESA II 3 2 2 0 REGULAR
+19402 ING 120B FONETICA (PRONUNCIACION) II 3 2 2 0 REGULAR
+19404 ING 180B EXPRESION ORAL II 3 2 2 0 REGULAR
+21732 ING 140B REDACCION Y LECTURA 4 4 0 0 0 REGULAR
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+27494 ING 185B COMPRENSION ORAL II 3 1 4 0 0 REGULAR
+27495 AE-RH196 INTRODUCCION AL SERVICIO Y ATENCION AL CLIENT 3 2 2 0 0 REGULAR
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22476 NCIF 0005 INFORMATICA Y REDES DE APRENDIZAJE 2 1 2 0 0 REGULAR
+27496 AE-RH176 ENTRENAMIENTO PARA EL LIDERAZGO DE EQUIPO 3 2 2 0 0 REGULAR
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+
+
+Fecha: 22/10/2020 Pagina 2 de 3
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 06 INGLES.
+     Carrera : 06 TEC EN INGLES CONVERSACIONAL PARA SERVICIO  A
+
+  Código del Plan: 0001 No_Acuerdo: 02-16 Fecha Creación : 15-MAR-2016
+
+Fecha de Aprobación: 10/03/2016 Fecha Caduca   :
+
+Descripción : TECNICO EN INGLES CONVERSACIONAL PARA SERVICIO AL CLIENTE
+Título      : TECNICA/TECNICO EN INGLES CONVERSACIONAL PARA SERVICIO AL CLIENTE
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+19471 ING 210A ANALISIS DE LA GRAMATICA INGLESA I 3 2 2 0 REGULAR
+19474 ING 280A CONVERSACION I 3 2 2 0 REGULAR
+27497 ING 226A LA COMUNICACION EN EL SERVICIO AL CLIENTE 3 2 2 0 0 REGULAR
+27498 ING 285A COMPRENSION ORAL I 3 2 2 0 0 REGULAR
+27499 ING 290 INGLES PARA LA COMUNICACION 3 2 2 0 0 REGULAR
+27500 ING 391 INGLES PARA COMERCIO 3 2 2 0 0 REGULAR
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+19478 ING 210B ANALISIS DE LA GRAMATICA INGLESA II 3 2 2 0 REGULAR
+19481 ING 280B CONVERSACION II 3 2 2 0 REGULAR
+27501 ING 226B LA COMUNICACION EN EL SERVICIO AL CLIENTE 3 2 2 0 0 REGULAR
+27502 AE-OR246 ATENCION AL CLIEN EN DIFERENTES TIPOS DE NEGOC 3 2 2 0 0 REGULAR
+27503 ING 256 DESTREZAS COMUNICATIVAS PROFESIONALES 3 2 2 0 0 REGULAR
+27504 AE-ME266 MANEJO DE VENTAS Y SERVICO AL CLIENTE AVANZAD 3 2 2 0 0 REGULAR
+27505 ING 285B COMPRENSION ORAL II 3 2 2 0 0 REGULAR
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR
+27506 AEORG236 PRACTICAS CONVERSACIONALES DE NEGOCIOS 3 2 2 0 0 REGULAR
+
+TERCER AÑO PRIMER SEMESTRE
+
+
+
+Fecha: 22/10/2020 Pagina 3 de 3
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 06 HUMANIDADES.
+     Escuela : 06 INGLES.
+     Carrera : 06 TEC EN INGLES CONVERSACIONAL PARA SERVICIO  A
+
+  Código del Plan: 0001 No_Acuerdo: 02-16 Fecha Creación : 15-MAR-2016
+
+Fecha de Aprobación: 10/03/2016 Fecha Caduca   :
+
+Descripción : TECNICO EN INGLES CONVERSACIONAL PARA SERVICIO AL CLIENTE
+Título      : TECNICA/TECNICO EN INGLES CONVERSACIONAL PARA SERVICIO AL CLIENTE
+Turno       : Diurno
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+28411 ING 396 PRÁCTICA PROFESIONAL 4 8 0 0 0 FUNDAMENTAL

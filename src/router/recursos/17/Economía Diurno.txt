@@ -1,0 +1,296 @@
+﻿Fecha: 22/10/2020 Pagina 1 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 01 ECONOMIA.
+     Carrera : 01 LIC. ECONOMIA.
+
+  Código del Plan: 0005 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ECONOMIA
+Título      : LICENCIADA/LICENCIADO EN ECONOMIA
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12233 MAT 102A MATEMATICA I PARA ECONOMISTA 3 2 0 2 0 FUNDAMENTAL
+22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+25063 CONT 105 CONT. GENERAL 3 2 2 0 0 REGULAR
+25064 ECO 105A PRINCIPIO DE ECO I 3 3 0 0 0 FUNDAMENTAL
+25065 CP 105 CIENCIA POLITICA 3 3 0 0 0 REGULAR
+25066 ECO 106 HISTORIA ECONOMICA 3 3 0 0 0 FUNDAMENTAL
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25067 ECO 105B PRINCIPIO DE ECO II 3 3 0 0 0 FUNDAMENTAL 25064 ECO 105A
+25068 GEO 105 GEOG. ECO 3 2 2 0 0 REGULAR
+25069 EST 115 HERRAMIENTAS PARA EL ANALISIS ESTADIS Y ECO 3 1 4 0 0 FUNDAMENTAL
+25315 MAT 102B MAT.PARA ECO II 3 2 2 0 0 FUNDAMENTAL 12233 MAT 102A
+25316 AP 105 TEORIA DE LA ADMON PUB 3 3 0 0 0 REGULAR
+25317 SOC 105 SOC. DEL DESARROLLO 3 3 0 0 0 REGULAR 25066 ECO 106
+25318 FIL 105 EPISTEM. DE LAS CIENCIAS ECO.Y SOCIALES 3 3 0 0 0 REGULAR
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25070 ECO 210 METODOLOGIA DE LA INVEST. ECO 3 2 2 0 0 FUNDAMENTAL 25318 FIL 105
+25071 ECO 230 ECONOMIA POLITICA I 4 4 0 0 0 FUNDAMENTAL 25067 ECO 105B
+
+25318 FIL 105
+25319 MAT 212A MAT. PARA ECO III 3 2 2 0 0 FUNDAMENTAL 25315 MAT 102B
+25320 EST 215A ESTADISTICA ECONOMICA I 4 3 2 0 0 FUNDAMENTAL
+25321 ECO 205A MICROECONOMIA I 4 3 2 0 0 FUNDAMENTAL 25067 ECO 105B
+
+25315 MAT 102B
+
+
+
+Fecha: 22/10/2020 Pagina 2 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 01 ECONOMIA.
+     Carrera : 01 LIC. ECONOMIA.
+
+  Código del Plan: 0005 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ECONOMIA
+Título      : LICENCIADA/LICENCIADO EN ECONOMIA
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25322 ECO 240A CTAS. NACIONALES I 3 3 0 0 0 FUNDAMENTAL 25063 CONT 105
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLES 2 1 2 0 0 REGULAR
+25072 ECO 206 ECO. DE LAS FINANZAS 3 2 2 0 0 FUNDAMENTAL 25067 ECO 105B
+25073 ECO 240B CTAS. NACIONALES II 3 3 0 0 0 FUNDAMENTAL 25322 ECO 240A
+25323 MAT 212B MAT.PARA ECO IV 3 2 2 0 0 FUNDAMENTAL 25319 MAT 212A
+25324 ECO 205B MICROECONOMIA II 4 3 2 0 0 FUNDAMENTAL 25321 ECO 205A
+25325 EST 215B ESTADIST ECONOMICA II 4 3 2 0 0 FUNDAMENTAL 25320 EST 215A 25804 10 03 01 0005
+
+25804 10 03 01 0006
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25326 ECO 345 FUNDAMENT. ECO. DE A. LAT. 3 3 0 0 0 FUNDAMENTAL 25071 ECO 230
+25073 ECO 240B
+
+25327 ECO 320A PROBLEMAS ECO.NALES.I 3 2 2 0 FUNDAMENTAL 25071 ECO 230
+25073 ECO 240B
+
+25328 ECO 315 ANALISIS MONETARIO 3 2 2 0 FUNDAMENTAL 25072 ECO 206
+25073 ECO 240B
+
+25329 ECO 305A MACROECONOMIA I 4 3 2 0 FUNDAMENTAL 25073 ECO 240B
+25323 MAT 212B
+25324 ECO 205B
+
+25330 ECO 325 ECO. Y GESTT. DE LA EMP. 3 2 2 0 0 FUNDAMENTAL 25072 ECO 206
+25324 ECO 205B
+
+25331 EST 335 ESTADIST. PARA ECONOMISTAS III 4 3 2 0 FUNDAMENTAL 25325 EST 215B
+27406 RI 160 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+
+
+Fecha: 22/10/2020 Pagina 3 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 01 ECONOMIA.
+     Carrera : 01 LIC. ECONOMIA.
+
+  Código del Plan: 0005 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ECONOMIA
+Título      : LICENCIADA/LICENCIADO EN ECONOMIA
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25074 ECO 306 DOCTR.ECONOMICAS 3 3 0 0 0 FUNDAMENTAL 25066 ECO 106
+25332 ECO 340 FINANZAS PUB. Y POLT.FISCAL I 3 3 0 0 FUNDAMENTAL 25329 ECO 305A
+
+25330 ECO 325
+25333 ECO 320B PROBLEMAS ECON. NALES II 3 2 2 0 0 FUNDAMENTAL 25327 ECO 320A
+25334 ECO 305B MACROECONOMIA II 4 3 2 0 0 FUNDAMENTAL 25329 ECO 305A 25831 10 03 01 0005
+
+25831 10 03 01 0006
+24591 10 03 01 0003
+
+25335 ECO 335 ECONOMIA INTERNACIONAL I 3 2 2 0 0 FUNDAMENTAL 25329 ECO 305A
+25336 EST 315 ECONOMETRIA I 4 3 2 0 0 FUNDAMENTAL 25319 MAT 212A
+
+25331 EST 335
+27408 RI 161 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+CUARTO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMA EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+25078 ECO 460 T MULTI PARA LA INTER INTEGRAL DEL SIST ECO 2 2 0 0 0 FUNDAMENTAL
+25079 ECO 465 GLOBALIZACION ECONOMICA Y PROBLEMAS SISTEMATIC 2 2 0 0 0 FUNDAMENTAL
+25080 ECO 470 LA COMPETITIVIDAD EN LOS SECT DE LA ECO PANAME 2 2 0 0 0 FUNDAMENTAL
+25081 ECO 475 ROL DEL WALL STREET EN LA ECO GLOBAL 2 2 0 0 0 FUNDAMENTAL
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+12785 SEM1 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL 12233 MAT 102A
+22472 NCES 0001
+22473 NCHI 0002
+22474 NCGE 0003
+
+
+
+Fecha: 22/10/2020 Pagina 4 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 01 ECONOMIA.
+     Carrera : 01 LIC. ECONOMIA.
+
+  Código del Plan: 0005 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ECONOMIA
+Título      : LICENCIADA/LICENCIADO EN ECONOMIA
+Turno       : Diurno
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25075 ECO 430 POLITICA ECONOMICA 3 2 2 0 0 FUNDAMENTAL 25334 ECO 305B
+25130 EST 415 ECONOMETRIA II 4 3 2 0 0 FUNDAMENTAL 25336 EST 315
+25337 ECO 420 FORMUL. Y EVAL DE PROYECTOS 3 2 2 0 0 FUNDAMENTAL 25323 MAT 212B
+
+25334 ECO 305B
+25338 ECO 425 FINANZAS PUB. Y POL. FISCAL II 3 2 2 0 0 FUNDAMENTAL 25332 ECO 340
+
+25334 ECO 305B
+25339 ECO 405A DESARR ECON I 3 2 2 0 0 FUNDAMENTAL 25071 ECO 230
+
+25333 ECO 320B
+25334 ECO 305B
+
+25340 ECO 435 ECO INTERNACIONAL II 3 2 2 0 0 FUNDAMENTAL 25335 ECO 335
+27640 MEP 702 REALIDAD NACIONAL EN EL CONTEXTO GLOBAL 3 3 0 0 0 FUNDAMENTAL
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+10944 ECO 445B TESIS 6 3 0 0 0 FUNDAMENTAL
+12786 SEM2 SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 3 3 0 0 0 FUNDAMENTAL 12785 SEM1
+12787 PRA PRACTICA PROFESIONAL 6 3 0 0 0 FUNDAMENTAL
+25076 ECO 415 PLANIFICACION 3 2 2 0 0 FUNDAMENTAL 25075 ECO 430
+
+25337 ECO 420
+25338 ECO 425
+
+25077 ECO 445 TRABAJO DE GRADUACION 6 6 0 0 0 FUNDAMENTAL 12233 MAT 102A
+22472 NCES 0001
+22473 NCHI 0002
+22474 NCGE 0003
+22475 NCIN 0004
+22477 NCSOC 0006
+25063 CONT 105
+25064 ECO 105A
+
+
+
+Fecha: 22/10/2020 Pagina 5 de 5
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 10 ECONOMIA.
+     Escuela : 01 ECONOMIA.
+     Carrera : 01 LIC. ECONOMIA.
+
+  Código del Plan: 0005 No_Acuerdo: 2-14 Fecha Creación : 21-FEB-2014
+
+Fecha de Aprobación: 21/02/2014 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN ECONOMIA
+Título      : LICENCIADA/LICENCIADO EN ECONOMIA
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+25082 ECO 480 ANALISIS PRESUPUESTARIO 2 2 0 0 0 FUNDAMENTAL
+25083 EST 460 FUNDAMENTOS DE ANALISIS ACTUARIAL 2 2 0 0 0 FUNDAMENTAL
+25084 EST 465 APLICAION ECONOMETRICA AL ANALISIS MACROECO 2 2 0 0 0 FUNDAMENTAL
+25131 ECO 420B EVAL.ECO. AMB Y SOC DE PROY 3 2 2 0 0 FUNDAMENTAL 25337 ECO 420
+25341 ECO 405B DESARROLLO ECON II 3 2 2 0 0 FUNDAMENTAL 25339 ECO 405A
+25342 ECO 455 ECONOMIA AGRICOLA 3 2 2 0 0 FUNDAMENTAL 25075 ECO 430
+
+25340 ECO 435
+26742 MEST 702 METODOLOGIA DE LA INVEST EN CIENCIAS SOCIALES 3 1 6 0 0 FUNDAMENTAL

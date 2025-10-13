@@ -3,11 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <%- include('partial/head.html'); -%>
 </head>
 <body>
     <style>
         body {
+              position: relative;
+  min-height: 100vh;
             background: -webkit-linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
 background: linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
             /*
@@ -25,6 +28,13 @@ background: linear-gradient(to right, #283E51, #4B79A1); */
             right: 20%;
     
         }
+        *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
     </style>
     <%- include('partial/navigation.html'); -%>
     <div id="contener" align='center'>
@@ -59,12 +69,15 @@ background: linear-gradient(to right, #283E51, #4B79A1); */
                 </div>
             </div>
             </div>
-    </div>
+ 
+        </div>
+        <div align="">
+<%- include('partial/footer.html'); -%>
+        </div>
 
-    <%- include('partial/footer.html'); -%>
+       
     <script src="/js/js.js"></script>
     <script src="main.js"></script>
-
 
 </body>
 

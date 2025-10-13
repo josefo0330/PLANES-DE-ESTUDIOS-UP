@@ -13,7 +13,11 @@
     <%- include('partial/navigation.html'); -%>
     <style>
         body {
-            background: -webkit-linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
+                         position: relative;
+  min-height: 100vh;
+          background: #318734;
+background: linear-gradient(90deg,rgba(49, 135, 52, 1) 0%, rgba(8, 48, 22, 1) 54%);
+            /*background: -webkit-linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
 background: linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
             /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
@@ -22,19 +26,25 @@ background: linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
     background: linear-gradient(to right, #283E51, #4B79A1);  */
     
         }
-    footer {
-    background-color: black;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 40px;
-    color: white;
-    }
+             #contener {
+            bottom: 25%;
+            right: 20%;
+    
+        }
+                *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
     </style>
-    <div align='center'>
-        <h5 id="titleP" class="text-white fw-bold"></h5>
-    <div id="tablas" class="container" style="width: 50%"></div>
+    <div id="contener" align='center' >
+        <div id="titleP"  align='center'></div>
+    <div id="tablas" class="container" style="width: 75%"></div>
 </div>
+
     <script src="/js/pdf.js"></script>
+    
+</body>
+
 </body>  
 </html>

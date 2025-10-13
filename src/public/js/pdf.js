@@ -15,7 +15,7 @@ $(document).ready(function () {
             var tituloPrin = '<h1 class="text-white" >UNIVERSIDAD  DE  PANAMÁ </h1>'//'U N I V E R S I D A D  D E  P A N A M Á';
             for (i = 2; i < auxTitle.length - 6; i++){
                 if((auxTitle[i].trim()!='Pagina 1 de 5')&&(auxTitle[i].trim()!='rplanes3.rdf')){
-                    tituloPrin = tituloPrin +'<br><br><h5">' +  auxTitle[i] +'</h5>'
+                    tituloPrin = tituloPrin +'<br><h5 class="text-white fw-bold">' +  auxTitle[i] +'</h5>'
                 }
             }
             $('#titleP').html(tituloPrin)
@@ -160,16 +160,20 @@ function addFila (materiaData){
         i=0
         var vector=materiaData[j].split(" ")
         datos=[]
+        datosMaterias=[]
         DropSpace(vector,datos)
         console.log(datos)
         var n= datos.length
-        tabla+="<td>"+datos[0]+"</td>"
+        //tabla+="<td>"+datos[0]+"</td>"
+        datosMaterias.push(datos[0])
         if (parseInt(datos[2])){
-            tabla+="<td>"+datos[1]+datos[2]+"</td>" 
+            //tabla+="<td>"+datos[1]+datos[2]+"</td>" 
+            datosMaterias.push(datos[1]+datos[2])
             i=i+3
         }
         else{
-            tabla+="<td>"+datos[1]+"</td>"
+            //tabla+="<td>"+datos[1]+"</td>"
+            datosMaterias.push(datos[1])
             i++
         }
         // en este while se toma todo el nombre de la materia para agregarlo en una sola columna, ya que contiene espacio
@@ -181,7 +185,8 @@ function addFila (materiaData){
                 
             else{
                     //alert(aux)
-                tabla+="<td>"+aux+"</td>"
+                //tabla+="<td>"+aux+"</td>"
+                datosMaterias.push(aux)
                 sw=1
 
             }                
@@ -190,17 +195,47 @@ function addFila (materiaData){
         sw=0
         //alert(datos[i-1])
         i--
+        //luego de agregar el nombre de la materia, los siguientes datos, los analizo por separado(cred,teo,Clin..), ya que se ha detectado errores en estas columnas(col vacias)
+        var datosNumericosYtypeOfM=[]
         while(i<n&&sw==0){
             //alert("entre")
             if(datos[i].search("FUNDAMENTAL")>-1 ||datos[i].search("REGULAR")>-1 || datos[i].search("OPTATIVA")>-1){
-                tabla+="<td>"+datos[i]+"</td>"
+                //tabla+="<td>"+datos[i]+"</td>"
                 sw=1
             }
-            else{
-                tabla+="<td>"+datos[i]+"</td>"
-            }
+            datosNumericosYtypeOfM.push(datos[i])
             i++
         }
+        if(datosNumericosYtypeOfM.length<6){
+            //console.log("Estos datos estan incompletos:")
+            datosNumericosYtypeOfM.push(datosNumericosYtypeOfM[4])
+            datosNumericosYtypeOfM[4]=datosNumericosYtypeOfM[3]
+            datosNumericosYtypeOfM[3]=0
+        }
+        // reutilizo i para contar
+        for(i=0;i<datosNumericosYtypeOfM.length;i++){
+            datosMaterias.push(datosNumericosYtypeOfM[i])
+            //tabla+="<td>"+datosNumericosYtypeOfM[i]+"</td>"
+        }
+       if(datosMaterias.length>=10){
+            for(i=0;i<datosMaterias.length;i++){
+                if(i==2){
+                    tabla+="<td>"+datosMaterias[2]+" "+ datosMaterias[3]+"</td>"
+                    i=3
+                }
+                else{
+                    tabla+="<td>"+datosMaterias[i]+"</td>"
+                }
+                
+            }
+        }
+        else{
+            for(i=0;i<datosMaterias.length;i++){
+            tabla+="<td>"+datosMaterias[i]+"</td>"
+        }
+        }
+        
+        //console.log("Estos son los datos numericos: "+datosNumericosYtypeOfM +"Y la longitud:"+ datosNumericosYtypeOfM.length )
         tabla+="</tr>"
 
     }

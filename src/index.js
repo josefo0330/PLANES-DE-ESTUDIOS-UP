@@ -7,11 +7,12 @@ var bodyParser = require('body-parser')
 var PdfReader = require('pdfreader').PdfReader;
 const fs= require('fs') 
 const { dirname } = require('path');
+require('dotenv').config()
 var conexion;
 //configuraciones
 app.use(morgan('dev'));
 //app.set('port',3000);
-app.set('port',process.env.PORT || 5000);
+app.set('port',process.env.PORT || 3000);
 
 app.set('views',path.join(__dirname,'view'));
 app.set('view engine','ejs');

@@ -4,13 +4,20 @@ var mysql = require('mysql');
     database:"cruv",//'if0_36456925_cruv',
     user:'root',
     password:''
+});
+var conexion = mysql.createConnection({
+    host: process.env.host,
+    database:process.env.database,//'if0_36456925_cruv',
+    user:process.env.user,
+    password: process.env.password
 });*/
 var conexion = mysql.createConnection({
     host: 'btiaphkz1zqolfvrqhg4-mysql.services.clever-cloud.com',
     database:"btiaphkz1zqolfvrqhg4",//'if0_36456925_cruv',
     user:'uxf3zc6yzkruyzpu',
     password:'UwQLSRFiJORf24CmY3Mx'
-});
+})
+
 conexion.connect(function(error){
     if(error)
         throw error;

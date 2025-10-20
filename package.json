@@ -22,9 +22,10 @@
     "mysql": "^2.18.1",
     "pdf-parse": "^1.1.1",
     "pdfreader": "^3.0.7",
-    "semver": "^7.7.3"
+    "semver": "^7.7.3",
+    "simple-update-notifier": "^2.0.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^3.1.10"
   }
 }

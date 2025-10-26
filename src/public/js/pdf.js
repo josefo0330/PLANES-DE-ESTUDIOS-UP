@@ -35,27 +35,32 @@ $(document).ready(function () {
             }
             console.log(plan)
             var aux=[]
+            var SemestreAnterior=""
             for (i=1;i<plan.length;i++){
                 aux=plan[i]
-                tablas = tablas + '<br> <br><table  class="table table-success table-striped  table-bordered"> <h3 class="text-white">' + aux[aux.length-1] + '</h3>'
-                tablas = tablas + `
-                <thead class="table-dark">
-                <tr>
-                <th>ASIG</th>
-                <th>ABREV/NUM</th>
-                <th>NOMBRE</th> 
-                <th>CR</th>
-                <th>TEO</th>
-                <th>PRAC</th>
-                <th>CLIN</th>
-                <th>LAB</th>
-                <th>TIPOMATERIA</th>
-                </tr>
-                </thead> 
-                `
+                if(aux[aux.length-1] != SemestreAnterior){
+                    tablas+="</table>"
+                    tablas = tablas + '<br> <br><table  class="table table-success table-striped  table-bordered"> <h3 class="text-white">' + aux[aux.length-1] + '</h3>'
+                    tablas = tablas + `
+                    <thead class="table-dark">
+                    <tr>
+                    <th>ASIG</th>
+                    <th>ABREV/NUM</th>
+                    <th>NOMBRE</th> 
+                    <th>CR</th>
+                    <th>TEO</th>
+                    <th>PRAC</th>
+                    <th>CLIN</th>
+                    <th>LAB</th>
+                    <th>TIPOMATERIA</th>
+                    </tr>
+                    </thead> 
+                    `
+                }
                 tablas+= addFila(aux)
-                tablas+="</table>"
-                aux=[]
+                
+                SemestreAnterior=aux[aux.length-1] 
+
 
             }
             
@@ -174,7 +179,7 @@ function addFila (materiaData){
         else{
             //tabla+="<td>"+datos[1]+"</td>"
             datosMaterias.push(datos[1])
-            i++
+            i=i+2
         }
         // en este while se toma todo el nombre de la materia para agregarlo en una sola columna, ya que contiene espacio
         while(i<n&&sw==0){

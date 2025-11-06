@@ -1,4 +1,4 @@
-﻿Fecha: 22/10/2020 Pagina 1 de 9
+﻿Fecha: 24/06/2021 Pagina 1 de 9
 U N I V E R S I D A D     D E     P A N A M Á
 
 DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
@@ -65,7 +65,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 
-Fecha: 22/10/2020 Pagina 2 de 9
+Fecha: 24/06/2021 Pagina 2 de 9
 U N I V E R S I D A D     D E     P A N A M Á
 
 DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
@@ -131,7 +131,7 @@ TERCER AÑO VERANO
 
 
 
-Fecha: 22/10/2020 Pagina 3 de 9
+Fecha: 24/06/2021 Pagina 3 de 9
 U N I V E R S I D A D     D E     P A N A M Á
 
 DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
@@ -197,7 +197,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 
-Fecha: 22/10/2020 Pagina 4 de 9
+Fecha: 24/06/2021 Pagina 4 de 9
 U N I V E R S I D A D     D E     P A N A M Á
 
 DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
@@ -260,7 +260,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 
-Fecha: 22/10/2020 Pagina 5 de 9
+Fecha: 24/06/2021 Pagina 5 de 9
 U N I V E R S I D A D     D E     P A N A M Á
 
 DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
@@ -303,7 +303,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 26583 MAT 310
 26584 MAT 300B
 
-26590 MAT 580A TRABAJO DE GRADUACIÓN 3 3 0 0 0 FUNDAMENTAL 22472 NCES 0001
+26590 MAT 580A TRABAJO DE GRADUACIÓN 6 3 0 0 0 FUNDAMENTAL 22472 NCES 0001
 22473 NCHI 0002
 22474 NCGE 0003
 22475 NCIN 0004
@@ -321,7 +321,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 
-Fecha: 22/10/2020 Pagina 6 de 9
+Fecha: 24/06/2021 Pagina 6 de 9
 U N I V E R S I D A D     D E     P A N A M Á
 
 DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
@@ -378,7 +378,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 
-Fecha: 22/10/2020 Pagina 7 de 9
+Fecha: 24/06/2021 Pagina 7 de 9
 U N I V E R S I D A D     D E     P A N A M Á
 
 DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
@@ -435,7 +435,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 
-Fecha: 22/10/2020 Pagina 8 de 9
+Fecha: 24/06/2021 Pagina 8 de 9
 U N I V E R S I D A D     D E     P A N A M Á
 
 DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
@@ -493,7 +493,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 
-Fecha: 22/10/2020 Pagina 9 de 9
+Fecha: 24/06/2021 Pagina 9 de 9
 U N I V E R S I D A D     D E     P A N A M Á
 
 DIRECCIÓN DE INFORMÁTICA rplanes3.rdf

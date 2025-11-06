@@ -1,0 +1,287 @@
+﻿U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 31-OCT-25 08:10 AM
+
+RECTORÍA Pagina 1 de 5
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0011 No_Acuerdo: 2-22 Fecha Creación : 04-MAR-2022
+
+Fecha de Aprobación: 15/02/2022 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGÍA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGÍA
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACIÓN EN ESPAÑOL 2 1 2 0 0 REGULAR
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR
+30728 PSIC 110A PSICOLOGIA GENERAL I 3 2 2 0 FUNDAMENTAL
+30729 ANA 150 ANATOMIA HUMANA 3 2 0 0 2 REGULAR 20283 27 01 01 0008
+30730 BIO 104 BIOLOGIA DEL COMPORTAMIENTO HUMANO 3 2 0 0 2 REGULAR 22496 27 01 01 0008
+30731 PSIC 185A PSICOLOGIA SOCIAL I 3 2 2 0 0 FUNDAMENTAL 20312 27 01 01 0008
+30732 PSIC 106 PSICOLOGIA DE LA COMUNICACION 2 1 2 0 0 FUNDAMENTAL 20320 27 01 01 0008
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22475 NCI 0004 LENGUAJE Y COMUNICACIÓN EN INGLÉS 2 1 2 0 0 REGULAR
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR
+30733 PSIC 110B PSICOLOGIA GENERAL II 3 2 2 0 0 FUNDAMENTAL 30728 PSIC 110A
+30734 ANA 101 NEUROANATOMIA HUMANA 3 2 0 0 3 REGULAR 30729 ANA 150
+30735 PSIC 116 FUNDAMENTOS DE LA INVESTIGACION CIENTIFICA 2 2 1 0 0 REGULAR 11317 27 01 01 0008
+30736 PSIC 185B PSICOLOGIA SOCIAL II 3 2 2 0 0 FUNDAMENTAL 30731 PSIC 185A 20318 27 01 01 0008
+30737 NCPS 0024 PSICOLOGIA APLICADA A LAS CIENCIAS DE LA SALU 2 1 3 0 0
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMÁ EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 31-OCT-25 08:10 AM
+
+RECTORÍA Pagina 2 de 5
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0011 No_Acuerdo: 2-22 Fecha Creación : 04-MAR-2022
+
+Fecha de Aprobación: 15/02/2022 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGÍA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGÍA
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+30738 ANA 250 FISIOLOGIA HUMANA 3 2 0 0 2 REGULAR 30729 ANA 150 20286 27 01 01 0008
+30739 PSIC 220A PSICOLOGIA DEL APRENDIZAJE I 3 2 2 0 0 FUNDAMENTAL 30728 PSIC 110A
+30740 PSIC 217 PSIC DEL DES. DE LA INFANCIA Y NIÑEZ TEMPRANA 2 1 3 0 0 FUNDAMENTAL 30728 PSIC 110A
+30741 PSIC 211 PSICOESTADISTICA DESCRIPTIVA 2 1 2 0 0 REGULAR
+30742 PSIC 225 INTERVENCION DINAMICA DE GRUPOS 2 1 3 0 0 30731 PSIC 185A 20332 27 01 01 0008
+30743 PSIC 201 OPTATIVA I: MANEJO DE CONFLICTO 2 1 3 0 0
+30744 PSIC 202 OPTATIVA I: PSICOLOGIA Y ETICA PPROFESIONAL 2 1 3 0 0
+30745 PSIC 0023 OPTATIVA I: INTRODUCCION A LAS CIENCIAS DE LA 2 1 3 0 0
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+30746 ANA 202 NEUROFISIOLOGIA HUMANA 3 2 0 0 3 REGULAR 30729 ANA 150
+30747 PSIC 220B PSICOLOGIA DEL APRENDIZAJE II 3 2 0 0 0 FUNDAMENTAL 30728 PSIC 110A
+30748 PSIC 218 PSI. DEL DES. DE LA NIÑEZ TARDIA Y ADOLESCENCI 2 1 3 0 0 FUNDAMENTAL 30728 PSIC 110A
+30749 PSIC 212 PSICOESTADISTICA INFERENCIAL 2 1 2 0 0 REGULAR 30741 PSIC 211
+30750 PSIC 245 PSICOLOGIA COMUNITARIA 1 0 3 0 0 FUNDAMENTAL 30728 PSIC 110A 20353 27 01 01 0008
+30751 PSIC 240 INTERVENCION PSICOSOCIAL 2 1 3 0 0 FUNDAMENTAL 30731 PSIC 185A
+30752 PSIC 271 FUNDAMENTOS DE NEUROPSICOLOGIA 2 2 1 0 0 FUNDAMENTAL 30728 PSIC 110A 20330 27 01 01 0008
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+30753 PSIC 382A PSICOFISIOLOGIA 3 2 2 0 0 FUNDAMENTAL 30746 ANA 202
+30754 PSIC 365A PSICOLOGIA DE LA PERSONALIDAD 3 3 1 0 0 FUNDAMENTAL 30731 PSIC 185A
+30755 PSIC 360 ANALISIS CONDUCTUAL APLICADO 2 1 3 0 0 REGULAR 30739 PSIC 220A
+30756 PSIC 320 PSI.  DEL DESARROLLO DEL ADULTO Y LA VEJEZ 2 1 3 0 0 FUNDAMENTAL 30739 PSIC 220A 20322 27 01 01 0008
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 31-OCT-25 08:10 AM
+
+RECTORÍA Pagina 3 de 5
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0011 No_Acuerdo: 2-22 Fecha Creación : 04-MAR-2022
+
+Fecha de Aprobación: 15/02/2022 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGÍA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGÍA
+Turno       : Diurno
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+30757 PSIC 345 INTR. A LA EVALUACION PSICOLOGICA 2 2 0 0 0 FUNDAMENTAL 30731 PSIC 185A 20324 27 01 01 0008
+30758 PSIC 350A METODOLOGIA DE LA INVESTIGACION EN PSIC I 2 1 1 0 0 REGULAR 30735 PSIC 116 20317 27 01 01 0008
+30759 PSIC 306 PSICOLOGIA FAMILIAR 2 2 1 0 0 REGULAR 30731 PSIC 185A 11354 27 01 01 0008
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+30760 PSIC 382B PSICOFISIOLOGIA II 3 2 2 0 0 FUNDAMENTAL 30753 PSIC 382A
+30761 PSIC 365B PSICOLOGIA DE LA PERSONALIDAD II 3 3 1 0 0 FUNDAMENTAL 30754 PSIC 365A
+30762 PSIC 340 PSICOLOGIA EXPERIMENTAL 2 1 3 0 0 REGULAR 30739 PSIC 220A
+30763 PSIC 387 ANALISIS DE LA CONDUCTA DELICTIVA 2 1 3 0 0 REGULAR 30752 PSIC 271
+30764 PSIC 350B METODOLOGIA DE LA INVESTIGACION EN PSI II 2 1 2 0 0 REGULAR 30758 PSIC 350A 20317 27 01 01 0008
+30765 PSIC 330 EVALUACION PSICOLOGICA INDUSTRIAL 2 1 3 0 0 FUNDAMENTAL 30756 PSIC 320
+30766 PSIC 335 TERAPIA DE FAMILIA Y PAREJA 2 1 3 0 0 REGULAR 30754 PSIC 365A 20339 27 01 01 0008
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+30767 PSIC 410A PSICOPATOLOGIA I 3 2 2 0 0 FUNDAMENTAL 30753 PSIC 382A
+30768 PSIC 408A PSICOLOGIA ORGANIZACIONAL I 3 2 2 0 0 FUNDAMENTAL 30731 PSIC 185A
+30769 PSIC 401A PSICOLOGIA DE LA ORIENTACION VOCACIONAL Y PROF 2 1 3 0 0 FUNDAMENTAL 30742 PSIC 225
+30770 PSIC 400 PSICOLOGIA DE LA SALUD 2 1 3 0 0 FUNDAMENTAL 30742 PSIC 225 20343 27 01 01 0008
+30771 PSIC 425 EVALUACION PSICOLOGICA ESCOLAR 2 1 3 0 0 FUNDAMENTAL 30732 PSIC 106
+30772 PSIC 485 PSICOLOGIA EDUCATIVA 3 2 2 0 0 FUNDAMENTAL 30739 PSIC 220A 20330 27 01 01 0008
+30773 PSIC 430 TERAPIA COGNITIVA CONDUCTUAL 2 1 2 0 0 REGULAR 30754 PSIC 365A
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 31-OCT-25 08:10 AM
+
+RECTORÍA Pagina 4 de 5
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0011 No_Acuerdo: 2-22 Fecha Creación : 04-MAR-2022
+
+Fecha de Aprobación: 15/02/2022 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGÍA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGÍA
+Turno       : Diurno
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+30774 PSIC 410B PSICOPATOLOGIA II 3 2 2 0 0 FUNDAMENTAL 30753 PSIC 382A
+30775 PSIC 408B PSICOLOGIA ORGANIZACIONAL II 3 2 2 0 0 FUNDAMENTAL 30731 PSIC 185A
+30776 PSIC 401B PSICOLOGIA DE LA ORIENTACION VOCACIONAL Y PRO 2 1 3 0 0 FUNDAMENTAL 30742 PSIC 225
+30777 FAR 404 INTRODUCCION A LA FARMACOLOGIA PARA PSICOLOGO 2 2 0 0 0 REGULAR 30753 PSIC 382A
+30778 PSIC 440 PSICOLOGIA FORENSE 2 1 2 0 0 REGULAR 30754 PSIC 365A
+30779 PSIC 405 EVALUACION PSICOLOGICA CLINICA 2 1 3 0 0 FUNDAMENTAL 30754 PSIC 365A
+30780 PSIC 409 NEUROPSICOLOGIA  APLICADA 2 1 3 0 0 REGULAR 30739 PSIC 220A
+
+QUINTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+30781 PSIC 504A PSICOLOGIA ESCOLAR I 3 2 2 0 0 FUNDAMENTAL 30742 PSIC 225 11350 27 01 01 0008
+30782 PSIC 510 PSICOTERAPIA Y TECNICAS DE INTERVENCION EN EL 2 1 3 0 0 REGULAR 30740 PSIC 217
+30783 PSIC 525 PSICOLOGIA CLINICA DEL ADULTO 2 1 3 0 0 FUNDAMENTAL 30759 PSIC 306
+30784 PSIC 555 PSICOLOGIA INDUSTRIAL I 3 2 2 0 0 FUNDAMENTAL 30742 PSIC 225
+30785 PSIC 501 OPTATIVA II:  INTERVENCION EN DUELO 2 0 4 0 0
+30786 PSIC 502 OPTATIVA II: PSICOLOGIA DE LA DIVERSIDAD 2 0 4 0 0
+30787 PSIC 503 OPTATIVA II: T. INTER. DE LA REALIDAD PSICOLOG 2 0 4 0 0
+30788 PSIC 565A PRACTICA PROFESIONAL I 5 0 15 0 0 FUNDAMENTAL
+30789 PSIC 570A TRABAJO DE GRADUACION I 3 1 4 0 0 FUNDAMENTAL
+
+QUINTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+30790 PSIC 504B PSICOLOGIA ESCOLAR II 3 2 2 0 0 FUNDAMENTAL 30742 PSIC 225 11356 27 01 01 0008
+30791 PSIC 518 PSICOTERAPIA Y TEC. DE INTER. INFANTIL Y LA AD 2 1 3 0 0 REGULAR 30740 PSIC 217
+30792 PSIC 530 PSICOLOGIA CLINICA INFANTIL Y DE LA ADOLESCENC 2 1 3 0 0 FUNDAMENTAL 30759 PSIC 306
+30793 PSIC 558 PSICOLOGIA INDUSTRIAL II 3 2 2 0 0 FUNDAMENTAL 30784 PSIC 555
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 31-OCT-25 08:10 AM
+
+RECTORÍA Pagina 5 de 5
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 27 PSICOLOGIA
+     Escuela : 01 PSICOLOGIA
+     Carrera : 01 EN PSICOLOGIA
+
+  Código del Plan: 0011 No_Acuerdo: 2-22 Fecha Creación : 04-MAR-2022
+
+Fecha de Aprobación: 15/02/2022 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PSICOLOGÍA
+Título      : LICENCIADA/LICENCIADO EN PSICOLOGÍA
+Turno       : Diurno
+
+QUINTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+30794 PSIC 528 INTERVENCION PSICOEDUCATIVA EN LA DIVERSIDAD 2 1 3 0 0 FUNDAMENTAL 30739 PSIC 220A 20347 27 01 01 0008
+30795 PSIC 565B PRACTICA PROFESIONAL II 5 0 15 0 0 FUNDAMENTAL
+30796 PSIC 570B TRABAJO DE GRADUACION II 3 1 4 0 0 FUNDAMENTAL

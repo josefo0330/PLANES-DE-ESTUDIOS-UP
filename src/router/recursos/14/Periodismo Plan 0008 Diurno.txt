@@ -1,0 +1,244 @@
+﻿U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 22-OCT-25 08:03 AM
+
+RECTORÍA Pagina 1 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 02 PERIODISMO
+     Carrera : 01 LIC. PERIODISMO.
+
+  Código del Plan: 0008 No_Acuerdo: 3-22 Fecha Creación : 24-FEB-2023
+
+Fecha de Aprobación: 01/04/2022 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PERIODISMO 
+Título      : LICENCIADA/LICENCIADO EN PERIODISMO
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22475 NCI 0004 LENGUAJE Y COMUNICACIÓN EN INGLÉS 2 1 2 0 0 REGULAR
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR
+31444 SOC 110 PROBLEMAS SOCIALES CONTEMPORÁNEOS 3 3 0 0 0 REGULAR
+31445 PER 100 FUNDAMENTOS DE PERIODISMO 3 3 0 0 0 FUNDAMENTAL
+31446 CS 100 INTRODUCCIÓN A LA COMUNICACIÓN 3 3 0 0 0 FUNDAMENTAL
+31447 PER 455 APRECIACIÓN CINEMATOGRÁFICA 3 3 0 0 0 FUNDAMENTAL
+31448 PER 110 REDACCIÓN PERIODÍSTICA 3 2 2 0 0 FUNDAMENTAL
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR
+31449 ING 110 INGLÉS GENERAL II 3 2 2 0 0 REGULAR
+31450 CS 140 LENGUAJE DE LA COMUNICACIÓN 3 3 0 0 0 FUNDAMENTAL
+31451 PSC 145 RELACIONES HUMANAS 3 3 0 0 0 REGULAR
+31452 CS 150 COMUNICACIÓN INTEGRAL 2 1 2 0 0 FUNDAMENTAL
+31453 PERDE155 PERIODISMO Y DERECHOS HUMANOS 3 3 0 0 0 FUNDAMENTAL
+31454 PER 170 PERIODISMO CULTURAL 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACIÓN EN ESPAÑOL 2 1 2 0 0 REGULAR
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR
+31455 ING 120 INGLÉS GENERAL III 3 3 0 0 0 REGULAR
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 22-OCT-25 08:03 AM
+
+RECTORÍA Pagina 2 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 02 PERIODISMO
+     Carrera : 01 LIC. PERIODISMO.
+
+  Código del Plan: 0008 No_Acuerdo: 3-22 Fecha Creación : 24-FEB-2023
+
+Fecha de Aprobación: 01/04/2022 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PERIODISMO 
+Título      : LICENCIADA/LICENCIADO EN PERIODISMO
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22484 NCMI 0013 METODOLOGIA DE LA INVESTIGACION 2 1 2 0 0 REGULAR
+31456 PER 200 GÉNEROS INFORMATIVOS A 3 2 2 0 0 FUNDAMENTAL
+31457 PER 205 DISEÑO DE PERIÓDICO A 3 2 2 0 0 FUNDAMENTAL
+31458 PER 215 FOTOPERIODISMO A 3 1 4 0 0 FUNDAMENTAL
+31459 CS 220 TEORÍA DE LA COMUNICACIÓN A 3 3 0 0 0 FUNDAMENTAL
+31460 CS 230 COMUNICACIÓN PARA LA PROMOCIÓN SOCIAL 3 2 2 0 0 FUNDAMENTAL
+31461 PER 345 EL PERIODISMO EN LA SOC, DE LA INFORMACIÓN 3 1 2 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31462 PER 235 GÉNEROS INFORMATIVOS B 3 2 2 0 0 FUNDAMENTAL
+31463 PER 240 DISEÑO DE PERIÓDICO B 3 2 2 0 0 FUNDAMENTAL
+31464 CS 260 METODOLOGÍA DE LA INVESTIGACIÓN B 3 2 2 0 0 FUNDAMENTAL
+31465 PER 250 FOTOPERIODISMO B 3 1 4 0 0 FUNDAMENTAL
+31466 CS 255 TEORÍA DE LA COMUNICACIÓN B 3 3 0 0 0 FUNDAMENTAL
+31467 FILPE432 ÉTICA PERIODÍSTICA 3 3 0 0 0 FUNDAMENTAL
+31493 PER 265 NUEVAS NARRATIVAS DE LA WEB 3 2 2 0 0 OPTATIVA
+31494 PER 270 CORRESPONDENCIA PERIODÍSTICA 3 2 2 0 0 OPTATIVA
+31495 PER 275 PERIODISMO AGROPECUARIO 3 2 2 0 0 OPTATIVA
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMÁ EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+31468 SOC 265 SOCIOLOGÍA DE LA COMUNICACIÓN 3 3 0 0 0 FUNDAMENTAL
+31496 RP 380 COMUNICACIÓN CORPORATIVO 3 2 2 0 0 OPTATIVA
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 22-OCT-25 08:03 AM
+
+RECTORÍA Pagina 3 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 02 PERIODISMO
+     Carrera : 01 LIC. PERIODISMO.
+
+  Código del Plan: 0008 No_Acuerdo: 3-22 Fecha Creación : 24-FEB-2023
+
+Fecha de Aprobación: 01/04/2022 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PERIODISMO 
+Título      : LICENCIADA/LICENCIADO EN PERIODISMO
+Turno       : Diurno
+
+TERCER AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31497 PER 385 PERIODISMO INFOGRÁFICO 3 2 2 0 0 OPTATIVA
+31498 PER 390 PERIODISMO Y EMPRENDIMIENTO 3 2 2 0 0 OPTATIVA
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31469 PER 300 GÉNEROS INTERPRETATIVOS A 3 2 2 0 0 FUNDAMENTAL
+31470 PER 305 PERIODISMO RADIAL 3 2 2 0 0 FUNDAMENTAL
+31471 CS 330A OPINIÓN PÚBLICA A 3 2 2 0 0 FUNDAMENTAL
+31472 PER 315 PERIODISMO JUDICIAL A 3 3 0 0 0 FUNDAMENTAL
+31473 PER 320 PERIODISMO CIENTÍFICO 3 2 2 0 0 FUNDAMENTAL
+31474 PER 325 CIBER PERIODISMO A 3 2 2 0 0 FUNDAMENTAL
+31475 CS 420 COMUNICACIÓN Y PROPAGANDA 3 3 0 0 0 FUNDAMENTAL
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31476 PER 330 GÉNEROS INTERPRETATIVOS B 3 2 2 0 0 FUNDAMENTAL
+31477 PER 335 PERIODISMO TELEVISIVO 3 2 2 0 0 FUNDAMENTAL
+31478 CS 330B OPINIÓN PÚBLICA B 3 2 2 0 0 FUNDAMENTAL
+31479 CS 345 SEMIÓTICA PERIODÍSTICA 3 2 2 0 0 FUNDAMENTAL
+31480 PER 350 PERIODISMO JUDICIAL B 3 3 0 0 0 FUNDAMENTAL
+31481 PER 355 CIBER PERIODISMO B 3 2 2 0 0 FUNDAMENTAL
+31482 PER 450 PRÁCTICA EMPRESARIAL 3 0 6 0 0 FUNDAMENTAL
+
+CUARTO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 22-OCT-25 08:03 AM
+
+RECTORÍA Pagina 4 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 12 COMUNICACIÓN SOCIAL
+     Escuela : 02 PERIODISMO
+     Carrera : 01 LIC. PERIODISMO.
+
+  Código del Plan: 0008 No_Acuerdo: 3-22 Fecha Creación : 24-FEB-2023
+
+Fecha de Aprobación: 01/04/2022 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN PERIODISMO 
+Título      : LICENCIADA/LICENCIADO EN PERIODISMO
+Turno       : Diurno
+
+CUARTO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31483 PER 370 PERIODISMO DE DATOS 3 2 2 0 0 FUNDAMENTAL
+31484 PER 380 TALLER DE INVESTIGACIÓN 3 2 2 0 0 FUNDAMENTAL
+31485 PER 390 TALLER DE PERIODISMO 2 0 4 0 0 FUNDAMENTAL
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31486 PER 400 PERIODISMO INVESTIGATIVO 3 2 2 0 0 FUNDAMENTAL
+31487 PER 405 PERIODISMO DEPORTIVO 3 2 2 0 0 FUNDAMENTAL
+31488 PER 410 PERIODISMO POLÍTICO 3 2 2 0 0 FUNDAMENTAL
+31489 PER 420 PERIODISMO ECONÓMICO 3 2 2 0 0 FUNDAMENTAL
+31490 PER 425 PERIODISMO LITERARIO 3 2 2 0 0 FUNDAMENTAL
+31491 PER 435 TRABAJO DE GRADUACIÓN 3 0 6 0 0 FUNDAMENTAL
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+21137 PER 460 TRABAJO DE GRADO 6 0 6 0 0 REGULAR

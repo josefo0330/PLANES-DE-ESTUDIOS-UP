@@ -1,0 +1,118 @@
+﻿Fecha: 22/10/2020 Pagina 1 de 2
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 02 CIENCIAS AGROPECUARIAS
+     Escuela : 06 TECNICOS
+     Carrera : 05 TECNICO EN SANIDAD VEGETAL
+
+  Código del Plan: 0001 No_Acuerdo: Fecha Creación : 18-FEB-1999
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : TECNICO EN SANIDAD VEGETAL
+Título      : TECNICA/TECNICO EN SANIDAD VEGETAL
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+13531 QM 128 QUIMICA GENERAL 4 3 0 0 3 REGULAR
+13533 ESP 112 REDACCION DOCUMENTAL Y CIENTIFICA 3 2 3 0 0 REGULAR
+13534 INFO 265 MANEJO Y USO DE COMPUTADORAS 3 0 0 0 0 REGULAR
+14105 MAT 188 MATEMATICA GENERAL 3 2 3 0 0 REGULAR
+14106 BIO 120 BIOLOGIA 3 2 0 0 3 REGULAR
+14107 ING 121 INGLES GENERAL 3 2 3 0 0 REGULAR
+15356 INF 265 INFORMATICA 3 1 6 0 0 REGULAR I
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+13537 FIT 191 INTRODUCCION A LA FITOTECNIA 3 2 3 0 0 FUNDAMENTAL
+13542 BOT 105 BOTANICA GENERAL 3 2 0 0 3 REGULAR
+14076 CON 126 CONTABILIDAD AGROPECUARIA 3 2 3 0 0 REGULAR
+14087 ECO 238 INTRODUCCION A LA ECONOMIA 3 3 0 0 0 REGULAR
+14108 QM 129 QUIMICA APLICADA 4 3 0 0 3 REGULAR
+14113 AGRO 236 ECOLOGIA AGROPECUARIA 3 2 3 0 0 FUNDAMENTAL
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+04155 PRO 280 MICROBIOLOGIA AGRICOLA 3 0 0 0 0 REGULAR
+14088 BOT 250 FISIOLOGIA VEGETAL 4 3 3 0 0 REGULAR
+14089 IA 215 AGROMETEROLOGIA 2 1 3 0 0 REGULAR
+14138 AGRO 150 PRACTICA AGRICOLA 2 0 6 0 0 REGULAR
+14140 PV 320 ENTOMOLOGIA I 3 0 0 0 0 REGULAR
+14141 PV 285 TECNICAS DE MUESTREOS 3 0 0 0 0 REGULAR
+
+
+
+Fecha: 22/10/2020 Pagina 2 de 2
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 02 CIENCIAS AGROPECUARIAS
+     Escuela : 06 TECNICOS
+     Carrera : 05 TECNICO EN SANIDAD VEGETAL
+
+  Código del Plan: 0001 No_Acuerdo: Fecha Creación : 18-FEB-1999
+
+Fecha de Aprobación: Fecha Caduca   :
+
+Descripción : TECNICO EN SANIDAD VEGETAL
+Título      : TECNICA/TECNICO EN SANIDAD VEGETAL
+Turno       : Diurno
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+13547 BOT 300 BOTANICA SISTEMATICA 3 2 3 0 0 REGULAR
+14080 EDA 376 EDAFOLOGIA GENERAL 3 2 3 0 0 REGULAR
+14142 PV 286 NORMAS FITOSANITARIAS 3 0 0 0 0 REGULAR
+14143 PV 359 ENTOMOLOGIA II 3 0 0 0 0 REGULAR
+14144 DA 580 TRANSFERENCIA DE TECNOLOGIA 3 0 0 0 0 REGULAR
+14145 PV 287 CUARENTENA FITOSANITARIA 3 0 0 0 0 REGULAR
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+15169 P.V. 322 EQUIPO DE APLICACION DE PLAGUICIDAS 3 2 3 0 0 REGULAR
+15170 P.V. 323 FITOPATOLOGIA I 3 2 0 0 0 REGULAR
+15171 P.V. 355 NEMATOLOGIA 4 3 0 0 0 REGULAR
+15172 P.V. 350 MALEZAS I 3 3 0 0 0 REGULAR
+15173 P.V. 360 MANEJO DE PLAGUICIDAS 4 3 3 0 REGULAR
+15174 P.V. 300 SEMINARIO 1 1 0 0 0 REGULAR
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+15175 P.V. 355 MALEZAS II 3 2 3 0 0 REGULAR
+15176 PB 361 MANEJO INTEGRADO DE PLAGAS 4 3 0 0 REGULAR
+15177 P.V. 362 FITOPALOGIA II 3 2 0 0 0 REGULAR
+15178 P.V. 358 CONTROL BIOLOGICO 3 2 0 0 0 REGULAR
+15179 FIT 336 PRACTICA PROFESIONAL 2 0 6 0 0 REGULAR
+15180 P.V. 370 DIAGNOSTICO DE PLAGAS 3 2 3 0 0 REGULAR

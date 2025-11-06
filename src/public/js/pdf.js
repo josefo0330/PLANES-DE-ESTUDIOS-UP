@@ -14,8 +14,9 @@ $(document).ready(function () {
            var auxTitle = dividir('\n', string[0])
             var tituloPrin = '<h1 class="text-white" >UNIVERSIDAD  DE  PANAMÁ </h1>'//'U N I V E R S I D A D  D E  P A N A M Á';
             for (i = 2; i < auxTitle.length - 6; i++){
-                if((auxTitle[i].trim()!='Pagina 1 de 5')&&(auxTitle[i].trim()!='rplanes3.rdf')){
-                    tituloPrin = tituloPrin +'<br><h5 class="text-white fw-bold">' +  auxTitle[i] +'</h5>'
+                if((auxTitle[i].trim()!='Pagina 1 de 5')&&(auxTitle[i].trim()!='')&&(auxTitle[i].search("Código del Plan")==-1)&&(auxTitle[i].search("Fecha de Aprobación:")==-1)){
+                    console.log("La cadena es:"+auxTitle[i])
+                    tituloPrin = tituloPrin +'<br><h5 class="text-white fw-bold">' +  auxTitle[i].replace('rplanes3.rdf', '')  +'</h5>'
                 }
             }
             $('#titleP').html(tituloPrin)
@@ -36,11 +37,14 @@ $(document).ready(function () {
             console.log(plan)
             var aux=[]
             var SemestreAnterior=""
+            tablas+='<div class="table-responsive">'
             for (i=1;i<plan.length;i++){
                 aux=plan[i]
                 if(aux[aux.length-1] != SemestreAnterior){
                     tablas+="</table>"
-                    tablas = tablas + '<br> <br><table  class="table table-success table-striped  table-bordered"> <h3 class="text-white">' + aux[aux.length-1] + '</h3>'
+                    tablas+='</div>'
+                    tablas+='<div class="table-responsive">'
+                    tablas = tablas + '<br> <br><table  class="table table-success table-striped  table-bordered "> <h3 class="text-white">' + aux[aux.length-1] + '</h3>'
                     tablas = tablas + `
                     <thead class="table-dark">
                     <tr>
@@ -57,13 +61,12 @@ $(document).ready(function () {
                     </thead> 
                     `
                 }
-                tablas+= addFila(aux)
                 
+                tablas+= addFila(aux)
                 SemestreAnterior=aux[aux.length-1] 
 
 
             }
-            
             $("#tablas").html(tablas);
            // console.log(planFinal)
             //var string2 =  dividir('\n',string[1])

@@ -1,0 +1,255 @@
+﻿U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 31-OCT-25 08:07 AM
+
+RECTORÍA Pagina 1 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 24 INFORMATICA ELECTRONICA Y COMUNIC.
+     Escuela : 02 INGENIERIA EN INFORMATICA
+     Carrera : 01 LIC. DE INGENIERIA EN INFORMATICA
+
+  Código del Plan: 0002 No_Acuerdo: 1-23 Fecha Creación : 10-FEB-2023
+
+Fecha de Aprobación: 05/01/2023 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN INGENIERIA EN INFORMATICA
+Título      : LICENCIADA/LICENCIADO EN INGENIERÍA EN INFORMÁTICA
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22472 NCES 0001 LENGUAJE Y COMUNICACIÓN EN ESPAÑOL 2 1 2 0 0 REGULAR 09211 24 02 01 0001
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR
+31366 INF 111 INTRODUCCION A LA PROGRAMACION 4 3 0 0 3 FUNDAMENTAL 07462 24 02 01 0001
+31367 INF 112 FUNDAMENTO DE INNOVACION INFORMATICA 2 1 2 0 0 FUNDAMENTAL
+31368 MAT 113 MATEMATICA DISCRETA 3 2 2 0 0 FUNDAMENTAL 09210 24 02 01 0001
+31369 MAT 114 CALCULO DIFERENCIAL 5 4 2 0 0 FUNDAMENTAL 09209 24 02 01 0001
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22475 NCI 0004 LENGUAJE Y COMUNICACIÓN EN INGLÉS 2 1 2 0 0 REGULAR 10101 24 02 01 0001
+31370 INF 121 PROGRAMACION I 4 2 2 0 2 FUNDAMENTAL 31366 INF 111 10099 24 02 01 0001
+31371 MAT 122 CALCULO INTEGRAL 5 4 2 0 0 FUNDAMENTAL 31369 MAT 114 10097 24 02 01 0001
+31372 MAT 123 ALGEBRA LINEAL 4 3 2 0 0 FUNDAMENTAL 31368 MAT 113 10098 24 02 01 0001
+31373 FIS 124 FISICA GENERAL 5 3 2 0 3 FUNDAMENTAL 31369 MAT 114 10100 24 02 01 0001
+
+SEGUNDO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22474 NCGE 0003 GEOGRAFÍA DE PANAMÁ 2 2 0 0 0 REGULAR
+22477 NCSOC0006 SOCIEDAD MEDIO  AMBIENTE Y DESARROLLO 2 2 0 0 0 REGULAR 09212 24 02 01 0001
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR 27405 HIST 165
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31374 INF 211 PROGRAMACIÓN II 4 2 2 0 2 FUNDAMENTAL 31370 INF 121 10104 24 02 01 0001
+31375 MAT 212 LOGICA FORMAL 3 3 0 0 0 FUNDAMENTAL 31372 MAT 123 10105 24 02 01 0001
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 31-OCT-25 08:07 AM
+
+RECTORÍA Pagina 2 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 24 INFORMATICA ELECTRONICA Y COMUNIC.
+     Escuela : 02 INGENIERIA EN INFORMATICA
+     Carrera : 01 LIC. DE INGENIERIA EN INFORMATICA
+
+  Código del Plan: 0002 No_Acuerdo: 1-23 Fecha Creación : 10-FEB-2023
+
+Fecha de Aprobación: 05/01/2023 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN INGENIERIA EN INFORMATICA
+Título      : LICENCIADA/LICENCIADO EN INGENIERÍA EN INFORMÁTICA
+Turno       : Diurno
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31376 MAT 213 ECUACIONES DIFERENCIALES 4 3 2 0 0 FUNDAMENTAL 31371 MAT 122 10106 24 02 01 0001
+31377 FIS 214 ELECTRICIDAD 3 2 0 0 3 FUNDAMENTAL 31373 FIS 124 10103 24 02 01 0001
+31378 CONT 215 CONTABILIDAD 2 1 2 0 0 10114 24 02 01 0001
+31379 ING 216 INGLES TECNICO 2 1 2 0 0 22475 NCI 0004 10107 24 02 01 0001
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31380 INF 221 INFORMATICA TEORICA 4 3 2 0 0 FUNDAMENTAL 31375 MAT 212 10111 24 02 01 0001
+31381 INF 222 PROGRAMACION III 4 2 2 0 2 FUNDAMENTAL 31374 INF 211 10110 24 02 01 0001
+31382 INF 223 FUNDAMENTO DE LOS COMPUTADORES 4 3 0 0 3 FUNDAMENTAL 31367 INF 112 10113 24 02 01 0001
+31383 LEC 224 ANALISIS Y COMPONENES DE CIRCUITOS 3 2 0 0 2 FUNDAMENTAL 31377 FIS 214 10109 24 02 01 0001
+31384 ADM 225 DECISIONES FINANCIERAS 3 2 2 0 2 31378 CONT 215 10120 24 02 01 0001
+31385 EST 226 PROBABILIDAD Y ESTADISTICA 3 2 2 0 0 31372 MAT 123 10112 24 02 01 0001
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31386 INF 311 PROGRAMACION WEB 3 2 0 0 2 FUNDAMENTAL 31381 INF 222
+31387 INF 312 PROGRAMACION IV 4 2 2 0 2 FUNDAMENTAL 31381 INF 222 10119 24 02 01 0001
+31388 MAT 313 PROCESOS Y REDES ESTOCASTICAS 4 3 2 0 0 FUNDAMENTAL 31385 EST 226 10117 24 02 01 0001
+31389 ECO 314 INGENIERIA ECONOMICA 2 1 2 0 0 31384 ADM 225 10126 24 02 01 0001
+31390 MAT 315 INVESTIGACION DE OPERACIONES I 3 2 2 0 0 FUNDAMENTAL 31371 MAT 122 10115 24 02 01 0001
+31391 INF 316 ANALISIS NUMERICO 4 3 0 0 2 FUNDAMENTAL 31376 MAT 213 10118 24 02 01 0001
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 31-OCT-25 08:07 AM
+
+RECTORÍA Pagina 3 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 24 INFORMATICA ELECTRONICA Y COMUNIC.
+     Escuela : 02 INGENIERIA EN INFORMATICA
+     Carrera : 01 LIC. DE INGENIERIA EN INFORMATICA
+
+  Código del Plan: 0002 No_Acuerdo: 1-23 Fecha Creación : 10-FEB-2023
+
+Fecha de Aprobación: 05/01/2023 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN INGENIERIA EN INFORMATICA
+Título      : LICENCIADA/LICENCIADO EN INGENIERÍA EN INFORMÁTICA
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31392 LEC 321 ARQ. DE COMPUTADORES 3 2 0 0 3 FUNDAMENTAL 31382 INF 223 10135 24 02 01 0001
+31393 INF 322 PROGRAMACION V 4 2 2 0 2 FUNDAMENTAL 31387 INF 312 10125 24 02 01 0001
+31394 INF 323 ANALISIS Y DISEÑO DE SISTEMAS 4 3 0 0 2 FUNDAMENTAL 31387 INF 312 10134 24 02 01 0001
+31395 INF 324 DISEÑO ASISTIDO POR COMPUTADOR 3 2 0 0 2 FUNDAMENTAL 31382 INF 223 10127 24 02 01 0001
+31396 INF 325 SIST. OPERATIVOS 3 2 0 0 2 FUNDAMENTAL 31382 INF 223 10129 24 02 01 0001
+31397 MAT 326 INVESTIGACION DE OPERACIONES II 4 3 2 0 0 FUNDAMENTAL 31390 MAT 315 10121 24 02 01 0001
+
+CUARTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31398 INF 411 ESTRUCTURA DE LENGUAJE DE PROGRAMACION 3 2 0 0 3 FUNDAMENTAL 31387 INF 312 10122 24 02 01 0001
+31399 INF 412 ENTORNOS DE PROGRAMACION 4 3 0 0 3 FUNDAMENTAL 31393 INF 322 10128 24 02 01 0001
+31400 INF 413 BASE DE DATOS I 0 2 0 0 3 FUNDAMENTAL 31375 MAT 212 10131 24 02 01 0001
+31401 LEC 414 ELECTRONICA DIGITAL 3 2 0 0 2 FUNDAMENTAL 31383 LEC 224 10130 24 02 01 0001
+31402 INF 415 PROGRAMACION PARA DISPOCITIVOS MOVILES 3 2 0 0 2 FUNDAMENTAL 31393 INF 322
+31403 LEC 416 TELEINFORMATICA I 4 3 0 0 2 FUNDAMENTAL 31382 INF 223 10132 24 02 01 0001
+
+CUARTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31404 INF 421 OPTATIVA I 2 1 2 0 0
+31405 INF 422 MODELOS Y SIMULACION 3 2 0 0 2 FUNDAMENTAL 31388 MAT 313 10140 24 02 01 0001
+31406 INF 423 BASE DE DATOS II 3 2 0 0 3 FUNDAMENTAL 31399 INF 412
+31407 NF 424 OPTATIVA II 2 1 2 0 0 31416 INF 516
+31408 LEC 425 TLEINFORMATICA II 7 3 0 0 2 FUNDAMENTAL 31403 LEC 416 10138 24 02 01 0001
+31409 INF 426 METODOLOGIA DE LA INVESTIGACION 3 2 2 0 0 FUNDAMENTAL 31385 EST 226 10139 24 02 01 0001
+
+QUINTO AÑO VERANO
+
+
+
+U N I V E R S I D A D     D E     P A N A M Á
+Fecha: 31-OCT-25 08:07 AM
+
+RECTORÍA Pagina 4 de 4
+
+DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN 
+
+PLANES  DE  ESTUDIO rplanes3.rdf
+
+     Facultad: 24 INFORMATICA ELECTRONICA Y COMUNIC.
+     Escuela : 02 INGENIERIA EN INFORMATICA
+     Carrera : 01 LIC. DE INGENIERIA EN INFORMATICA
+
+  Código del Plan: 0002 No_Acuerdo: 1-23 Fecha Creación : 10-FEB-2023
+
+Fecha de Aprobación: 05/01/2023 Fecha Caduca   :
+
+Descripción : LICENCIATURA EN INGENIERIA EN INFORMATICA
+Título      : LICENCIADA/LICENCIADO EN INGENIERÍA EN INFORMÁTICA
+Turno       : Diurno
+
+QUINTO AÑO VERANO
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+22473 NCHI 0002 HISTORIA DE PANAMÁ EN EL MUNDO GLOBAL 2 2 0 0 0 REGULAR
+31410 INF 431 PRACTICA PROFESIONAL 4 3 2 0 0 FUNDAMENTAL 10141 24 02 01 0001
+31411 INF 432 ETICA PROFESIONAL TECNOLOGIA DE LA INFORMACIO 2 1 2 0 0 10147 24 02 01 0001
+
+QUINTO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31412 INF 511 DISEÑO DE COMPILADORES 4 3 0 0 3 FUNDAMENTAL 31392 LEC 321 10142 24 02 01 0001
+31413 INF 512 INGENIERIA DE SOFWARE I 4 3 0 0 2 FUNDAMENTAL 31394 INF 323 10143 24 02 01 0001
+31414 INF 513 EVALUACION Y AUDITORIA DE SISTEMAS 3 2 2 0 0 FUNDAMENTAL 31394 INF 323 10145 24 02 01 0001
+31415 INF 514 INTELIGENCIA ARTIFICIAL 4 3 0 0 2 FUNDAMENTAL 31387 INF 312 10144 24 02 01 0001
+31416 INF 516 OPTATIVA III 3 3 0 0 0
+31417 INF 517 ADM. DE CENTROS DE INFORMACION 3 3 0 0 0 FUNDAMENTAL 31389 ECO 314 10133 24 02 01 0001
+31418 INF 515 TRABAJO DE GRADUACION 3 3 0 0 0 FUNDAMENTAL 10146 24 02 01 0001
+
+QUINTO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+31419 INF 521 INGENIERIA DE SOFWARE II 4 3 0 0 2 FUNDAMENTAL 31413 INF 512 10148 24 02 01 0001
+31420 INF 522 OPTATIVA IV 2 1 2 0 0 OPTATIVA 31399 INF 412
+31421 INF 523 PROTECCIÓN DE INFORMACIÓN 3 2 2 0 0 FUNDAMENTAL 31408 LEC 425 10151 24 02 01 0001
+31422 INF 524 SISTEMAS EXPERTOS 3 5 0 0 2 FUNDAMENTAL 31415 INF 514 10149 24 02 01 0001
+31423 INF 526 COMPUTABILIDAD Y COMPLEJIDAD DE ALGORITMO 4 3 0 0 2 FUNDAMENTAL 31393 INF 322 10150 24 02 01 0001
+31424 INF 527 GERENCIA DE PROYECTO EN INFORMÁTICA 2 1 2 0 0 FUNDAMENTAL 31417 INF 517
+31425 INF 525 TRABAJO DE GRACUADUACIÓN 3 3 0 0 0 FUNDAMENTAL 31418 INF 515 10152 24 02 01 0001

@@ -1,0 +1,160 @@
+﻿Fecha: 22/10/2020 Pagina 1 de 3
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 14 FARMACIA
+     Escuela : 01 FARMACIA.
+     Carrera : 03 TECNICO EN FARMACIA
+
+  Código del Plan: 0001 No_Acuerdo: 16-08 Fecha Creación : 30-JAN-2008
+
+Fecha de Aprobación: 19/03/2008 Fecha Caduca   :
+
+Descripción : TECNICO EN FARMACIA
+Título      : TECNICA/TECNICO EN FARMACIA
+Turno       : Diurno
+
+PRIMER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+15075 ING 120 INGLES CIENTIFICO 3 3 0 0 0 REGULAR 22475 14 01 01 0002
+19132 MAT 100 MATEMATICA 3 2 2 0 REGULAR 22486 14 01 01 0002
+
+01434 14 01 01 0001
+25418 14 01 01 0002
+
+19134 ESP 107A REDACCION Y EXPRESION ORAL 3 2 2 0 REGULAR 22472 14 01 01 0002
+19135 QM 100 QUIMICA GENERAL 4 3 0 3 REGULAR 25930 14 01 01 0002
+
+02021 14 01 01 0001
+19136 BIO 100 PRINCIPIO DE BIOLOGIA 4 3 0 3 REGULAR 22496 14 01 01 0002
+
+23629 14 01 01 0002
+
+PRIMER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+19133 GEO 100 GEOGRAFIA DE PANAMA 2 2 0 0 REGULAR 22474 14 01 01 0002
+19138 HIS 100 HISTORIA GENERAL DE PANAMA 3 3 0 0 REGULAR 22473 14 01 01 0002
+19139 INF 100 INFORMATICA APLICADA 3 1 0 4 REGULAR 22476 14 01 01 0002
+19167 ZOO 200 PRINCIPIOS DE ANATOMIA Y FISIOLOGIA HUMANA 4 3 0 3 REGULAR 19136 BIO 100 23632 14 01 01 0002
+19170 QM 200 FUNDAMENTOS DE QUIMICA ORGANICA 4 3 0 3 REGULAR 19135 QM 100 23620 14 01 01 0002
+
+25931 14 01 01 0002
+
+SEGUNDO AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+19137 FAR.T100 CALCULO FARMACEUTICO 3 3 0 0 FUNDAMENTAL 23624 14 01 01 0002
+19140 FAR.T210 TERMINOLOGIA MEDICA EN FARMACIA 2 2 0 0 FUNDAMENTAL 23631 14 01 01 0002
+19166 FAR.T110 TECNICAS FARMACEUTICAS DE PREPARACION 2 1 0 3 FUNDAMENTAL 19132 MAT 100 23627 14 01 01 0002
+19168 FAR.T120 BUENAS PRACTICAS DE PREPARACION EN LA OFICINA 2 1 2 0 FUNDAMENTAL 23621 14 01 01 0002
+19169 FAR.T240 ATENCION PRIMARIA EN SALUD 4 3 3 0 0 FUNDAMENTAL 23638 14 01 01 0002
+
+
+
+Fecha: 22/10/2020 Pagina 2 de 3
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 14 FARMACIA
+     Escuela : 01 FARMACIA.
+     Carrera : 03 TECNICO EN FARMACIA
+
+  Código del Plan: 0001 No_Acuerdo: 16-08 Fecha Creación : 30-JAN-2008
+
+Fecha de Aprobación: 19/03/2008 Fecha Caduca   :
+
+Descripción : TECNICO EN FARMACIA
+Título      : TECNICA/TECNICO EN FARMACIA
+Turno       : Diurno
+
+SEGUNDO AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+09302 PSI 100 PSICOLOGIA Y RELACIONES HUMANAS 3 3 0 0 0 REGULAR 19134 ESP 107A 22495 14 01 01 0002
+19141 FAR.T280 PRINCIPIO DE FARMACOLOGIA I 4 3 0 3 FUNDAMENTAL 19167 ZOO 200 23636 14 01 01 0002
+
+19170 QM 200
+19142 FAR.T270 FUNDAMENTOS DE FISICO-FARMACIA 2 1 0 3 FUNDAMENTAL 19170 QM 200 23641 14 01 01 0002
+19143 FAR.T250 FARMACOGNOSIA Y FITOTERAPIA 3 3 0 0 FUNDAMENTAL 19170 QM 200 23628 14 01 01 0002
+
+23633 14 01 01 0002
+19144 FAR.T300 LEGISLACION Y ETICA FARMACEUTICA PARA TECNICO 1 1 0 0 FUNDAMENTAL 19137 FAR.T 100 23626 14 01 01 0002
+19159 FAR 320 FARMACIA COMUNITARIA 4 3 0 3 FUNDAMENTAL 19169 FAR.T 240 23623 14 01 01 0002
+
+23657 14 01 01 0002
+23626 14 01 01 0002
+
+TERCER AÑO PRIMER SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+19160 FAR.T380 FORMAS FARMACEUTICAS DE DOSIFICACION 4 3 0 3 FUNDAMENTAL 19142 FAR.T 270 23637 14 01 01 0002
+19166 FAR.T 110
+19168 FAR.T 120
+
+19161 FAR.T420 PRINCIPIO DE FARMACOLOGIA II 4 3 0 3 FUNDAMENTAL 19141 FAR.T 280 23643 14 01 01 0002
+19162 FAR.T440 FARMACIA HOSPITALARIA PARA TECNICOS 3 1 0 4 FUNDAMENTAL 19159 FAR 320 23661 14 01 01 0002
+19163 FAR.T400 TOXICOLOGIA BASICA 3 3 0 0 FUNDAMENTAL 19141 FAR.T 280 23645 14 01 01 0002
+
+23658 14 01 01 0002
+19164 FAR 410 PRINCIPIOS DE ORGANIZACION FARMACEUTICA 3 3 0 0 FUNDAMENTAL 09302 PSI 100 23626 14 01 01 0002
+
+19139 INF 100 23659 14 01 01 0002
+19144 FAR.T 300
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+19165 FAR.T500 PRACTICA PROFESIONAL 15 1 40 0 0 FUNDAMENTAL 15075 ING 120 23673 14 01 01 0002
+
+
+
+Fecha: 22/10/2020 Pagina 3 de 3
+U N I V E R S I D A D     D E     P A N A M Á
+
+DIRECCIÓN DE INFORMÁTICA rplanes3.rdf
+
+PLANES  DE  ESTUDIO 
+     Facultad: 14 FARMACIA
+     Escuela : 01 FARMACIA.
+     Carrera : 03 TECNICO EN FARMACIA
+
+  Código del Plan: 0001 No_Acuerdo: 16-08 Fecha Creación : 30-JAN-2008
+
+Fecha de Aprobación: 19/03/2008 Fecha Caduca   :
+
+Descripción : TECNICO EN FARMACIA
+Título      : TECNICA/TECNICO EN FARMACIA
+Turno       : Diurno
+
+TERCER AÑO SEGUNDO SEMESTRE
+
+                                                                        ------ H  O  R  A  S -------  Asignatura Equivalente
+
+Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria        Estatus      Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
+
+27405 HIST 165 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL
+27407 HIST 166 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 FUNDAMENTAL

@@ -1,5 +1,5 @@
 ﻿U N I V E R S I D A D     D E     P A N A M Á
-Fecha: 08-MAY-24 11:14 AM
+Fecha: 21-OCT-25 02:36 PM
 
 RECTORÍA Pagina 1 de 4
 
@@ -25,8 +25,8 @@ PRIMER AÑO PRIMER SEMESTRE
 
 Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
 
-22472 NCES 0001 LENGUAJE Y COMUNICACION EN ESPAÑOL 2 1 2 0 0 REGULAR 21315 11 01 01 0007
-22475 NCIN 0004 LENGUAJE Y COMUNICACION EN INGLÉS 2 1 2 0 0 REGULAR 21316 11 01 01 0007
+22472 NCES 0001 LENGUAJE Y COMUNICACIÓN EN ESPAÑOL 2 1 2 0 0 REGULAR 21315 11 01 01 0007
+22475 NCI 0004 LENGUAJE Y COMUNICACIÓN EN INGLÉS 2 1 2 0 0 REGULAR 21316 11 01 01 0007
 27406 RI 160 HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 3 3 0 0 0 REGULAR
 31742 AE 101 ADMINISTRACION I 3 2 2 0 0 REGULAR 13755 11 01 01 0007
 31743 CON 102 CONTABILIDAD I 3 2 2 0 0 FUNDAMENTAL 13756 11 01 01 0007
@@ -63,7 +63,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 U N I V E R S I D A D     D E     P A N A M Á
-Fecha: 08-MAY-24 11:14 AM
+Fecha: 21-OCT-25 02:36 PM
 
 RECTORÍA Pagina 2 de 4
 
@@ -90,6 +90,7 @@ SEGUNDO AÑO PRIMER SEMESTRE
 Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
 
 31756 CON 206 MET DE EST E INV CONTABLE I 3 3 0 0 0 REGULAR 13772 11 01 01 0007
+31764 CON 301 CONTABILIDAD DE COSTO I 3 2 2 0 0 FUNDAMENTAL 31757 CON 251 21328 11 01 01 0007
 
 SEGUNDO AÑO SEGUNDO SEMESTRE
 
@@ -112,7 +113,6 @@ TERCER AÑO PRIMER SEMESTRE
 Asig.  AbrevNum   Nombre                                    cred      Teo. Prac   Clin  Lab.  TipoMateria       Prerre   Abrev     Num.   Cod.Equiv. FacE EscE CarE PlanE  
 
 31763 CON 300 CONTABILIDAD V 3 2 2 0 0 FUNDAMENTAL 31757 CON 251 21321 11 01 01 0007
-31764 CON 301 CONTABILIDAD DE COSTO I 3 2 2 0 0 FUNDAMENTAL 31757 CON 251 21328 11 01 01 0007
 31765 CON 302 CONTABILIDAD TRIBUTARIA I 3 2 2 0 0 FUNDAMENTAL 31757 CON 251 13781 11 01 01 0007
 31766 CON 305 NORMAS INT DE INF. FINANCIERA PARA PYMES 3 2 2 0 0 FUNDAMENTAL 31751 CON 201
 31767 DER 313 DERECHO COMERCIAL Y FISCAL 3 2 2 0 0 REGULAR 23582 11 01 01 0007
@@ -130,7 +130,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 U N I V E R S I D A D     D E     P A N A M Á
-Fecha: 08-MAY-24 11:14 AM
+Fecha: 21-OCT-25 02:36 PM
 
 RECTORÍA Pagina 3 de 4
 
@@ -194,7 +194,7 @@ Asig.  AbrevNum   Nombre                                    cred      Teo. Prac 
 
 
 U N I V E R S I D A D     D E     P A N A M Á
-Fecha: 08-MAY-24 11:14 AM
+Fecha: 21-OCT-25 02:36 PM
 
 RECTORÍA Pagina 4 de 4
 

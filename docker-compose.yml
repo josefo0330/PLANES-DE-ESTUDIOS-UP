@@ -14,7 +14,6 @@ services:
     environment:
       - NODE_ENV=development
   nginx-node-serve:
-    container_name: nginx-node-serve
     restart: always
     build:
       context: .

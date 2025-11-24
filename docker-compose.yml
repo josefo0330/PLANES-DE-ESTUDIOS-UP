@@ -2,7 +2,9 @@ version: "3.9"
 
 services:
   app:
-    build: .
+    build: 
+      context: .
+      dockerfile: Dockerfile
     command: npm run dev
     ports:
       - "3001"
@@ -11,3 +13,11 @@ services:
       - /usr/src/app/node_modules
     environment:
       - NODE_ENV=development
+  nginx-node-serve:
+    container_name: nginx-node-serve
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile.nginx
+    ports:
+      - '80'

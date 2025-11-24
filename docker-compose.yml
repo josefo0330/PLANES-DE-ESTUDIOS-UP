@@ -13,10 +13,12 @@ services:
       - /usr/src/app/node_modules
     environment:
       - NODE_ENV=development
-  nginx-node-serve:
+  nginx-node:
     restart: always
     build:
       context: .
       dockerfile: Dockerfile.nginx
     ports:
-      - '80'
+      - "80:80"
+    depends_on:
+      - app

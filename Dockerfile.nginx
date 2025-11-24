@@ -5,4 +5,3 @@ FROM nginx:stable-alpine
 RUN apk add --no-cache bash
 
 # Copiar tu configuración personalizada de Nginx
-COPY default.conf /etc/nginx/conf.d/default.conf

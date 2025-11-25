@@ -13,8 +13,6 @@ services:
       - /usr/src/app/node_modules
     environment:
       - NODE_ENV=production
-    networks:
-      - dokploy-network
   nginx-node:
     restart: always
     build:
@@ -22,8 +20,6 @@ services:
       dockerfile: Dockerfile.nginx
     ports:
       - "80"
-    networks:
-      - dokploy-network
     depends_on:
       - app
     volumes:

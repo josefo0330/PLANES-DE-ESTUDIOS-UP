@@ -21,7 +21,7 @@ services:
       context: .
       dockerfile: Dockerfile.nginx
     ports:
-      - "80"
+      - "81"
     networks:
       - dokploy-network
     depends_on:

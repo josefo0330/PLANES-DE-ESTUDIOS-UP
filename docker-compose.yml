@@ -12,13 +12,17 @@ services:
       - .:/usr/src/app
       - /usr/src/app/node_modules
     environment:
-      - NODE_ENV=development
+      - NODE_ENV=production
+    networks:
+      - dokploy-network
   nginx-node:
     restart: always
     build:
       context: .
       dockerfile: Dockerfile.nginx
     ports:
-      - "81:81"
+      - "80"
+    networks:
+      - dokploy-network
     depends_on:
       - app

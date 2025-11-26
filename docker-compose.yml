@@ -24,6 +24,10 @@ services:
       - "80"
     depends_on:
       - app
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.jmapp.rule=Host(jm-app.softapp.ch)
+      - traefik.http.services.jmapp.loadbalancer.server.port=80
     networks:
       - dokploy-network
     volumes:

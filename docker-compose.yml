@@ -2,6 +2,7 @@ version: "3.9"
 
 services:
   app:
+    container_name: app
     restart: always
     build: 
       context: .
@@ -16,6 +17,7 @@ services:
     environment:
       - NODE_ENV=production
   nginx-node:
+    container_name: nginx-node
     restart: always
     build:
       context: .

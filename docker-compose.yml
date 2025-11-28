@@ -7,8 +7,8 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
-    ports:
-      - "3001:3001"
+    expose:
+      - "3000"
     networks:
       - dokploy-network
     environment:
@@ -20,12 +20,12 @@ services:
       context: .
       dockerfile: Dockerfile.nginx
     ports:
-      - "81:81"
+      - "80"
     depends_on:
       - app
     labels:
       - traefik.enable=true
-      - traefik.http.routers.jmapp.rule=Host(jm-app.softapp.ch)
+      - traefik.http.routers.jmapp.rule=Host(`jm-app.softapp.ch`)
       - traefik.http.services.jmapp.loadbalancer.server.port=81
     networks:
       - dokploy-network

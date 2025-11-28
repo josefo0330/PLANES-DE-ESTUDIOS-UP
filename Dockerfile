@@ -6,6 +6,6 @@ COPY package*.json ./
 RUN npm install --production
 COPY . .
 
-EXPOSE 3001
+EXPOSE 3000
 
 CMD ["node", "src"]

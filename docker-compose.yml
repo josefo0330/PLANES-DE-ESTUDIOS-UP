@@ -11,9 +11,6 @@ services:
       - "3001:3001"
     networks:
       - dokploy-network
-    volumes:
-      - .:/usr/src/app
-      - /usr/src/app/node_modules
     environment:
       - NODE_ENV=production
   nginx-node:

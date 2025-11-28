@@ -20,7 +20,7 @@ services:
       context: .
       dockerfile: Dockerfile.nginx
     ports:
-      - "81:81"
+      - "81:80"
     depends_on:
       - app
     labels:

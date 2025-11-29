@@ -28,9 +28,14 @@ app.use( '/api/products', require(path.join(__dirname,'router/ajax.js')))
 //arrancando el servidor con node js
 //archivos estaticos
 app.use(express.static(path.join(__dirname,'public')))
-app.listen(app.get('port'),()=>{
-    console.log("server work, port:",app.get('port'));
+const port = 3000;
+
+app.listen(port, "0.0.0.0", () => {
+  console.log(`Servidor corriendo en el puerto ${port}`);
 });
+/*app.listen(app.get('port'),()=>{
+    console.log("server work, port:",app.get('port'));
+});*/
  //lectura de pdf
 
 

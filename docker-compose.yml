@@ -7,7 +7,7 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
-    port:
+    expose:
       - "3000:3000"
     networks:
       - dokploy-network

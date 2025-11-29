@@ -1,8 +1,18 @@
-# Dockerfile.nginx
+# Imagen ligera de nginx
 FROM nginx:stable-alpine
 
-# Instalar bash
-RUN apk add --no-cache bash
+# Eliminar configuración por defecto que trae nginx
+RUN rm -rf /etc/nginx/conf.d/*
 
-# Copiar tu configuración personalizada de Nginx
+# Copiar tu configuración personalizada
 COPY default.conf /etc/nginx/conf.d/default.conf
+
+# Opcional: activar gzip (mejora rendimiento)
+RUN echo "gzip on;" >> /etc/nginx/nginx.conf && \
+    echo "gzip_types text/plain text/css application/json application/javascript application/x-javascript text/xml application/xml application/xml+rss application/font-woff2;" >> /etc/nginx/nginx.conf
+
+# Exponer puerto 80
+EXPOSE 80
+
+# Iniciar nginx en primer plano (requerido en Docker)
+CMD ["nginx", "-g", "daemon off;"]

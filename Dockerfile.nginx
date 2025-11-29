@@ -12,7 +12,7 @@ RUN echo "gzip on;" >> /etc/nginx/nginx.conf && \
     echo "gzip_types text/plain text/css application/json application/javascript application/x-javascript text/xml application/xml application/xml+rss application/font-woff2;" >> /etc/nginx/nginx.conf
 
 # Exponer puerto 80
-EXPOSE 80
+EXPOSE 3000
 
 # Iniciar nginx en primer plano (requerido en Docker)
 CMD ["nginx", "-g", "daemon off;"]

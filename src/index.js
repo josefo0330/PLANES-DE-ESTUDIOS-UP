@@ -28,7 +28,7 @@ app.use( '/api/products', require(path.join(__dirname,'router/ajax.js')))
 //arrancando el servidor con node js
 //archivos estaticos
 app.use(express.static(path.join(__dirname,'public')))
-const port = 3000;
+const port = 3001;
 
 app.listen(port, "0.0.0.0", () => {
   console.log(`Servidor corriendo en el puerto ${port}`);

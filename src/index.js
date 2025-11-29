@@ -30,7 +30,7 @@ app.use( '/api/products', require(path.join(__dirname,'router/ajax.js')))
 app.use(express.static(path.join(__dirname,'public')))
 const port = 3001;
 
-app.listen(port, "0.0.0.0", () => {
+app.listen(port, "10.0.1.114", () => {
   console.log(`Servidor corriendo en el puerto ${port}`);
 });
 /*app.listen(app.get('port'),()=>{

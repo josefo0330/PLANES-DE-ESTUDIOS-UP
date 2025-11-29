@@ -19,8 +19,6 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.nginx
-    expose:
-      - "80"
     depends_on:
       - app
     labels:

@@ -17,7 +17,6 @@
   }
 })();
 
-module.exports = conexion;
 
 module.exports = conexion;/*
 conexion.connect(function(err) {

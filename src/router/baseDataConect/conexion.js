@@ -1,23 +1,26 @@
-var mysql = require('mysql');
-require('dotenv').config()
-/*var conexion = mysql.createConnection({
-    host: 'localhost',
-    database:"cruv",//'if0_36456925_cruv',
-    user:'root',
-    password:''
+const mariadb = require('mariadb');
+
+const conexion = mariadb.createPool({
+  host: process.env.DB_HOST || 'db-up-app',
+  user: process.env.DB_USER || 'root',
+  password: process.env.DB_PASSWORD || 'UwQLSRFiJORf24CmY3Mx',
+  database: process.env.DB_DATABASE || 'cruv',
+  port: process.env.DB_PORT || 3306,
+  connectionLimit: 5,
+  multipleStatements: false
 });
-var conexion = mysql.createConnection({
-    host: process.env.host,
-    database:process.env.database,//'if0_36456925_cruv',
-    user:process.env.user,
-    password: process.env.password
-});*/
-var conexion = mysql.createConnection({
-    host: 'btiaphkz1zqolfvrqhg4-mysql.services.clever-cloud.com',
-    database:"btiaphkz1zqolfvrqhg4",//'if0_36456925_cruv',
-    user:'uxf3zc6yzkruyzpu',
-    password:'UwQLSRFiJORf24CmY3Mx'
-})/*
+
+(async () => {
+  try {
+    const conn = await conexion.getConnection();
+    console.log("🔥 Conectado a MariaDB correctamente");
+    conn.release();
+  } catch (err) {
+    console.error("❌ Error al conectar a MariaDB:", err);
+  }
+})();
+
+module.exports = conexion;/*
 conexion.connect(function(err) {
   if (err) throw err;
   console.log("Connected!");
@@ -67,7 +70,7 @@ conexion.connect(function(err) {
     if (err) throw err;
     console.log("Number of records inserted: " + result.affectedRows);
   });
-});*/    
+});   
 
 conexion.connect(function(error){
     if(error)
@@ -76,4 +79,4 @@ conexion.connect(function(error){
         console.log('conexion exitosa ');
     }
 });
-module.exports = conexion;
+module.exports = conexion;*/ 

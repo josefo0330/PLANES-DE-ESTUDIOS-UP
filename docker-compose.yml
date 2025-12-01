@@ -19,7 +19,7 @@ services:
       - db-up:/var/lib/mysql
   phpmyadmin-up-app:
     image: phpmyadmin/phpmyadmin:5.2.1
-    container_name: phpmyadmin-up-app
+    container_name: phpmyadmin-up-appl
     restart: always
     ports:
       - '8080'

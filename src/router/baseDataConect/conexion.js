@@ -7,16 +7,6 @@
         password:'UwQLSRFiJORf24CmY3Mx'         // Unlimited queue for waiting connections
     });
 
-(async () => {
-  try {
-    const conn = await conexion.getConnection();
-    console.log("🔥 Conectado  correctamente a la base de datos");
-    conn.release();
-  } catch (err) {
-    console.error("❌ Error al conectar a la base de datos:", err);
-  }
-})();
-
 
 module.exports = conexion;/*
 conexion.connect(function(err) {

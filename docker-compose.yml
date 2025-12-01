@@ -26,11 +26,11 @@ services:
     networks:
       - dokploy-network
     environment:
-      PMA_HOST: db-up-appl
+      PMA_HOST: db-up-app
       PMA_PORT: 3306
       MYSQL_ROOT_PASSWORD: 1234
     links:
-      - db-up-appl
+      - db-up-app
     #labels:
     #  - traefik.enable=true
     #  - traefik.http.routers.phpmyadmin.rule=Host(`exress-phpmyadmin.softapp.ch`)

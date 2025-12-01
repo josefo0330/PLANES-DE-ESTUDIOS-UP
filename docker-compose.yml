@@ -35,63 +35,22 @@ services:
     #  - traefik.enable=true
     #  - traefik.http.routers.phpmyadmin.rule=Host(`exress-phpmyadmin.softapp.ch`)
     #  - traefik.http.services.phpmyadmin.loadbalancer.server.port=80
-  appjm:
-    container_name: appjm
-    restart: always
-    build: 
-      context: .
-      dockerfile: Dockerfile
-    ports:
-      - "3000"
-    networks:
-      - dokploy-network
-    environment:
-      - NODE_ENV=production
-  nginx-nodejm:
-    container_name: nginx-nodejm
+  nginx-node:
+    container_name: nginx-node
     restart: always
     build:
       context: .
       dockerfile: Dockerfile.nginx
-    ports:
-      - '80'
     depends_on:
-      - appjm
+      - app
     labels:
       - traefik.enable=true
-      - traefik.http.routers.appjm.rule=Host(`jm-app-admin-db.softapp.ch`)
-      - traefik.http.services.appjm.loadbalancer.server.port=80
+      - traefik.http.routers.jmapp.rule=Host(`jm-app.softapp.ch`)
+      - traefik.http.services.jmapp.loadbalancer.server.port=80
     networks:
       - dokploy-network
     volumes:
       - ./default.conf:/etc/nginx/conf.d/default.conf
-
-volumes:
-  db-up:
-
 networks:
   dokploy-network:
     external: true
-
-#
-# add in advance
-# compose -p symfonydocker-web-o4uslg -f ./docker-compose.yml up -d --build --force-recreate --remove-orphans
-#
-# Crea la red
-# docker network create dokploy-network
-# 
-# RUN
-# docker compose up -d --build
-# docker compose up -d --build --force-recreate --remove-orphans
-# docker-compose build
-# docker-compose up -d
-# STOP
-# docker-compose down
-#
-#
-# entrar al contenedor de php para instalar paquetes
-# docker exec -it node-socket-app bash 
-#
-#docker compose build --no-cache
-#docker compose up -d
-#docker compose up -d --build --no-cache

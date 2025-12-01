@@ -1,40 +1,6 @@
-
+version: "3.9"
 
 services:
-  db-up-app:
-    image: mariadb:10.11.10
-    container_name: db-up-appl
-    restart: always
-    #ports:
-    #  - '3306:3306'
-    networks:
-      - dokploy-network
-    environment:
-      MYSQL_ALLOW_EMPTY_PASSWORD: yes
-      MYSQL_ROOT_PASSWORD: UwQLSRFiJORf24CmY3Mx
-      MYSQL_DATABASE: cruv
-      MYSQL_USER: root
-      MYSQL_PASSWORD: UwQLSRFiJORf24CmY3Mx
-    volumes:
-      - db-up:/var/lib/mysql
-  phpmyadmin-up-app:
-    image: phpmyadmin/phpmyadmin:5.2.1
-    container_name: phpmyadmin-up-appl
-    restart: always
-    ports:
-      - '8080'
-    networks:
-      - dokploy-network
-    environment:
-      PMA_HOST: db-up-app
-      PMA_PORT: 3306
-      MYSQL_ROOT_PASSWORD: 1234
-    links:
-      - db-up-app
-    #labels:
-    #  - traefik.enable=true
-    #  - traefik.http.routers.phpmyadmin.rule=Host(`exress-phpmyadmin.softapp.ch`)
-    #  - traefik.http.services.phpmyadmin.loadbalancer.server.port=80
   app:
     container_name: app
     restart: always
@@ -63,8 +29,6 @@ services:
       - dokploy-network
     volumes:
       - ./default.conf:/etc/nginx/conf.d/default.conf
-volumes:
-  db-up:
 networks:
   dokploy-network:
     external: true

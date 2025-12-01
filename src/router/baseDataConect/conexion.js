@@ -1,8 +1,8 @@
 const mariadb = require('mariadb');
 
 const conexion = mariadb.createPool({
-  host: process.env.DB_HOST || 'db-up-app',
-  user: process.env.DB_USER || 'root',
+  host: process.env.DB_HOST || 'btiaphkz1zqolfvrqhg4-mysql.services.clever-cloud.com',
+  user: process.env.DB_USER || 'uxf3zc6yzkruyzpu',
   password: process.env.DB_PASSWORD || 'UwQLSRFiJORf24CmY3Mx',
   database: process.env.DB_DATABASE || 'cruv',
   port: process.env.DB_PORT || 3306,

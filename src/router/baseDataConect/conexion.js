@@ -1,22 +1,19 @@
-const mariadb = require('mariadb');
+  const mysql = require('mysql2/promise');
 
-const conexion = mariadb.createPool({
-  host: process.env.DB_HOST || 'btiaphkz1zqolfvrqhg4-mysql.services.clever-cloud.com',
-  user: process.env.DB_USER || 'uxf3zc6yzkruyzpu',
-  password: process.env.DB_PASSWORD || 'UwQLSRFiJORf24CmY3Mx',
-  database: process.env.DB_DATABASE || 'cruv',
-  port: process.env.DB_PORT || 3306,
-  connectionLimit: 5,
-  multipleStatements: false
-});
+   const pool = mysql.createPool({
+        host: 'btiaphkz1zqolfvrqhg4-mysql.services.clever-cloud.com',
+        database:"btiaphkz1zqolfvrqhg4",//'if0_36456925_cruv',
+        user:'uxf3zc6yzkruyzpu',
+        password:'UwQLSRFiJORf24CmY3Mx'         // Unlimited queue for waiting connections
+    });
 
 (async () => {
   try {
     const conn = await conexion.getConnection();
-    console.log("🔥 Conectado a MariaDB correctamente");
+    console.log("🔥 Conectado  correctamente a la base de datos");
     conn.release();
   } catch (err) {
-    console.error("❌ Error al conectar a MariaDB:", err);
+    console.error("❌ Error al conectar a la base de datos:", err);
   }
 })();
 

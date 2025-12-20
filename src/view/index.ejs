@@ -3,17 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <link rel="stylesheet" href="css/tabla.css">
+    <link rel="stylesheet" href="css/snow.css"
     <%- include('partial/head.html'); -%>
 </head>
 <body>
+    
     <style>
         body {
               position: relative;
   min-height: 100vh;
-background: #80cf74;
+  background: #034006;
+background: linear-gradient(90deg, rgba(3, 64, 6, 1) 0%, rgba(13, 77, 21, 1) 54%);
+/*background: #80cf74;
 background: linear-gradient(90deg, rgba(128, 207, 116, 1) 0%, rgba(123, 196, 112, 1) 54%);
-            /*
+            
             background: #4B79A1;  
 background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  
 background: linear-gradient(to right, #283E51, #4B79A1); */
@@ -36,6 +40,7 @@ background: linear-gradient(to right, #283E51, #4B79A1); */
 
 
     </style>
+    <div id="snow">
     <%- include('partial/navigation.html'); -%>
     <div id="contener" align='center'>
         
@@ -69,7 +74,6 @@ background: linear-gradient(to right, #283E51, #4B79A1); */
                 </div>
             </div>
             </div>
- 
         </div>
         <div align="">
 <%- include('partial/footer.html'); -%>
